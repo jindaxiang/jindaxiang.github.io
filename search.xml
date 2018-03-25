@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Markdown:Syntax]]></title>
+    <url>%2F2018%2F03%2F25%2FMarkdown%2F</url>
+    <content type="text"><![CDATA[How to use Markdown in the web]]></content>
+      <categories>
+        <category>Skills</category>
+      </categories>
+      <tags>
+        <tag>Skills</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello Hexo]]></title>
     <url>%2F2018%2F03%2F24%2Fhello_world%2F</url>
     <content type="text"><![CDATA[Hello,This is my first page!!]]></content>
