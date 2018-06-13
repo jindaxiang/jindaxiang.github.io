@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[csvfile]]></title>
+    <url>%2F2018%2F06%2F14%2Fcsv%2F</url>
+    <content type="text"><![CDATA[file]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Python for data analysis(2nd)]]></title>
     <url>%2F2018%2F06%2F14%2Fpandas%2F</url>
     <content type="text"><![CDATA[]]></content>
