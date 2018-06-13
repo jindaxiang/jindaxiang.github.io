@@ -23,20 +23,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Hello Hexo Next]]></title>
-    <url>%2F2018%2F06%2F13%2Fnext_hello%2F</url>
-    <content type="text"><![CDATA[Hello,This is my first page!! no no no]]></content>
-      <categories>
-        <category>Hexo</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Markdown:Syntax]]></title>
+    <title><![CDATA[Record of my blog!]]></title>
     <url>%2F2018%2F03%2F25%2FMarkdown%2F</url>
-    <content type="text"><![CDATA[How to use Markdown in the web]]></content>
+    <content type="text"><![CDATA[This is my first blog article!]]></content>
       <categories>
         <category>Skills</category>
       </categories>
