@@ -23,6 +23,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[python_s1_day01]]></title>
+    <url>%2F2018%2F06%2F14%2Fpython_s1_day01%2F</url>
+    <content type="text"><![CDATA[1234#!/usr/bin/env python # when code in Linux, it will run well# -*- coding:utf8 -*- # when python2 print str out of the range of ascii, then it will use utf8print('Hello World')print('你好，世界')]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Record of my blog!]]></title>
     <url>%2F2018%2F03%2F25%2FMarkdown%2F</url>
     <content type="text"><![CDATA[This is my first blog article!]]></content>
