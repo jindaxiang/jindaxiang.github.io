@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[csvfile]]></title>
-    <url>%2F2018%2F06%2F14%2Fcsv%2F</url>
-    <content type="text"><![CDATA[file]]></content>
-      <categories>
-        <category>Hexo</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Python for data analysis(2nd)]]></title>
-    <url>%2F2018%2F06%2F14%2Fpandas%2F</url>
-    <content type="text"><![CDATA[]]></content>
-      <categories>
-        <category>Hexo</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[python_s1_day01]]></title>
-    <url>%2F2018%2F06%2F14%2Fpython_s1_day01%2F</url>
+    <title><![CDATA[Python_s1_day01_topic_coding]]></title>
+    <url>%2F2018%2F06%2F14%2FPython_s1_day01_topic_coding%2F</url>
     <content type="text"><![CDATA[1234#!/usr/bin/env python # when code in Linux, it will run well# -*- coding:utf8 -*- # when python2 print str out of the range of ascii, then it will use utf8print('Hello World')print('你好，世界')]]></content>
       <categories>
         <category>Python</category>
@@ -34,25 +12,25 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Python for data analysis(2nd)]]></title>
+    <url>%2F2018%2F06%2F13%2Fpython_books_pandas_2_nd%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Books</category>
+      </categories>
+      <tags>
+        <tag>data</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Record of my blog!]]></title>
-    <url>%2F2018%2F03%2F25%2FMarkdown%2F</url>
+    <url>%2F2018%2F03%2F25%2FModel%2F</url>
     <content type="text"><![CDATA[This is my first blog article!]]></content>
       <categories>
         <category>Skills</category>
       </categories>
       <tags>
         <tag>Skills</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello Hexo]]></title>
-    <url>%2F2018%2F03%2F24%2Fhello_world%2F</url>
-    <content type="text"><![CDATA[Hello,This is my first page!!]]></content>
-      <categories>
-        <category>Hexo</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>
