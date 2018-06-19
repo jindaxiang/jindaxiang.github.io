@@ -45,17 +45,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Machine Learning Flash Cards_Extrema!]]></title>
-    <url>%2F2018%2F03%2F25%2FMachine_s1_day01_topic_flash_cards%2F</url>
-    <content type="text"><![CDATA[]]></content>
-      <categories>
-        <category>Machine Learning</category>
-      </categories>
-      <tags>
-        <tag>flash_cards</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Record of my blog!]]></title>
     <url>%2F2018%2F03%2F25%2FModel%2F</url>
     <content type="text"><![CDATA[This is my first blog article!]]></content>
@@ -64,6 +53,17 @@
       </categories>
       <tags>
         <tag>Skills</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Machine Learning Flash Cards_Extrema!]]></title>
+    <url>%2F2018%2F03%2F25%2FMachine_s1_day01_topic_flash_cards%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>flash_cards</tag>
       </tags>
   </entry>
 </search>
