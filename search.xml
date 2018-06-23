@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Win10_s1_day01_topic_skills_remote_connect]]></title>
+    <url>%2F2018%2F06%2F21%2Fwin10_s1_day01_topic_skills_remote_connect%2F</url>
+    <content type="text"><![CDATA[if your computer apper problem, please click this site点击此处if the website can not access! 打开组策略，依次展开“计算机配置”-&gt;“管理模板”-&gt;“系统”-&gt;“凭据分配”，设置名称： “加密 Oracle 修正” 为已启用，并设置保护级别为“易受攻击”]]></content>
+      <categories>
+        <category>Win10</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Win10_s1_day01_topic_skills_sys_update]]></title>
+    <url>%2F2018%2F06%2F21%2Fwin10_s1_day01_topic_skills_sys_update%2F</url>
+    <content type="text"><![CDATA[Attention: if you use win10 home edition please update to win pro edition, then you can use gpedit.msc in cmd commandyou will go to 淘宝, please click the characters!]]></content>
+      <categories>
+        <category>Win10</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Machine Learning Flash Cards_FPR!]]></title>
     <url>%2F2018%2F06%2F21%2FMachine_s1_day01_topic_flash_cards_fpr%2F</url>
     <content type="text"><![CDATA[]]></content>
