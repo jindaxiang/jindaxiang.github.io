@@ -560,8 +560,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2018/06/29/Python_s1_day02_topic_skills_py37_install_scrapy/" rel="next" title="Python_s1_day02_topic_skills_py37_install_scrapy">
-                <i class="fa fa-chevron-left"></i> Python_s1_day02_topic_skills_py37_install_scrapy
+              <a href="/2018/06/29/Python_s1_day02_topic_skills_Set_domestic_source/" rel="next" title="Python_s1_day02_topic_skills_Set_domestic_source">
+                <i class="fa fa-chevron-left"></i> Python_s1_day02_topic_skills_Set_domestic_source
               </a>
             
           </div>
@@ -569,10 +569,6 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
-            
-              <a href="/2018/06/29/Python_s1_day02_topic_skills_Set_domestic_source/" rel="prev" title="Python_s1_day02_topic_skills_Set_domestic_source">
-                Python_s1_day02_topic_skills_Set_domestic_source <i class="fa fa-chevron-right"></i>
-              </a>
             
           </div>
         </div>
@@ -947,6 +943,7 @@
   
    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+   <script src="js/src/md5.min.js"></script>
    <script type="text/javascript">
         var gitalk = new Gitalk({
           clientID: 'abdc9037854525b429c9',
@@ -954,7 +951,7 @@
           repo: 'jindaxiang.github.io',
           owner: 'jindaxiang',
           admin: 'jindaxiang',
-          id: location.pathname,
+          id: md5(location.pathname),
           distractionFreeMode: 'true'
         })
         gitalk.render('gitalk-container')           
