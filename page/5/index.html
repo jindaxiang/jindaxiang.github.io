@@ -738,9 +738,16 @@
       
         
           
-            <p><img src="http://p659fi1z8.bkt.clouddn.com/Extrema_web.png" alt="image"></p>
+          
 
           
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2018/06/19/Machine_s1_day01_topic_flash_cards_extrema/#more" rel="contents">
+              Read more &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>
@@ -928,85 +935,26 @@
       
         
           
-            <h1 id="common-characters"><a href="#common-characters" class="headerlink" title="common characters"></a>common characters</h1><ul>
-<li>[*] 匹配零个或多个字符</li>
-<li>? 匹配任意一个字符</li>
-<li>[0-9] 匹配一个数字范围</li>
-<li>[abc] 匹配列表里的任何字符</li>
-<li>[^abc] 匹配列表以外的字符</li>
-</ul>
-<h1 id="search-command"><a href="#search-command" class="headerlink" title="search command"></a>search command</h1><ul>
-<li>ctrl+r 命令搜索</li>
-</ul>
-<h1 id="su-methods"><a href="#su-methods" class="headerlink" title="su methods"></a>su methods</h1><ul>
-<li>su - 切换为root用户，启用一个全新的终端</li>
-<li>su 仅切换用户身份不切换终端</li>
-<li>id 显示当前用户信息</li>
-<li>passwd 修改当前用户密码</li>
-<li>命令后添加&amp;在后台运行该进程</li>
-<li>ctrl+z暂停某个程序</li>
-<li>jobs显示后台运行的程序</li>
-<li>bg[id]使id指定的程序继续在后台运行</li>
-<li>fg[id]使id指定的程序调回前台工作</li>
-<li>touch 创建一个空白文件或者更新已有文件的时间</li>
-<li>ls -a 显示所有文件</li>
-<li>ls -l 显示详细信息</li>
-<li>ls -R 递归显示子目录结构</li>
-<li>ls -ld 显示目录和连接信息</li>
-<li>file 查看文件的类型</li>
-<li>cd.. 上一个目录</li>
-<li>cd . 当前目录</li>
-<li>cd ~ 用户的家目录</li>
-<li>cd - 上一个工作目录</li>
-<li>cp -r 源文件（文件夹）目标文件（文件夹）递归复制整个目录树</li>
-<li>cp -v 源文件（文件夹） 目标文件（文件夹）显示复制详细信息</li>
-<li>mv 文件 目标目录 移动文件或目录，如果指定文件名，则可以重命名文件</li>
-<li>rm filename 删除文件</li>
-<li>rm -r 删除目录及其中的所有内容</li>
-<li>rm -i 交互式删除</li>
-<li>rm -f 强制删除，没有警告提示</li>
-<li>mkdir 创建一个目录</li>
-<li>rmdir 删除一个空目录</li>
-<li>rm -r 删除一个非空目录</li>
-<li>date 查看、设置当前系统时间</li>
-<li>hwclock(clock) 用以显示硬件时钟时间</li>
-<li>cal 查看日历</li>
-<li>uptime 查看系统运行时间</li>
-<li>echo 显示输入的内容</li>
-<li>cat 显示文件内容</li>
-<li>head 显示文件头几行，默认10行，-n指定显示的行数</li>
-<li>tail 显示文件末尾的几行，默认10行，-n指定显示的行数 -f 追踪显示文件更新</li>
-<li>more 翻页显示文件内容，只能向下翻页</li>
-<li>less 翻页显示文件内容，带上下翻页</li>
-<li>lspci 查看PCI设备，-v查看详细信息</li>
-<li>lsusb 查看USB设备，-v查看详细信息</li>
-<li>lsmod 查看加载的驱动（模块）</li>
-<li>shutdown -h now 立即关机</li>
-<li>shutdown -h +10 10分钟后关机</li>
-<li>shutdown -h 23：00 23：00分关机</li>
-<li>shutdown -r now 立即重启，也可定时关机</li>
-<li>poweroff 立即关机</li>
-<li>reboot 立即重启</li>
-<li>zip *.zip filename 压缩文件</li>
-<li>unzip *.zip 解压缩文件</li>
-<li>gzip filename 压缩文件</li>
-<li>gzip -d *.gz 解压缩文件</li>
-<li>tar -cvf *.tar filename 归档文件，不压缩</li>
-<li>tar -xvf *.tar 释放归档文件</li>
-<li>tar -cvzf *.tar.gz filename -z参数将归档后的归档文件进行gzip压缩</li>
-<li>locate filename 快速查找文件、文件夹，此命令需要预先建立数据库，updatedb命令手工建立、更新数据库</li>
-<li>find 查找位置，查找参数</li>
-<li>find .-name <em>linux</em>查找当前目录下包含linux的文件</li>
-<li>find / -perm 777 查找根目录下权限为777的文件</li>
-<li>find / -type d 查找根目录下类型为目录的文件</li>
-<li>find / -name a* -exec ls -ls {} 查找以a开头的文件并执行ls -l命令，-exec{}; 为固定格式</li>
-<li>vim</li>
-<li>:x 保存并退出</li>
-<li>:!系统命令 执行一个系统命令</li>
-<li>:sh 切换到命令行，使用ctrl+d切换回vim</li>
-</ul>
+          common characters
+[*] 匹配零个或多个字符
+? 匹配任意一个字符
+[0-9] 匹配一个数字范围
+[abc] 匹配列表里的任何字符
+[^abc] 匹配列表以外的字符
 
-          
+search command
+ctrl+r 命令搜索
+
+su methods
+su - 切换为root用户，启用一
+          ...
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2018/06/19/Linux_s1_day01_topic_skills/#more" rel="contents">
+              Read more &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>
