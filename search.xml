@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Python_s1_day02_topic_skills_set_unoffical_source]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_set_unoffical_source%2F</url>
+    <content type="text"><![CDATA[Set Python Unofficial SourceUnofficial Source]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Python_s1_day02_topic_skills_setting]]></title>
     <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_setting%2F</url>
     <content type="text"><![CDATA[Set TUNA source清华 Anaconda 镜像使用帮助 If you use win10, then open the cmd command and input those code to set the TUNA source 123conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/conda config --set show_channel_urls yes If you want to download and install Anaconda 安装包 to choose the latest version in win10]]></content>
