@@ -376,7 +376,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2018/06/29/Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools/">
+    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2018/06/29/Python_s1_day02_topic_skills_Set_domestic_source/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Jack King">
@@ -395,8 +395,8 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/06/29/Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools/" itemprop="url">
-                  Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools
+                <a class="post-title-link" href="/2018/06/29/Python_s1_day02_topic_skills_Set_domestic_source/" itemprop="url">
+                  Python_s1_day02_topic_skills_Set_domestic_source
                 </a>
               
             
@@ -422,7 +422,7 @@
                 
               
 
-              <time title="Created: 2018-06-29 16:20:52 / Modified: 16:42:22" itemprop="dateCreated datePublished" datetime="2018-06-29T16:20:52+08:00">2018-06-29</time>
+              <time title="Created: 2018-06-29 16:20:52 / Modified: 17:47:51" itemprop="dateCreated datePublished" datetime="2018-06-29T16:20:52+08:00">2018-06-29</time>
             
 
             
@@ -454,9 +454,30 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/06/29/Python_s1_day02_topic_skills_Set_domestic_source/#comments" itemprop="discussionUrl">
+                  <span class="post-meta-item-text">Comments: </span> <span class="post-comments-count valine-comment-count" data-xid="/2018/06/29/Python_s1_day02_topic_skills_Set_domestic_source/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
+          
+             <span id="/2018/06/29/Python_s1_day02_topic_skills_Set_domestic_source/" class="leancloud_visitors" data-flag-title="Python_s1_day02_topic_skills_Set_domestic_source">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">Views: </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
           
 
           
@@ -472,7 +493,7 @@
                 
                   <span class="post-meta-item-text">Symbols count in article: </span>
                 
-                <span title="Symbols count in article">51</span>
+                <span title="Symbols count in article">1.1k</span>
               
 
               
@@ -507,13 +528,23 @@
 
       
         
-          
-          Set Python Unofficial SourceVisula C++ Bulid Tools
-
-          
+          <h1 id="Set-Python-default-domestic-source"><a href="#Set-Python-default-domestic-source" class="headerlink" title="Set Python default domestic source"></a>Set Python default domestic source</h1><p>PIP安装源替换成国内镜像，可以大幅提升下载速度，还可以提高安装成功率。<br>If you always install packages from pypi, then you will find that use default source will be very slow!<br>you can use domestic source from the next list:</p>
+<h2 id="Attention-new-version-ubuntu-require-https"><a href="#Attention-new-version-ubuntu-require-https" class="headerlink" title="Attention: new version ubuntu require https!"></a>Attention: new version ubuntu require https!</h2><ul>
+<li>清华：<a href="https://pypi.tuna.tsinghua.edu.cn/simple" target="_blank" rel="noopener">https://pypi.tuna.tsinghua.edu.cn/simple</a></li>
+<li>阿里云：<a href="http://mirrors.aliyun.com/pypi/simple/" target="_blank" rel="noopener">http://mirrors.aliyun.com/pypi/simple/</a></li>
+<li>中国科技大学 <a href="https://pypi.mirrors.ustc.edu.cn/simple/" target="_blank" rel="noopener">https://pypi.mirrors.ustc.edu.cn/simple/</a></li>
+<li>华中理工大学：<a href="http://pypi.hustunique.com/" target="_blank" rel="noopener">http://pypi.hustunique.com/</a></li>
+<li>山东理工大学：<a href="http://pypi.sdutlinux.org/" target="_blank" rel="noopener">http://pypi.sdutlinux.org/</a> </li>
+<li>豆瓣：<a href="http://pypi.douban.com/simple/" target="_blank" rel="noopener">http://pypi.douban.com/simple/</a></li>
+</ul>
+<h1 id="Temporary-use"><a href="#Temporary-use" class="headerlink" title="Temporary use"></a>Temporary use</h1><p>you can add parameters in pip install -i <a href="https://pypi.tuna.tsinghua.edu.cn/simple" target="_blank" rel="noopener">https://pypi.tuna.tsinghua.edu.cn/simple</a></p>
+<p>for example: pip install -i <a href="https://pypi.tuna.tsinghua.edu.cn/simple" target="_blank" rel="noopener">https://pypi.tuna.tsinghua.edu.cn/simple</a> pyspider<br>you will download the pyspider from the TUNA source</p>
+<h1 id="Permanent-change"><a href="#Permanent-change" class="headerlink" title="Permanent change"></a>Permanent change</h1><p>Under the environment of Linux, fix ~/.pip/pip.conf (没有就创建一个文件夹及文件。文件夹要加“.”，表示是隐藏文件夹)</p>
+<p>content as follows：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">[global]</span><br><span class="line">index-url = https://pypi.tuna.tsinghua.edu.cn/simple</span><br><span class="line">[install]</span><br><span class="line">trusted-host=mirrors.aliyun.com</span><br></pre></td></tr></table></figure></p>
+<p>Under the environment of windows, create the dir under the user dir, for example：C:\Users\xx\pip, create pip.ini。content as above.</p>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2018/06/29/Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools/#more" rel="contents">
+            <a class="btn" href="/2018/06/29/Python_s1_day02_topic_skills_Set_domestic_source/#more" rel="contents">
               Read more &raquo;
             </a>
           </div>
@@ -651,9 +682,30 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/06/29/Python_s1_day02_topic_skills_set_unoffical_source/#comments" itemprop="discussionUrl">
+                  <span class="post-meta-item-text">Comments: </span> <span class="post-comments-count valine-comment-count" data-xid="/2018/06/29/Python_s1_day02_topic_skills_set_unoffical_source/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
+          
+             <span id="/2018/06/29/Python_s1_day02_topic_skills_set_unoffical_source/" class="leancloud_visitors" data-flag-title="Python_s1_day02_topic_skills_set_unoffical_source">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">Views: </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
           
 
           
@@ -848,9 +900,30 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/06/29/Python_s1_day02_topic_skills_setting/#comments" itemprop="discussionUrl">
+                  <span class="post-meta-item-text">Comments: </span> <span class="post-comments-count valine-comment-count" data-xid="/2018/06/29/Python_s1_day02_topic_skills_setting/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
+          
+             <span id="/2018/06/29/Python_s1_day02_topic_skills_setting/" class="leancloud_visitors" data-flag-title="Python_s1_day02_topic_skills_setting">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">Views: </span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
           
 
           
@@ -1382,6 +1455,30 @@ If you use win10, then open the cmd command and input those code to set the TUNA
 
 
 
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  
+  
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(function (item) {
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'W5I3aKTtXokStKeTzGQfuLBB-gzGzoHsz',
+        appKey: 'V21pXor8iV8qVF8RdQ9Jf6zg',
+        placeholder: 'Please let me know',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
+
 
 
   
@@ -1711,6 +1808,102 @@ If you use win10, then open the cmd command and input those code to set the TUNA
 
 
   
+
+  
+  <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.4.js"></script>
+  <script>AV.initialize("W5I3aKTtXokStKeTzGQfuLBB-gzGzoHsz", "V21pXor8iV8qVF8RdQ9Jf6zg");</script>
+  <script>
+    function showTime(Counter) {
+      var query = new AV.Query(Counter);
+      var entries = [];
+      var $visitors = $(".leancloud_visitors");
+
+      $visitors.each(function () {
+        entries.push( $(this).attr("id").trim() );
+      });
+
+      query.containedIn('url', entries);
+      query.find()
+        .done(function (results) {
+          var COUNT_CONTAINER_REF = '.leancloud-visitors-count';
+
+          if (results.length === 0) {
+            $visitors.find(COUNT_CONTAINER_REF).text(0);
+            return;
+          }
+
+          for (var i = 0; i < results.length; i++) {
+            var item = results[i];
+            var url = item.get('url');
+            var time = item.get('time');
+            var element = document.getElementById(url);
+
+            $(element).find(COUNT_CONTAINER_REF).text(time);
+          }
+          for(var i = 0; i < entries.length; i++) {
+            var url = entries[i];
+            var element = document.getElementById(url);
+            var countSpan = $(element).find(COUNT_CONTAINER_REF);
+            if( countSpan.text() == '') {
+              countSpan.text(0);
+            }
+          }
+        })
+        .fail(function (object, error) {
+          console.log("Error: " + error.code + " " + error.message);
+        });
+    }
+
+    function addCount(Counter) {
+      var $visitors = $(".leancloud_visitors");
+      var url = $visitors.attr('id').trim();
+      var title = $visitors.attr('data-flag-title').trim();
+      var query = new AV.Query(Counter);
+
+      query.equalTo("url", url);
+      query.find({
+        success: function(results) {
+          if (results.length > 0) {
+            var counter = results[0];
+            counter.fetchWhenSave(true);
+            counter.increment("time");
+            
+            counter.save(null, {
+              success: function(counter) {
+                
+                  var $element = $(document.getElementById(url));
+                  $element.find('.leancloud-visitors-count').text(counter.get('time'));
+                
+              },
+              error: function(counter, error) {
+                console.log('Failed to save Visitor num, with error message: ' + error.message);
+              }
+            });
+          } else {
+            
+              var $element = $(document.getElementById(url));
+              $element.find('.leancloud-visitors-count').text('Counter not initialized! See more at console err msg.');
+              console.error('ATTENTION! LeanCloud counter has security bug, see here how to solve it: https://github.com/theme-next/hexo-leancloud-counter-security. \n But you also can use LeanCloud without security, by set \'security\' option to \'false\'.');
+            
+          }
+        },
+        error: function(error) {
+          console.log('Error:' + error.code + " " + error.message);
+        }
+      });
+    }
+
+    $(function() {
+      var Counter = AV.Object.extend("Counter");
+      if ($('.leancloud_visitors').length == 1) {
+        addCount(Counter);
+      } else if ($('.post-title-link').length > 1) {
+        showTime(Counter);
+      }
+    });
+  </script>
+
+
 
   
 
