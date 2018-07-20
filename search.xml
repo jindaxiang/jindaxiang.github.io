@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Windows_install_for_Dell_Precision_T1700_Wrokstation]]></title>
+    <url>%2F2018%2F07%2F20%2FWindows_install_for_Dell_Precision_T1700_Wrokstation%2F</url>
+    <content type="text"><![CDATA[Install Win10 on the computer Download UltraISO to make image of win10, ==should use modes of USB-HDD==. Set bios to legency and make the boot from the USB first Then install the win10 successfully]]></content>
+      <categories>
+        <category>Windows</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Anaconda_skill_update]]></title>
     <url>%2F2018%2F07%2F19%2FAnaconda_skill_update%2F</url>
     <content type="text"><![CDATA[If you want to update the syper, anaconda, python or conda, you can follow these steps Step one: you should run the cmd command Step two: update conda```13. Step three: ```conda update anaconda Step four: update spyder```15. Step five: ```conda update python]]></content>
@@ -100,17 +111,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_Set_domestic_source]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_Set_domestic_source%2F</url>
-    <content type="text"><![CDATA[Set Python default domestic sourcePIP安装源替换成国内镜像，可以大幅提升下载速度，还可以提高安装成功率。If you always install packages from pypi, then you will find that use default source will be very slow!you can use domestic source from the next list: Attention: new version ubuntu require https! 清华：https://pypi.tuna.tsinghua.edu.cn/simple 阿里云：http://mirrors.aliyun.com/pypi/simple/ 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 华中理工大学：http://pypi.hustunique.com/ 山东理工大学：http://pypi.sdutlinux.org/ 豆瓣：http://pypi.douban.com/simple/ Temporary useyou can add parameters in pip install -i https://pypi.tuna.tsinghua.edu.cn/simple for example: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspideryou will download the pyspider from the TUNA source Permanent changeUnder the environment of Linux, fix ~/.pip/pip.conf (没有就创建一个文件夹及文件。文件夹要加“.”，表示是隐藏文件夹) content as follows：1234[global]index-url = https://pypi.tuna.tsinghua.edu.cn/simple[install]trusted-host=mirrors.aliyun.com Under the environment of windows, create the dir under the user dir, for example：C:\Users\xx\pip, create pip.ini。content as above.]]></content>
-      <categories>
-        <category>Python</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
     <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
     <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
@@ -125,6 +125,17 @@
     <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
     <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
     <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python_s1_day02_topic_skills_Set_domestic_source]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_Set_domestic_source%2F</url>
+    <content type="text"><![CDATA[Set Python default domestic sourcePIP安装源替换成国内镜像，可以大幅提升下载速度，还可以提高安装成功率。If you always install packages from pypi, then you will find that use default source will be very slow!you can use domestic source from the next list: Attention: new version ubuntu require https! 清华：https://pypi.tuna.tsinghua.edu.cn/simple 阿里云：http://mirrors.aliyun.com/pypi/simple/ 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 华中理工大学：http://pypi.hustunique.com/ 山东理工大学：http://pypi.sdutlinux.org/ 豆瓣：http://pypi.douban.com/simple/ Temporary useyou can add parameters in pip install -i https://pypi.tuna.tsinghua.edu.cn/simple for example: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspideryou will download the pyspider from the TUNA source Permanent changeUnder the environment of Linux, fix ~/.pip/pip.conf (没有就创建一个文件夹及文件。文件夹要加“.”，表示是隐藏文件夹) content as follows：1234[global]index-url = https://pypi.tuna.tsinghua.edu.cn/simple[install]trusted-host=mirrors.aliyun.com Under the environment of windows, create the dir under the user dir, for example：C:\Users\xx\pip, create pip.ini。content as above.]]></content>
       <categories>
         <category>Python</category>
       </categories>
