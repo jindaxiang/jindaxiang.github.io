@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[LaTex_compile_chinese_CCT_file]]></title>
+    <url>%2F2018%2F07%2F23%2FLaTex_compile_chinese_CCT_file%2F</url>
+    <content type="text"><![CDATA[《系统工程理论与实践》中文论文模板使用CCT&amp;TEX编译总结来看，顺利编译CCT&amp;TEX模板的步骤如下： 下载最新版的CTEX2.9，亲测有效，要下载full版本，不能为了节省磁盘空间下载不完全版本。 使用管理员身份打开WinEdit（无所谓），并打开所要编译的tex文件。 使用CCT&amp;LaTex编译tex文件。 使用ps to pdf将dvi文件转为pdf文件或者用pdflatex编译 如果编译出错，尝试重启计算机。]]></content>
+      <categories>
+        <category>LaTex</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Install_Synology_DS1517+]]></title>
     <url>%2F2018%2F07%2F22%2FInstall_Synology_DS1517%2B%2F</url>
     <content type="text"><![CDATA[Install Synology DS1517+(8GB) Memory four cores five position NAS network storage server(no hard drive bulit in) You can visit the website to get more information for the detailed You should choose five hard storage for the machine You can download the video from video]]></content>
@@ -133,9 +144,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
-    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
+    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
       <categories>
         <category>Python</category>
       </categories>
@@ -144,9 +155,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
-    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
+    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
       <categories>
         <category>Python</category>
       </categories>
