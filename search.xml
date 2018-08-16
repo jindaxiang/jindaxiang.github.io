@@ -12,6 +12,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[OBOR_article_files]]></title>
+    <url>%2F2018%2F08%2F15%2FOBOR_article_files%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+      <tags>
+        <tag>References</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[MathType_word2016_special_character_skills]]></title>
     <url>%2F2018%2F08%2F06%2FMathType_word2016_special_character_skills%2F</url>
     <content type="text"><![CDATA[MathType special character can display in word, but it can not display in pdf(use word save as pdf method)You can see the difference in the above picturesMy computer configuration Name Parameter OS Name Microsoft Windows 10 PRO OS Version 10.0.17134 Build 17134 OFFICE Name Office365(office2016) OFFICE Version 10325.20082 From word From pdf issues: 解决在word中用mathtype编辑的公式转换成pdf时出现错位现象 word里面用mathtype编辑公式转成PDF后出现乱码 使用Mathtype自动编号和自动引用，并且转成pdf之后保持公式编号链接到公式 mathtype公式嵌入word后，转pdf时的公式丢失问题 详解Word文档中常见的MathType公式问题 MathType转换成pdf符号丢失或乱码怎么办, I try this method, but it useless. Our Methods: Download this software, and follow the steps in the blogadobe acrobat pro dc2018破解版 Then open your office2016-word2016(update latest version) You will find plug-in in the front of the word, and you will find this click the create PDF button will solve your problem!]]></content>
@@ -156,9 +167,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
-    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_Set_domestic_source]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_Set_domestic_source%2F</url>
+    <content type="text"><![CDATA[Set Python default domestic sourcePIP安装源替换成国内镜像，可以大幅提升下载速度，还可以提高安装成功率。If you always install packages from pypi, then you will find that use default source will be very slow!you can use domestic source from the next list: Attention: new version ubuntu require https! 清华：https://pypi.tuna.tsinghua.edu.cn/simple 阿里云：http://mirrors.aliyun.com/pypi/simple/ 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 华中理工大学：http://pypi.hustunique.com/ 山东理工大学：http://pypi.sdutlinux.org/ 豆瓣：http://pypi.douban.com/simple/ Temporary useyou can add parameters in pip install -i https://pypi.tuna.tsinghua.edu.cn/simple for example: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspideryou will download the pyspider from the TUNA source Permanent changeUnder the environment of Linux, fix ~/.pip/pip.conf (没有就创建一个文件夹及文件。文件夹要加“.”，表示是隐藏文件夹) content as follows：1234[global]index-url = https://pypi.tuna.tsinghua.edu.cn/simple[install]trusted-host=mirrors.aliyun.com Under the environment of windows, create the dir under the user dir, for example：C:\Users\xx\pip, create pip.ini。content as above.]]></content>
       <categories>
         <category>Python</category>
       </categories>
@@ -178,9 +189,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_Set_domestic_source]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_Set_domestic_source%2F</url>
-    <content type="text"><![CDATA[Set Python default domestic sourcePIP安装源替换成国内镜像，可以大幅提升下载速度，还可以提高安装成功率。If you always install packages from pypi, then you will find that use default source will be very slow!you can use domestic source from the next list: Attention: new version ubuntu require https! 清华：https://pypi.tuna.tsinghua.edu.cn/simple 阿里云：http://mirrors.aliyun.com/pypi/simple/ 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 华中理工大学：http://pypi.hustunique.com/ 山东理工大学：http://pypi.sdutlinux.org/ 豆瓣：http://pypi.douban.com/simple/ Temporary useyou can add parameters in pip install -i https://pypi.tuna.tsinghua.edu.cn/simple for example: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspideryou will download the pyspider from the TUNA source Permanent changeUnder the environment of Linux, fix ~/.pip/pip.conf (没有就创建一个文件夹及文件。文件夹要加“.”，表示是隐藏文件夹) content as follows：1234[global]index-url = https://pypi.tuna.tsinghua.edu.cn/simple[install]trusted-host=mirrors.aliyun.com Under the environment of windows, create the dir under the user dir, for example：C:\Users\xx\pip, create pip.ini。content as above.]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
+    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
       <categories>
         <category>Python</category>
       </categories>
