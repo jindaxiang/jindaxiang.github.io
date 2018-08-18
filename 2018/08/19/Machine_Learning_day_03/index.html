@@ -123,25 +123,25 @@
 
 
 
-  <meta name="description" content="Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import">
+  <meta name="description" content="Multiple Linear RegressionMultiple linear regression attempts to model the relationship between two or more features and a response by fitting a linear equation to observed data. The steps to perform">
 <meta name="keywords" content="Daily">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Machine_Learning_day_one">
-<meta property="og:url" content="http://jindaxiang.github.io/2018/08/16/Machine_Learning_day_one/index.html">
+<meta property="og:title" content="Machine_Learning_day_03">
+<meta property="og:url" content="http://jindaxiang.github.io/2018/08/19/Machine_Learning_day_03/index.html">
 <meta property="og:site_name" content="Data Science">
-<meta property="og:description" content="Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import">
+<meta property="og:description" content="Multiple Linear RegressionMultiple linear regression attempts to model the relationship between two or more features and a response by fitting a linear equation to observed data. The steps to perform">
 <meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2018-08-16T07:22:56.312Z">
+<meta property="og:updated_time" content="2018-08-18T07:37:02.586Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Machine_Learning_day_one">
-<meta name="twitter:description" content="Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import">
+<meta name="twitter:title" content="Machine_Learning_day_03">
+<meta name="twitter:description" content="Multiple Linear RegressionMultiple linear regression attempts to model the relationship between two or more features and a response by fitting a linear equation to observed data. The steps to perform">
 
 
 
 
 
 
-  <link rel="canonical" href="http://jindaxiang.github.io/2018/08/16/Machine_Learning_day_one/"/>
+  <link rel="canonical" href="http://jindaxiang.github.io/2018/08/19/Machine_Learning_day_03/"/>
 
 
 
@@ -151,7 +151,7 @@
   };
 </script>
 
-  <title>Machine_Learning_day_one | Data Science</title>
+  <title>Machine_Learning_day_03 | Data Science</title>
   
 
 
@@ -376,7 +376,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2018/08/16/Machine_Learning_day_one/">
+    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2018/08/19/Machine_Learning_day_03/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Jack King">
@@ -393,7 +393,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">Machine_Learning_day_one
+          <h1 class="post-title" itemprop="name headline">Machine_Learning_day_03
               
             
           </h1>
@@ -418,12 +418,24 @@
                 
               
 
-              <time title="Created: 2018-08-16 09:18:52 / Modified: 15:22:56" itemprop="dateCreated datePublished" datetime="2018-08-16T09:18:52+08:00">2018-08-16</time>
+              <time title="Created: 2018-08-19 09:18:52" itemprop="dateCreated datePublished" datetime="2018-08-19T09:18:52+08:00">2018-08-19</time>
             
 
             
               
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Edited on</span>
+                
+                <time title="Modified: 2018-08-18 15:37:02" itemprop="dateModified" datetime="2018-08-18T15:37:02+08:00">2018-08-18</time>
               
             
           </span>
@@ -455,8 +467,8 @@
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
-                <a href="/2018/08/16/Machine_Learning_day_one/#comments" itemprop="discussionUrl">
-                  <span class="post-meta-item-text">Comments: </span> <span class="post-comments-count valine-comment-count" data-xid="/2018/08/16/Machine_Learning_day_one/" itemprop="commentCount"></span>
+                <a href="/2018/08/19/Machine_Learning_day_03/#comments" itemprop="discussionUrl">
+                  <span class="post-meta-item-text">Comments: </span> <span class="post-comments-count valine-comment-count" data-xid="/2018/08/19/Machine_Learning_day_03/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -486,7 +498,7 @@
                 
                   <span class="post-meta-item-text">Symbols count in article: </span>
                 
-                <span title="Symbols count in article">2.1k</span>
+                <span title="Symbols count in article">3.4k</span>
               
 
               
@@ -500,7 +512,7 @@
                 
                   <span class="post-meta-item-text">Reading time &asymp;</span>
                 
-                <span title="Reading time">2 mins.</span>
+                <span title="Reading time">3 mins.</span>
               
             </div>
           
@@ -520,12 +532,32 @@
       
 
       
-        <h1 id="Step-1-Importing-the-required-Libraries"><a href="#Step-1-Importing-the-required-Libraries" class="headerlink" title="Step 1: Importing the required Libraries"></a>Step 1: Importing the required Libraries</h1><p>These Two are essential libraries which we will import every time.<br>NumPy is a Library which contains Mathematical functions.<br>Pandas is the library used to import and manage the data sets.</p>
-<h1 id="Step-2-Importing-the-Data-Set"><a href="#Step-2-Importing-the-Data-Set" class="headerlink" title="Step 2: Importing the Data Set"></a>Step 2: Importing the Data Set</h1><p>Data sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe.</p>
-<h1 id="Step-3-Handling-the-Missing-Data"><a href="#Step-3-Handling-the-Missing-Data" class="headerlink" title="Step 3: Handling the Missing Data"></a>Step 3: Handling the Missing Data</h1><p>The data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task.</p>
-<h1 id="Step-4-Encoding-Categorical-Data"><a href="#Step-4-Encoding-Categorical-Data" class="headerlink" title="Step 4: Encoding Categorical Data"></a>Step 4: Encoding Categorical Data</h1><p>Categorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library</p>
-<h1 id="Step-5-Splitting-the-dataset-into-test-set-and-training-set"><a href="#Step-5-Splitting-the-dataset-into-test-set-and-training-set" class="headerlink" title="Step 5: Splitting the dataset into test set and training set"></a>Step 5: Splitting the dataset into test set and training set</h1><p>We make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library.</p>
-<h1 id="Step-6-Feature-Scaling"><a href="#Step-6-Feature-Scaling" class="headerlink" title="Step 6: Feature Scaling"></a>Step 6: Feature Scaling</h1><p>Most of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.</p>
+        <h1 id="Multiple-Linear-Regression"><a href="#Multiple-Linear-Regression" class="headerlink" title="Multiple Linear Regression"></a>Multiple Linear Regression</h1><p>Multiple linear regression attempts to model the relationship between two or more features and a response by fitting a linear equation to observed data. The steps to perform multiple linear regression are almost similar to that of simple linear regerssion. The difference lies in the evaluation. You can use it to find out which factor has the highest impact on the predicted output and how different variables relate to the each other.</p>
+<h1 id="Assumptions"><a href="#Assumptions" class="headerlink" title="Assumptions"></a>Assumptions</h1><p>For a successful regression analysis, it is essential to validate these assumptions.</p>
+<ol>
+<li>Linearity: The relationship between dependent and independent variables should be Linear.</li>
+<li>Homoscedasticity(constant varicance) of the errors should be maintained.</li>
+<li>Multivariate Normality: Multiple regression assumes that the residuals are normally distributed.</li>
+<li>Lack of Multicollinearity: It is assumed that there is little or no multicollinearity in the data. Multicollinearity occurs when features(or independent variables) are not independent of each other.</li>
+</ol>
+<h1 id="Note"><a href="#Note" class="headerlink" title="Note"></a>Note</h1><p>Having too many variables could potentially cause our model to become less accurate, especially if certain variables have no effect on the outcome or have a significant effect on other variables. There are various methods to select the appropriate variable like -</p>
+<ol>
+<li>Forward Selection</li>
+<li>Backward Elimination</li>
+<li>Bi-directional Comparision</li>
+</ol>
+<h1 id="Dummy-Variables"><a href="#Dummy-Variables" class="headerlink" title="Dummy Variables"></a>Dummy Variables</h1><p>Using categorical data in Multiple Regression Models is a powerful method to include non-numeric data types into a regression model.<br>Categorical data refers to data values which represent categories - data values with a fixed and unordered number of values, for instance, gender(male/female). In a regression model, these values can be reepresented by dummy variables - variables containing values such as 1 or 0 representing the presence or absence of the categorical value.</p>
+<h1 id="Dummy-variable-Trap"><a href="#Dummy-variable-Trap" class="headerlink" title="Dummy variable Trap"></a>Dummy variable Trap</h1><p>The Dummy Variable trap is a scenario in which two or more variables are highly correlated; in simple terms, one variable can be predicted from the others. Intuitively, there is a duplicate category: if we dropped the male category it is inherently defined in the female category(zero female value indicate male, and vice-verse).<br>The solution to the dummy variable trap is to drop one of the categorical variables - if there are m number of categories, use <code>$m-1$</code> in the model, the value left out can be thought of as the reference value. <code>$y=b_{0} + b_{1}x_{1} + b_{2}x_{2} + b_{3}D_{1}$</code></p>
+<h1 id="Preprocess-the-data"><a href="#Preprocess-the-data" class="headerlink" title="Preprocess the data"></a>Preprocess the data</h1><ul>
+<li>Import the Libraries.</li>
+<li>Import the DataSet.</li>
+<li>Check for Missing Data.</li>
+<li>Encode Categorical Data.</li>
+<li>Make Dummy Variables if necessary and avoid dummy variable trap.</li>
+<li>Feature Scaling will be taken care by the Library we will use for Simple Linear Regerssion Model.</li>
+<li>Fitting our model to the training set<br>This step is exactly the same as for simple linear regression.<br>To fit the dataset into the model we will use ==LinearRegression== class from ==sklearn.linear_model== library. Then we make an object regressor of LinearRegression Class. Now we will fit the regressor object into our dataset using ==fit()== method of LinearRegression Class.</li>
+</ul>
+<h1 id="Predicting-the-test-results"><a href="#Predicting-the-test-results" class="headerlink" title="Predicting the test results"></a>Predicting the test results</h1><p>Now we will predict the observations from our test set. We will save the output in a vector <code>$Y_{pred}$</code>. To predict the result we use ==predict()== method of LinearRegression Class on the regressor we trained in the previous step.</p>
 
       
     </div>
@@ -594,7 +626,7 @@
     <strong>Post author:  </strong>Jack King</li>
   <li class="post-copyright-link">
     <strong>Post link: </strong>
-    <a href="http://jindaxiang.github.io/2018/08/16/Machine_Learning_day_one/" title="Machine_Learning_day_one">http://jindaxiang.github.io/2018/08/16/Machine_Learning_day_one/</a>
+    <a href="http://jindaxiang.github.io/2018/08/19/Machine_Learning_day_03/" title="Machine_Learning_day_03">http://jindaxiang.github.io/2018/08/19/Machine_Learning_day_03/</a>
   </li>
   <li class="post-copyright-license">
     <strong>Copyright Notice:  </strong>All articles in this blog are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external nofollow" target="_blank">CC BY-NC-SA 4.0</a> unless stating additionally.</li>
@@ -622,8 +654,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2018/08/15/OBOR_article_files/" rel="next" title="OBOR_article_files">
-                <i class="fa fa-chevron-left"></i> OBOR_article_files
+              <a href="/2018/08/16/Machine_Learning_day_01/" rel="next" title="Machine_Learning_day_01">
+                <i class="fa fa-chevron-left"></i> Machine_Learning_day_01
               </a>
             
           </div>
@@ -631,10 +663,6 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
-            
-              <a href="/2018/08/16/Machine_Learning_day_two/" rel="prev" title="Machine_Learning_day_two">
-                Machine_Learning_day_two <i class="fa fa-chevron-right"></i>
-              </a>
             
           </div>
         </div>
@@ -716,7 +744,7 @@
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">33</span>
+                    <span class="site-state-item-count">34</span>
                     <span class="site-state-item-name">posts</span>
                   </a>
                 </div>
@@ -888,7 +916,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Step-1-Importing-the-required-Libraries"><span class="nav-number">1.</span> <span class="nav-text">Step 1: Importing the required Libraries</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Step-2-Importing-the-Data-Set"><span class="nav-number">2.</span> <span class="nav-text">Step 2: Importing the Data Set</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Step-3-Handling-the-Missing-Data"><span class="nav-number">3.</span> <span class="nav-text">Step 3: Handling the Missing Data</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Step-4-Encoding-Categorical-Data"><span class="nav-number">4.</span> <span class="nav-text">Step 4: Encoding Categorical Data</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Step-5-Splitting-the-dataset-into-test-set-and-training-set"><span class="nav-number">5.</span> <span class="nav-text">Step 5: Splitting the dataset into test set and training set</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Step-6-Feature-Scaling"><span class="nav-number">6.</span> <span class="nav-text">Step 6: Feature Scaling</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Multiple-Linear-Regression"><span class="nav-number">1.</span> <span class="nav-text">Multiple Linear Regression</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Assumptions"><span class="nav-number">2.</span> <span class="nav-text">Assumptions</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Note"><span class="nav-number">3.</span> <span class="nav-text">Note</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Dummy-Variables"><span class="nav-number">4.</span> <span class="nav-text">Dummy Variables</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Dummy-variable-Trap"><span class="nav-number">5.</span> <span class="nav-text">Dummy variable Trap</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Preprocess-the-data"><span class="nav-number">6.</span> <span class="nav-text">Preprocess the data</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Predicting-the-test-results"><span class="nav-number">7.</span> <span class="nav-text">Predicting the test results</span></a></li></ol></div>
             
 
           </div>
@@ -929,7 +957,7 @@
     
       <span class="post-meta-item-text">Symbols count total: </span>
     
-    <span title="Symbols count total">18k</span>
+    <span title="Symbols count total">22k</span>
   
 
   
@@ -940,7 +968,7 @@
     
       <span class="post-meta-item-text">Reading time total &asymp;</span>
     
-    <span title="Reading time total">17 mins.</span>
+    <span title="Reading time total">20 mins.</span>
   
 </div>
 
