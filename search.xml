@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Introduction_to_Financial_Engineering]]></title>
+    <url>%2F2018%2F09%2F01%2FIntroduction_to_Financial_Engineering%2F</url>
+    <content type="text"><![CDATA[Introduction to Financial EngineeringSchedule and SyllabusUnless otherwise specified the lectures are Tuesday and Thursday 12pm to 1:20pm in the NVIDIA Auditorium in the Huang Engineering Center. (map) Discussion sections will be Fridays 12:30pm to 1:20pm in Skilling Auditorium. (map) This is the syllabus for the Spring 2018 iteration of the course. The syllabus for the Spring 2017, Winter 2016 and Winter 2015 iterations of this course are still available. Event Type Date Description Lecture 1 Thursday September 6 Course Introduction Lecture 2 Thursday September 13 pass]]></content>
+      <categories>
+        <category>Course</category>
+      </categories>
+      <tags>
+        <tag>Weekly</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[PyCharm_skill_day_01]]></title>
     <url>%2F2018%2F08%2F24%2FPyCharm_skill_day_01%2F</url>
     <content type="text"><![CDATA[PyCharm multiple code indent and left moving select the code line or block and press ==tab== key, you can indent the code line or block select the code line or block and press ==shift + tab== , you can left moving the code line or block]]></content>
@@ -211,17 +222,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
-    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
-      <categories>
-        <category>Python</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
     <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
     <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
@@ -236,6 +236,17 @@
     <title><![CDATA[Python_s1_day02_topic_skills_Set_domestic_source]]></title>
     <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_Set_domestic_source%2F</url>
     <content type="text"><![CDATA[Set Python default domestic sourcePIP安装源替换成国内镜像，可以大幅提升下载速度，还可以提高安装成功率。If you always install packages from pypi, then you will find that use default source will be very slow!you can use domestic source from the next list: Attention: new version ubuntu require https! 清华：https://pypi.tuna.tsinghua.edu.cn/simple 阿里云：http://mirrors.aliyun.com/pypi/simple/ 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 华中理工大学：http://pypi.hustunique.com/ 山东理工大学：http://pypi.sdutlinux.org/ 豆瓣：http://pypi.douban.com/simple/ Temporary useyou can add parameters in pip install -i https://pypi.tuna.tsinghua.edu.cn/simple for example: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspideryou will download the pyspider from the TUNA source Permanent changeUnder the environment of Linux, fix ~/.pip/pip.conf (没有就创建一个文件夹及文件。文件夹要加“.”，表示是隐藏文件夹) content as follows：1234[global]index-url = https://pypi.tuna.tsinghua.edu.cn/simple[install]trusted-host=mirrors.aliyun.com Under the environment of windows, create the dir under the user dir, for example：C:\Users\xx\pip, create pip.ini。content as above.]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
+    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
       <categories>
         <category>Python</category>
       </categories>
