@@ -1,6 +1,6 @@
 ---
 title: Anaconda
-date: 2018-01-01 16:09:52
+date: 2019-01-01 16:09:52
 tags: [Skill]
 categories: [Anaconda]
 ---
