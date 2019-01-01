@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Advances in Financial Machine Learning]]></title>
+    <url>%2F2019%2F01%2F01%2FPdf_Advances_in_Financial_Machine_Learning%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Finance</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Advances]]></title>
+    <url>%2F2019%2F01%2F01%2FPdf_Advances%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Finance</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python-for-Finance-2nd]]></title>
+    <url>%2F2018%2F12%2F17%2FPdf_Python_for_Finance_2nd%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Finance</category>
+      </categories>
+      <tags>
+        <tag>PDF</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Web_Scraping_with_Python_2nd]]></title>
+    <url>%2F2018%2F12%2F16%2FWeb_Scraping_with_Python_2nd%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Web_Scraping</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Introduction_to_Financial_Engineering]]></title>
+    <url>%2F2018%2F12%2F07%2FIntroduction_to_Financial_Engineering%2F</url>
+    <content type="text"><![CDATA[The course had finished at 2018-12-27, thank you for your participation!Introduction to Financial EngineeringAttention: I have put the slides in chinese at bottom of this page, please download the pdf if you need! Schedule and SyllabusUnless otherwise specified the lectures are Thursday 19:30pm to 21:55pm in the X1320 in the xipu campus of southwest jiaotong university. This is the syllabus for the September 2018 iteration of the course.You can download the book of lectures here.You can download the necessary materials about this book from the author’s homepage.You can download the Errata about this book. The skills of financial engineering: Programming, Math and FinanceSchedule Event Type Date Title Description Lecture 1 Thursday September 6 19:30pm to 21:55pm Introduction 1. Should read the article or material about The Lehman Bankruptcy, which you can get from the link in English or link in Chinese. Lecture 2 Thursday September 13 19:30pm to 21:55pm Introduction 1. Should read the article or material about The Lehman Bankruptcy, which you can get from the link in English or link in Chinese. Lecture 3 Thursday September 20 19:30pm to 21:55pm Futures Markets and Central Counterparties Review the Futures Markets in chapter 2 and concern Central Counterparties Lecture 4 Thursday September 27 19:30pm to 21:55pm Futures Markets and Central Counterparties Review the Futures Markets in chapter 2 and concern Central Counterparties Lecture 5 Thursday September 29 19:30pm to 21:55pm Hedging Strategies Using Futures Should be familar with lesson 4 and will tell you some hedge methods. Lecture 6 Thursday October 11 19:30pm to 21:55pm Interest Rates Should be familar with lesson 5 and know about some financial ternominology: Libor, Federal funds rate, Repo rate, Treasury rate, OIS rate Lecture 7 Thursday October 18 19:30pm to 21:55pm Determination of Forward and Futures Prices This lesson will teach you how to determine the price of the futures and forword. Lecture 8 Thursday October 25 19:30pm to 21:55pm Interest Rate Futures Day count convention, Treasury Bond and Eurodollar Futures. Lecture 9 Thursday November 1 19:30pm to 21:55pm Interest Rate Futures Day count convention, Treasury Bond and Eurodollar Futures. Lecture 10 Thursday November 8 19:30pm to 21:55pm Swaps This lesson will teach almost all types of swaps Lecture 11 Thursday November 15 19:30pm to 21:55pm Swaps This lesson will teach almost all types of swaps Lecture 12 Thursday November 22 19:30pm to 21:55pm Securitization and the Credit Crisis of 2007 This lesson will teach almost all types of swaps Lecture 13 Thursday November 29 19:30pm to 21:55pm Mechanics of Options Markets Get into the world of Options Lecture 14 Thursday December 06 19:30pm to 21:55pm Properties of Stock Options Introduction to the properties of stock options Lecture 15 Thursday December 13 19:30pm to 21:55pm Properties of Stock Options Introduction to the properties of stock options Lecture 16 Thursday December 20 19:30pm to 21:55pm Review the content we have learned from this class Prepare for the last exam Lecture 17 Thursday December 27 19:30pm to 21:00pm Exam exam for 90 minutes Lecture forever Every Thursday 19:30pm to 21:55pm Reading material https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/python_for_finance_2.pdf Homework_1Requirement for homework_1 Should read the article or material about The Lehman Bankruptcy, which you can get from the link in English or link in Chinese. Write an electronic reports in chinese about 1000 words to describe The Lehman Bankruptcy event. You should print it with your Name, Student ID and submit it at next time. Click here to download the format of the homework. Mid-term examReading materialsBaidu, which is not very good for you. So i recommand that Wikipedia to search the infomation about LTCM, also, you can read the article written by analyst, who is come form Hong Ming Capital. At last but not least, I think this material is very useful. If all above materials are not sufficient for you, you can find the useful information by yourself. Requirement of the formatClick here to download the format of the homework. The content of the mid-term exam First, you should choose one of the three opinions about LTCM, especially, your opinion is the most important. Second, There are many different ideas about the bankruptcy of LTCM Support the LTCM for that the default of the Treasury bond can not be control The LTCM should take some methods about th risk of the default of Treasury bond The two side the coin You should write the opinion about the bankruptcy of LTCM, the words in this article should more than 1000 words and less than 5000words in Chinese. Next class at 2018-11-01, you should give me your homework. The final examReading materialsWaiting Requirementjust finish the exam by yourself. Attachment: Name Download address 第一章：导言 Download 第二章：期货市场的运行机制 Download 第三章：利用期货的对冲策略 Download 第四章：利率 Download 第五章：远期和期货价格的确定 Download 第六章：利率期货 Download 第七章：互换 Download 第八章：证券化和2007年信用危机 Download 第九章：期权市场的机制 Download 第十章：股票期权的性质 Download]]></content>
+      <categories>
+        <category>Course</category>
+      </categories>
+      <tags>
+        <tag>Weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Warning about files or pictures in my blog]]></title>
+    <url>%2F2018%2F11%2F28%2FWarning_about_files_or_pictures_in_my_blog%2F</url>
+    <content type="text"><![CDATA[About change the file_address from Qiniu to Tencent COSQiniu require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS.If you find some materials can not access, please contact me via jindaxiang@163.com, thank you!]]></content>
+      <categories>
+        <category>Bolg</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Chinese Social Sciences Citation Index]]></title>
+    <url>%2F2018%2F11%2F11%2FPdf_Chinese_Social_Sciences_Citation_Index_2017_2018%2F</url>
+    <content type="text"><![CDATA[If you can not open the pdf file, you may try to access the website]]></content>
+      <categories>
+        <category>Academic</category>
+      </categories>
+      <tags>
+        <tag>Article</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Spider_about_mafengwo]]></title>
+    <url>%2F2018%2F10%2F24%2FSpider_about_mafengwo%2F</url>
+    <content type="text"><![CDATA[IntroductionDuring the National Day Holidays, i did some work for the purpose of writing a repot about Mount Emei scenic area. The first thing i want to do is how to get the information about Mount Emei, when i was browsing websites on internet, Mafengwo come into my eyes. Then i will pay more attention on mafengwo, especially about how to fetch the data of hotels in every scenic area in www.mafengwo.com Step oneFirstly, i will open the chrome broswer and type in the website of our objective. www.mafengwo.com, then click the http://www.mafengwo.cn/mdd/ site, you will see the , our destination is the Mount Emei, so i click the 峨眉山, then we get into http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10143.html, yes, it’s the website we needed. In the process of fethcing the data, i think that, to fetch the hotel data is the most difficult, so i choose this part to do a favor. You should broswer the http://www.mafengwo.cn/hotel/10143/?sFrom=mdd, and you will find it’s something interesting there, because the price of hotle is shown on the screen. Step twoClick the right button of mounse, open the check, then go to the network tab, press the preserver log item, just as follows:then you should reload the website, go into the source tab and press top, right click the top button, choose search in all files, then input ‘getSign’, just as . Use the debuger function of chrome. You can find the return value, it’s md5 encryption, use the dict and str content to generate the salt, then use get method to transmit the parameters to host.]]></content>
+      <categories>
+        <category>Spider</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Use_Navicat_to_connect_the_MySQL_in_JD_Cloud]]></title>
+    <url>%2F2018%2F09%2F17%2FUse_Navicat_to_connect_the_MySQL_in_JD_Cloud%2F</url>
+    <content type="text"><![CDATA[Use Navicat to connect the MySQL in JD Cloud involved the Ubuntu16.04 LTS systemSelect ubuntu 16.04 LTS system.username: rootpassword: —-to login the webserver Ubuntu Console type in:1234apt-get updateapt-get install mysql-serverapt-get install mysql-clientapt-get install libmysqlclient-dev Ubuntu Console type in:12345mysql –Vservice mysql startservice mysql stopservice mysql statusservice mysql restart navicat remote connect mysql:blog1234sudo netstat -tap | grep mysql/etc/init.d/mysql restartmysql -u root -psudo vim /etc/mysql/mysql.conf.d/mysqld.cnf Look at the first row: The mysql database server configutation file: you should find bind-address = 127.0.0.1 and add # in front of the command. You should find the ↓ tap in your keyboard and press i key. at the bottom of the file, you will find INSERT then you can insert # to comment the command. When you finish the process, you press the ESC and press wq! restore the result. Then you should restart the server of MySQL1234/etc/init.d/mysql restartnetstat -an |grep 3306sudo service mysql startsudo service mysql status if can not resolve your problem, you can try this methods.1vim /etc/mysql/mysql.conf.d/mysqld.cnf add this command in the last line of the mysqld.cnf file1skip-name-resolve Source: https://blog.csdn.net/WuZuoDingFeng/article/details/54638999]]></content>
+      <categories>
+        <category>Linux</category>
+        <category>MySQL</category>
+        <category>Navicat</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Win10_s1_day01_topic_skills_delete_chrome]]></title>
+    <url>%2F2018%2F09%2F05%2FWin10_s1_day01_topic_skills_delete_chrome%2F</url>
+    <content type="text"><![CDATA[How to delete the Chrome browserwebsite]]></content>
+      <categories>
+        <category>Win10</category>
+        <category>Chrome</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[MathType_word2016_self_math_formula_transfer_into_mathtype]]></title>
+    <url>%2F2018%2F09%2F05%2FMathType_word2016_self_math_formula_transfer_into_mathtype%2F</url>
+    <content type="text"><![CDATA[word2016自带公式转mathtype6.9b for win10 Office method 1, I have not found the dir Office method 2I followed the measure 2, then my problem is resolved. CSDN method]]></content>
+      <categories>
+        <category>MathType</category>
+        <category>Word</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python_s1_day03_topic_install_package_error]]></title>
+    <url>%2F2018%2F09%2F04%2FPython_s1_day03_topic_install_package_error%2F</url>
+    <content type="text"><![CDATA[Visual C++ 14.0 is required installation plan for Python install packageIntall python’s matplotlib comeacross error:error: Microsoft Visual C++ 14.0 is required. Get it with “Microsoft Visual C++ Build Tools”:http://landinghub.visualstudio.com/visual-cpp-build-tools for instance, you can download the package in this webSite website press “ok” when the work is done, waiting for a long time. sie: 3.12g then: pip install XX.whl]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Machine_Learning_day_04]]></title>
+    <url>%2F2018%2F09%2F03%2FMachine_Learning_day_04%2F</url>
+    <content type="text"><![CDATA[Logistic RegressionWhat is logistic RegressionLogistic regression is used for a different class of problems known as classification problems. Here the aim is to predict the group to which the current object under observation belongs to. It gives you a discrete binary outcome between 0 and 1. A simple example would be whether a person will vote or not in upcoming elections. How does it work?Logistic Regression measures the relationship between the dependent variable(our label, what we want to predict) and the one or more independent variables(our features), by estimating probabilities using it’s underlying logistic function. Making PredictionsThese probabilities must then be transformed into binary values in order to actually make a prediction. This is the task of the logistic function, also called the sigmoid function. This values between 0 and 1 will then be transformed into either 0 or 1 using a threshold classifier. Logistic vs LinearLogistic regression gives you a discrete outcome but linear regression gives a continuous outcome. Sigmoid FunctionThe Sigmoid-Function is an S-shaped curve that can take any real-valued number and map it into a value between the range of 0 and 1, ==but never exactly at those limits==.]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[PyCharm_skill_day_01]]></title>
+    <url>%2F2018%2F08%2F24%2FPyCharm_skill_day_01%2F</url>
+    <content type="text"><![CDATA[PyCharm multiple code indent and left moving select the code line or block and press ==tab== key, you can indent the code line or block select the code line or block and press ==shift + tab== , you can left moving the code line or block]]></content>
+      <categories>
+        <category>PyCharm</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[国家科技计划项目申报中心——企业注册流程]]></title>
+    <url>%2F2018%2F08%2F21%2FCompany_register%2F</url>
+    <content type="text"><![CDATA[国家科技计划项目申报中心——企业注册流程 https://program3.most.gov.cn/ 点击 同意 输入单位名称和验证码，检索 按内容填写，有*号的填写，其中法人电话如果报错，请用==IE8-10==的游览器，同时，单位成立日期点击跳转，则也需要更换游览器。 填写完后，点击下一步 再按资料上传规定的文件，外资要上传批函]]></content>
+      <categories>
+        <category>Company</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Machine_Learning_day_03]]></title>
+    <url>%2F2018%2F08%2F19%2FMachine_Learning_day_03%2F</url>
+    <content type="text"><![CDATA[Multiple Linear RegressionMultiple linear regression attempts to model the relationship between two or more features and a response by fitting a linear equation to observed data. The steps to perform multiple linear regression are almost similar to that of simple linear regerssion. The difference lies in the evaluation. You can use it to find out which factor has the highest impact on the predicted output and how different variables relate to the each other. AssumptionsFor a successful regression analysis, it is essential to validate these assumptions. Linearity: The relationship between dependent and independent variables should be Linear. Homoscedasticity(constant varicance) of the errors should be maintained. Multivariate Normality: Multiple regression assumes that the residuals are normally distributed. Lack of Multicollinearity: It is assumed that there is little or no multicollinearity in the data. Multicollinearity occurs when features(or independent variables) are not independent of each other. NoteHaving too many variables could potentially cause our model to become less accurate, especially if certain variables have no effect on the outcome or have a significant effect on other variables. There are various methods to select the appropriate variable like - Forward Selection Backward Elimination Bi-directional Comparision Dummy VariablesUsing categorical data in Multiple Regression Models is a powerful method to include non-numeric data types into a regression model.Categorical data refers to data values which represent categories - data values with a fixed and unordered number of values, for instance, gender(male/female). In a regression model, these values can be reepresented by dummy variables - variables containing values such as 1 or 0 representing the presence or absence of the categorical value. Dummy variable TrapThe Dummy Variable trap is a scenario in which two or more variables are highly correlated; in simple terms, one variable can be predicted from the others. Intuitively, there is a duplicate category: if we dropped the male category it is inherently defined in the female category(zero female value indicate male, and vice-verse).The solution to the dummy variable trap is to drop one of the categorical variables - if there are m number of categories, use $m-1$ in the model, the value left out can be thought of as the reference value. $y=b_{0} + b_{1}x_{1} + b_{2}x_{2} + b_{3}D_{1}$ Preprocess the data Import the Libraries. Import the DataSet. Check for Missing Data. Encode Categorical Data. Make Dummy Variables if necessary and avoid dummy variable trap. Feature Scaling will be taken care by the Library we will use for Simple Linear Regerssion Model. Fitting our model to the training setThis step is exactly the same as for simple linear regression.To fit the dataset into the model we will use ==LinearRegression== class from ==sklearn.linear_model== library. Then we make an object regressor of LinearRegression Class. Now we will fit the regressor object into our dataset using ==fit()== method of LinearRegression Class. Predicting the test resultsNow we will predict the observations from our test set. We will save the output in a vector $Y_{pred}$. To predict the result we use ==predict()== method of LinearRegression Class on the regressor we trained in the previous step.]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Machine_Learning_day_02]]></title>
+    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_02%2F</url>
+    <content type="text"><![CDATA[Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import and manage the data sets. Step 2: Importing the Data SetData sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe. Step 3: Handling the Missing DataThe data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task. Step 4: Encoding Categorical DataCategorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library Step 5: Splitting the dataset into test set and training setWe make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library. Step 6: Feature ScalingMost of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Machine_Learning_day_01]]></title>
+    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_01%2F</url>
+    <content type="text"><![CDATA[Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import and manage the data sets. Step 2: Importing the Data SetData sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe. Step 3: Handling the Missing DataThe data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task. Step 4: Encoding Categorical DataCategorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library Step 5: Splitting the dataset into test set and training setWe make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library. Step 6: Feature ScalingMost of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[OBOR_article_files]]></title>
+    <url>%2F2018%2F08%2F15%2FOBOR_article_files%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+      <tags>
+        <tag>References</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[MathType_word2016_special_character_skills]]></title>
+    <url>%2F2018%2F08%2F06%2FMathType_word2016_special_character_skills%2F</url>
+    <content type="text"><![CDATA[MathType special character can display in word, but it can not display in pdf(use word save as pdf method)You can see the difference in the above picturesMy computer configuration Name Parameter OS Name Microsoft Windows 10 PRO OS Version 10.0.17134 Build 17134 OFFICE Name Office365(office2016) OFFICE Version 10325.20082 From word From pdf issues: 解决在word中用mathtype编辑的公式转换成pdf时出现错位现象 word里面用mathtype编辑公式转成PDF后出现乱码 使用Mathtype自动编号和自动引用，并且转成pdf之后保持公式编号链接到公式 mathtype公式嵌入word后，转pdf时的公式丢失问题 详解Word文档中常见的MathType公式问题 MathType转换成pdf符号丢失或乱码怎么办, I try this method, but it useless. Our Methods: Download this software, and follow the steps in the blogadobe acrobat pro dc2018破解版 Then open your office2016-word2016(update latest version) You will find plug-in in the front of the word, and you will find this click the create PDF button will solve your problem!]]></content>
+      <categories>
+        <category>MathType</category>
+        <category>Word</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[LaTex_compile_chinese_CCT_file]]></title>
+    <url>%2F2018%2F07%2F23%2FLaTex_compile_chinese_CCT_file%2F</url>
+    <content type="text"><![CDATA[《系统工程理论与实践》中文论文模板使用CCT&amp;TEX编译总结来看，顺利编译CCT&amp;TEX模板的步骤如下： 下载最新版的CTEX2.9，亲测有效，要下载full版本，不能为了节省磁盘空间下载不完全版本。 使用管理员身份打开WinEdit（无所谓），并打开所要编译的tex文件。 使用CCT&amp;LaTex编译tex文件。 使用ps to pdf将dvi文件转为pdf文件或者用pdflatex编译 如果编译出错，尝试重启计算机。]]></content>
+      <categories>
+        <category>LaTex</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Install_Synology_DS1517+]]></title>
+    <url>%2F2018%2F07%2F22%2FInstall_Synology_DS1517%2B%2F</url>
+    <content type="text"><![CDATA[Install Synology DS1517+(8GB) Memory four cores five position NAS network storage server(no hard drive bulit in) You can visit the website to get more information for the detailed You should choose five hard storage for the machine You can download the video from video]]></content>
+      <categories>
+        <category>Synology</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Windows_install_for_Dell_Precision_T1700_Workstation]]></title>
+    <url>%2F2018%2F07%2F20%2FWindows_install_for_Dell_Precision_T1700_Workstation%2F</url>
+    <content type="text"><![CDATA[Install Win10 on the computer Download UltraISO to make image of win10, ==should use modes of USB-HDD==. Set bios to legency and make the boot from the USB first Then install the win10 successfully]]></content>
+      <categories>
+        <category>Windows</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Anaconda_skill_update]]></title>
+    <url>%2F2018%2F07%2F19%2FAnaconda_skill_update%2F</url>
+    <content type="text"><![CDATA[If you want to update the syper, anaconda, python or conda, you can follow these steps Step one: you should run the cmd command Step two: update conda```13. Step three: ```conda update anaconda Step four: update spyder```15. Step five: ```conda update python]]></content>
+      <categories>
+        <category>Anaconda</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Biographical_sketch]]></title>
+    <url>%2F2018%2F07%2F06%2FBiographical_sketch%2F</url>
+    <content type="text"><![CDATA[Lutz KilianBiographical sketch Lutz Kilian, Professor of Economics, received his Ph.D. in Economics from the University of Pennsylvania in 1996 and his M.A. in Development Banking from The American University in 1988. He joined the faculty at Michigan in 1996. Prior to his Ph.D., he worked for the research department of the Inter-American Development Bank in Washington, DC. During 2001-03 he served as an adviser to the European Central Bank in Frankfurt/M., Germany. Professor Kilian has been a research visitor at the Federal Reserve Board, the European Central Bank, and the International Monetary Fund. He has also been a consultant for the International Monetary Fund, the Inter-American Development Bank, the World Trade Organization, the European Central Bank, the Bank of Canada, the European Parliament, and the U.S. Energy Information Administration, among others. Professor Kilian has published over 90 articles. His work has appeared in leading general interest and field journals in economics and statistics. He is the author of a textbook with Helmut Lütkepohl on Structural Vector Autoregressive Analysis, Cambridge University Press, 2017. His research interests include time series econometrics, empirical macroeconomics, and energy economics. Much of his recent research is concerned with the sources of fluctuations in the price of oil, with the transmission of oil price shocks, with the role of speculation in oil markets, with measuring oil price expectations in financial markets, and with oil price forecasting. He has also published on topics in empirical macroeconomics and in international finance including the stagflation of the 1970s, the specification of monetary policy rules, the quantification of deflation risks, the role of sticky prices in business cycle models, and tests of exchange rate models. Finally, he has worked extensively on topics in time series econometrics with a special focus on bootstrap methods of inference for autoregressions, on impulse response analysis, on the estimation of structural parameters in DSGE models, on the specification and identification of structural VAR models, on forecasting and forecast scenarios, and on testing predictability. Professor Kilian has served as an Associate Editor for the Journal of Business and Economic Statistics, the Journal of Development Economics, and the Journal of Economic Dynamics and Control, among other journals. He is a research fellow of the Centre for Economic Policy Analysis, the Center for Financial Studies, the CESifo, and the Euro Area Business Cycle Network. Curriculum VitaeCurriculum Vitae TextbookPreliminary chapters of textbook on ‘Structural Vector Autoregression Analysis’(with Helmut Lutkepohl) Research List of published and forthcoming papers Links to selected papers, data sets, and code Links to selected blog and press articles on speculation in oil markets and related topics Course Syllabi Syllabus for Economics 495 (Applied Time Series Analysis) Syllabus for Economics 457 (Financial Econometrics) Syllabus for Economics 671 (Econometrics I) Syllabus for Economics 676 (Macroeconometrics) Data links Economic Time Series Webpage St. Louis Fed: FRED Bureau of Economic Analysis Bureau of Labor Statistics Michigan Survey of Consumers Philadelphia Fed: Real Time Data Set, somethings error from the page NBER Data IFS 404 error OECD 404 error OECD: Main Economic Indicators 404 error Eurostat European Central Bank U.K. National Statistics Stock returns University of Michigan Documents Center University of Michigan data bases More data links … Lutz Kilian E-mail: lkilian@umich.edu Department of Economics University of Michigan Ann Arbor, MI 48109-1220 Phone: (734) 647-5612 FAX: (734) 764-2769 Last Updated: February 6, 2017]]></content>
+      <categories>
+        <category>Data</category>
+      </categories>
+      <tags>
+        <tag>Source</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[PyCharm_apply_for_free_account]]></title>
+    <url>%2F2018%2F07%2F06%2FPyChram_apply_for_free_account%2F</url>
+    <content type="text"><![CDATA[The company of JetBrain is a very famous one in software domain. The sofeware come from this company is very useful and popular in programmers. The weakness of this software is that it’s too much expensive. So in the following the this article, I will teach you students to apply the free account from the JetBrain company! If you are a student in university and you have a email address end with ==.edu==. Or you can visit the pycharm-edu. We at JetBrains are always looking for better learning and teaching opportunities for professional developers and teachers and those who are just starting out in the world of development. We want to help people learn and teach programming and believe the best way to do this is through practice. You will see the page of the And then this pic demonstrate the candidate of the PyCharm. you can this This is the features of the PyCharm Last but not least, you can fill in this table according to your detail information. About two or three days later, you will recevie the email from the PyCharm team for the result of your application! P.S. you can use the code for one year, if you still a student one years later, you can reuse this code for more time!]]></content>
+      <categories>
+        <category>PyCharm</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Machine Learning Flash Cards_Forward_Stepwise_Selection!]]></title>
+    <url>%2F2018%2F07%2F01%2FMachine%20Learning%20Flash%20Cards_Forward_Stepwise_Selection!%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Flash_cards</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[JoinQuant_s1_day01_topic_skills_install_jqdata]]></title>
+    <url>%2F2018%2F07%2F01%2FJoinQuant_s1_day01_topic_skills_install_jqdata%2F</url>
+    <content type="text"><![CDATA[Install jqdata API Should first install the git from github or other source Then set the environment path for the computer Open the cmd terminal and input: pip install git+https://github.com/JoinQuant/jqdatasdk.git -i https://mirrors.aliyun.com/pypi/simple/ Ensure you use the latest version of the jqdata, you use run: pip install -U git+https://github.com/JoinQuant/jqdatasdk.git in the cmd window! You can use pip -V or python -V in the cmd to check the version of the python and pip, I use pip version: 9.0.3 and python version: 3.6.5 Anaconda custom (64-bit)]]></content>
+      <categories>
+        <category>JoinQuant</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Ubuntu_skills_source]]></title>
+    <url>%2F2018%2F07%2F01%2FUbuntu_skills_source%2F</url>
+    <content type="text"><![CDATA[Useful Ubuntu Source163 source]]></content>
+      <categories>
+        <category>Ubuntu</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Article_skills_webpage]]></title>
+    <url>%2F2018%2F06%2F30%2FArticle_skills_webpage%2F</url>
+    <content type="text"><![CDATA[Useful Article pageJFDSScienceDirectResearchGateSSRNSCI Hub]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Blog_skills_gitalk]]></title>
+    <url>%2F2018%2F06%2F29%2FBlog_skills_gitalk%2F</url>
+    <content type="text"><![CDATA[set gitalk commentmd5.min.jsgitalk.swigerror help]]></content>
+      <categories>
+        <category>Blog</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
+    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
+    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python_s1_day02_topic_skills_Set_domestic_source]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_set_domestic_source%2F</url>
+    <content type="text"><![CDATA[Set Python default domestic sourcePIP安装源替换成国内镜像，可以大幅提升下载速度，还可以提高安装成功率。If you always install packages from pypi, then you will find that use default source will be very slow!you can use domestic source from the next list: Attention: new version ubuntu require https! 清华：https://pypi.tuna.tsinghua.edu.cn/simple 阿里云：http://mirrors.aliyun.com/pypi/simple/ 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 华中理工大学：http://pypi.hustunique.com/ 山东理工大学：http://pypi.sdutlinux.org/ 豆瓣：http://pypi.douban.com/simple/ Temporary useyou can add parameters in pip install -i https://pypi.tuna.tsinghua.edu.cn/simple for example: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspideryou will download the pyspider from the TUNA source Permanent changeUnder the environment of Linux, fix ~/.pip/pip.conf (没有就创建一个文件夹及文件。文件夹要加“.”，表示是隐藏文件夹) content as follows：1234[global]index-url = https://pypi.tuna.tsinghua.edu.cn/simple[install]trusted-host=mirrors.aliyun.com Under the environment of windows, create the dir under the user dir, for example：C:\Users\xx\pip, create pip.ini。content as above.]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python_s1_day02_topic_skills_set_unoffical_source]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_set_unoffical_source%2F</url>
+    <content type="text"><![CDATA[Set Python Unofficial SourceUnofficial Source]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python_s1_day02_topic_skills_setting]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_setting%2F</url>
+    <content type="text"><![CDATA[Set TUNA source清华 Anaconda 镜像使用帮助 If you use win10, then open the cmd command and input those code to set the TUNA source 123conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/conda config --set show_channel_urls yes If you want to download and install Anaconda 安装包 to choose the latest version in win10]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[How to use PyCharm]]></title>
+    <url>%2F2018%2F06%2F28%2FPdf_How_to_use_PyCharm%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>PyCharm</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Win10_s1_day01_topic_skills_remote_connect]]></title>
+    <url>%2F2018%2F06%2F21%2Fwin10_s1_day01_topic_skills_remote_connect%2F</url>
+    <content type="text"><![CDATA[if your computer apper problem, please click this site点击此处if the website can not access! 打开组策略，依次展开“计算机配置”-&gt;“管理模板”-&gt;“系统”-&gt;“凭据分配”，设置名称： “加密 Oracle 修正” 为已启用，并设置保护级别为“易受攻击”If you use in win10, you can search “编辑组策略”, then follow the above steps]]></content>
+      <categories>
+        <category>Win10</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Win10_s1_day01_topic_skills_sys_update]]></title>
+    <url>%2F2018%2F06%2F21%2Fwin10_s1_day01_topic_skills_sys_update%2F</url>
+    <content type="text"><![CDATA[Attention: if you use win10 home edition please update to win pro edition, then you can use gpedit.msc in cmd commandyou will go to 淘宝, please click the characters!]]></content>
+      <categories>
+        <category>Win10</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Machine Learning Flash Cards_FPR!]]></title>
+    <url>%2F2018%2F06%2F21%2FMachine_s1_day01_topic_flash_cards_fpr%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Flash_cards</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[On the design of financial products along OBOR]]></title>
+    <url>%2F2018%2F06%2F20%2FPdf_Article_my_On_the_design_of_financial_products_along_OBOR%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+      <tags>
+        <tag>Index</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Machine Learning Flash Cards_F1_Score!]]></title>
+    <url>%2F2018%2F06%2F20%2FMachine_s1_day01_topic_flash_cards_f1_score%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Flash_cards</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[MacOS High Sierra-10.13.5 install win10]]></title>
+    <url>%2F2018%2F06%2F19%2FMac_s1_day01_topic_skills_install_win%2F</url>
+    <content type="text"><![CDATA[MacOS High Sierra-10.13.5 install win10 Configuration MacBook Pro(13-inch, 2017, Four Thunderbolt 3 Ports) Edition: 10.13.5 Processor: 3.5 GHz Intel Core i7 Memory: 16GB 2133 MHz LPDDR3 Graphics card: Intel Iris Plus Graphics 650 1536 MB Sequence to open the MacBook Pro Set the password and AppID, input fingerprint Be careful that choose the SYSTEM PREFERENCE and get into the Secure and Privacy item and stop the file safe. Go to MSDN to download the Win10(click the website to find which version you will want) and save the file in the MacBook Pro Go into Launchpad and choose folder named other, choose the Boot Camp and click the next item Wait for seconds, you will enter the item named install windows, you can choose the ISO images item, the next you choose the APFS container, at this time, you may choose the divide the SSD into half, and the click the install item The IOS will download the necessary files from the web of the APPLE, if it had an error, you just try again, this process will need 5 minutes, according to your speed of the internet, just waiting. When item 6 finished, the computer will restart, then we go to install win, just follow the steps in normal. When the computer appear the windows, we should open the c:/OSXRESERVED/BootCamp/, and click the install install item, and waiting for the process Restart the computer, it will get into the win system, a dos window will appear, please wait for seconds At last, you will continue to install the necessary softwares in the computer. For example, Anaconda for win, Office for win, Notepad++, QQpinyin and so on.]]></content>
+      <categories>
+        <category>OS</category>
+      </categories>
+      <tags>
+        <tag>MacOS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Machine Learning Flash Cards_Extrema!]]></title>
+    <url>%2F2018%2F06%2F19%2FMachine_s1_day01_topic_flash_cards_extrema%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Flash_cards</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Linux_s1_day01_topic_skills]]></title>
+    <url>%2F2018%2F06%2F19%2FLinux_s1_day01_topic_skills%2F</url>
+    <content type="text"><![CDATA[common characters [*] 匹配零个或多个字符 ? 匹配任意一个字符 [0-9] 匹配一个数字范围 [abc] 匹配列表里的任何字符 [^abc] 匹配列表以外的字符 search command ctrl+r 命令搜索 su methods su - 切换为root用户，启用一个全新的终端 su 仅切换用户身份不切换终端 id 显示当前用户信息 passwd 修改当前用户密码 命令后添加&amp;在后台运行该进程 ctrl+z暂停某个程序 jobs显示后台运行的程序 bg[id]使id指定的程序继续在后台运行 fg[id]使id指定的程序调回前台工作 touch 创建一个空白文件或者更新已有文件的时间 ls -a 显示所有文件 ls -l 显示详细信息 ls -R 递归显示子目录结构 ls -ld 显示目录和连接信息 file 查看文件的类型 cd.. 上一个目录 cd . 当前目录 cd ~ 用户的家目录 cd - 上一个工作目录 cp -r 源文件（文件夹）目标文件（文件夹）递归复制整个目录树 cp -v 源文件（文件夹） 目标文件（文件夹）显示复制详细信息 mv 文件 目标目录 移动文件或目录，如果指定文件名，则可以重命名文件 rm filename 删除文件 rm -r 删除目录及其中的所有内容 rm -i 交互式删除 rm -f 强制删除，没有警告提示 mkdir 创建一个目录 rmdir 删除一个空目录 rm -r 删除一个非空目录 date 查看、设置当前系统时间 hwclock(clock) 用以显示硬件时钟时间 cal 查看日历 uptime 查看系统运行时间 echo 显示输入的内容 cat 显示文件内容 head 显示文件头几行，默认10行，-n指定显示的行数 tail 显示文件末尾的几行，默认10行，-n指定显示的行数 -f 追踪显示文件更新 more 翻页显示文件内容，只能向下翻页 less 翻页显示文件内容，带上下翻页 lspci 查看PCI设备，-v查看详细信息 lsusb 查看USB设备，-v查看详细信息 lsmod 查看加载的驱动（模块） shutdown -h now 立即关机 shutdown -h +10 10分钟后关机 shutdown -h 23：00 23：00分关机 shutdown -r now 立即重启，也可定时关机 poweroff 立即关机 reboot 立即重启 zip *.zip filename 压缩文件 unzip *.zip 解压缩文件 gzip filename 压缩文件 gzip -d *.gz 解压缩文件 tar -cvf *.tar filename 归档文件，不压缩 tar -xvf *.tar 释放归档文件 tar -cvzf *.tar.gz filename -z参数将归档后的归档文件进行gzip压缩 locate filename 快速查找文件、文件夹，此命令需要预先建立数据库，updatedb命令手工建立、更新数据库 find 查找位置，查找参数 find .-name linux查找当前目录下包含linux的文件 find / -perm 777 查找根目录下权限为777的文件 find / -type d 查找根目录下类型为目录的文件 find / -name a* -exec ls -ls {} 查找以a开头的文件并执行ls -l命令，-exec{}; 为固定格式 vim :x 保存并退出 :!系统命令 执行一个系统命令 :sh 切换到命令行，使用ctrl+d切换回vim]]></content>
+      <categories>
+        <category>Linux</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python_s1_day01_topic_skills_coding]]></title>
+    <url>%2F2018%2F06%2F14%2FPython_s1_day01_topic_skills_coding%2F</url>
+    <content type="text"><![CDATA[1234#!/usr/bin/env python # when code in Linux, it will run well# -*- coding:utf8 -*- # when python2 print str out of the range of ascii, then it will use utf8print('Hello World')print('你好，世界')]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python for data analysis(2nd)]]></title>
+    <url>%2F2018%2F06%2F13%2FPdf_Python_books_pandas_2_nd%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Books</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Record of my blog!]]></title>
+    <url>%2F2018%2F03%2F25%2FModel%2F</url>
+    <content type="text"><![CDATA[This is my first blog article!]]></content>
+      <categories>
+        <category>Skills</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+</search>
