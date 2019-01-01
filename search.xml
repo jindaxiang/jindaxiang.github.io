@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Anaconda]]></title>
+    <title><![CDATA[Anacondadddddaaaaaaaaaaaa]]></title>
     <url>%2F2019%2F01%2F01%2FAnaconda%2F</url>
     <content type="text"><![CDATA[If you want to update the syper, anaconda, python or conda, you can follow these steps Step one: you should run the cmd command Step two: update conda```13. Step three: ```conda update anaconda Step four: update spyder```15. Step five: ```conda update python]]></content>
       <categories>
@@ -358,9 +358,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
-    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
+    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
       <categories>
         <category>Python</category>
       </categories>
@@ -369,9 +369,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
-    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
+    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
       <categories>
         <category>Python</category>
       </categories>
