@@ -1,5 +1,5 @@
 ---
-title: Web_Scraping_with_Python_2nd
+title: Web Scraping with Python 2nd
 date: 2018-12-16 10:07:12
 tags: [Skill]
 categories: [Web_Scraping]
