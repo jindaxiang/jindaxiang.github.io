@@ -78,11 +78,17 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# deploy:
+  # type: git # 部署的类型
+  # repository: git@github.com:jindaxiang/jindaxiang.github.io.git # 仓库地址
+  # branch: master # 分支名称
+  # message: hexo deploy # 提交信息
 deploy:
-  type: git # 部署的类型
-  repository: git@github.com:jindaxiang/jindaxiang.github.io.git # 仓库地址
+  type: git
+  repository:
+    github: git@github.com:jindaxiang/jindaxiang.github.io.git
+    coding: git@git.dev.tencent.com:jindaxiang/jindaxiang.git
   branch: master # 分支名称
-  message: hexo deploy # 提交信息
 search:
   path: search.xml
   field: post
