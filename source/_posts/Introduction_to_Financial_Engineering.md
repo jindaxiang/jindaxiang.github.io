@@ -1,5 +1,5 @@
 ---
-title: Introduction_to_Financial_Engineering
+title: Introduction to Financial Engineering
 date: 2018-12-07 12:07:52
 tags: [Weekly]
 categories: [Course]
