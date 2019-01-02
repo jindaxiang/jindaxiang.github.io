@@ -1,5 +1,5 @@
 ---
-title: Advances in Financial Machine Learning
+title: Advances in Financial Machine Learning kan
 date: 2019-01-01 16:09:52
 tags: [Skill]
 categories: [Finance]
