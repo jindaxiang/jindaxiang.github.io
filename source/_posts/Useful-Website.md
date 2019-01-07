@@ -17,3 +17,4 @@ categories: [Daily]
 [CS229](http://cs229.stanford.edu/)
 [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 [刘建平Pinard](https://www.cnblogs.com/pinard/)
+[Deeplearning.ai](https://www.deeplearning.ai/)
