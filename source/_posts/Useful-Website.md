@@ -17,4 +17,4 @@ categories: [Daily]
 
 # Machine Learning
 [CS229](http://cs229.stanford.edu/)
-
+[homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
