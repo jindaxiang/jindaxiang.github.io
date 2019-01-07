@@ -10,9 +10,7 @@ categories: [Daily]
 
 # Python
 [Python Cheatsheet](https://www.pythoncheatsheet.org/?hmsr=pycourses.com&utm_source=pycourses.com&utm_medium=pycourses.com#Dataclasses)
-
 [Python Tips](https://pythontips.com/)
-
 [Blog of old boy](https://www.cnblogs.com/bingabcd/p/6984792.html)
 
 # Machine Learning
