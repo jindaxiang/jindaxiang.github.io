@@ -19,3 +19,4 @@ categories: [Daily]
 [刘建平Pinard](https://www.cnblogs.com/pinard/)
 [Deeplearning.ai](https://www.deeplearning.ai/)
 [深度学习思维导图](https://github.com/dformoso/deeplearning-mindmap)
+[kawabangga](https://www.kawabangga.com/how-to-learn-python) for Python Learning Map
