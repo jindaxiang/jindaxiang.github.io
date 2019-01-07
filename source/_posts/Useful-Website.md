@@ -18,3 +18,4 @@ categories: [Daily]
 [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 [刘建平Pinard](https://www.cnblogs.com/pinard/)
 [Deeplearning.ai](https://www.deeplearning.ai/)
+[深度学习思维导图](https://github.com/dformoso/deeplearning-mindmap)
