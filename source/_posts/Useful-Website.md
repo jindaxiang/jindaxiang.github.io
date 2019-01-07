@@ -28,4 +28,4 @@ Second, we will offer tips for how to positively learn Python, Finance and Data 
 [深度学习思维导图](https://github.com/dformoso/deeplearning-mindmap)
 
 # Lifesytle Tips
-[Sticking to New Year&rsquo:s resolutions](https://news.stanford.edu/2018/12/28/resolutions/)
+[Sticking to New Year&rsquo;s resolutions](https://news.stanford.edu/2018/12/28/resolutions/)
