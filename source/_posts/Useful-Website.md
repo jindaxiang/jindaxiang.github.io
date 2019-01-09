@@ -13,9 +13,10 @@ Second, we will offer tips for how to positively learn Python, Finance and Data 
 
 # Finance
 [Joel Hasbrouck](http://people.stern.nyu.edu/jhasbrou/) for High Frequency Data
+[Marcos López de Prado](http://www.quantresearch.info/) for AQR
 
 # Python
-## Python
+## Python Blogs
 [Python Cheatsheet](https://www.pythoncheatsheet.org/?hmsr=pycourses.com&utm_source=pycourses.com&utm_medium=pycourses.com#Dataclasses)
 [Python Tips](https://pythontips.com/)
 [Blog of old boy](https://www.cnblogs.com/bingabcd/p/6984792.html)
