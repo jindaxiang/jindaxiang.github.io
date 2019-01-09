@@ -30,3 +30,6 @@ Second, we will offer tips for how to positively learn Python, Finance and Data 
 
 # Lifesytle Tips
 [Sticking to New Year&rsquo;s resolutions](https://news.stanford.edu/2018/12/28/resolutions/)
+
+# Software House
+[Tsinghua mirrors](https://mirrors.tuna.tsinghua.edu.cn/)
