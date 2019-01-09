@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Useful Website]]></title>
     <url>%2F2019%2F01%2F07%2FUseful-Website%2F</url>
-    <content type="text"><![CDATA[IntroductionFirst, welcome to my website for Data Science sharing!This article will share some interesting Data Science related blogs or urls, you can click the underline to go to the objective address.Thanks for your coming!Second, we will offer tips for how to positively learn Python, Finance and Data Science, and may be it will change your lifesytle. FinanceJoel Hasbrouck for High Frequency Data PythonPython CheatsheetPython TipsBlog of old boykawabangga for Python Learning Map Machine LearningCS229homemade-machine-learning刘建平PinardDeeplearning.ai深度学习思维导图DeepLearning-500-questions Lifesytle TipsSticking to New Year&rsquo;s resolutions Software HouseTsinghua mirrors]]></content>
+    <content type="text"><![CDATA[IntroductionFirst, welcome to my website for Data Science sharing!This article will share some interesting Data Science related blogs or urls, you can click the underline to go to the objective address.Thanks for your coming!Second, we will offer tips for how to positively learn Python, Finance and Data Science, and may be it will change your lifesytle. FinanceJoel Hasbrouck for High Frequency Data PythonPythonPython CheatsheetPython TipsBlog of old boykawabangga for Python Learning Map Python for Web DesignDjango Tutorial, Chinese Edition Machine LearningCS229homemade-machine-learning刘建平PinardDeeplearning.ai深度学习思维导图DeepLearning-500-questions Lifesytle TipsSticking to New Year&rsquo;s resolutions Software HouseTsinghua mirrors]]></content>
       <categories>
         <category>Daily</category>
       </categories>
@@ -358,9 +358,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
-    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
+    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
       <categories>
         <category>Python</category>
       </categories>
@@ -380,9 +380,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
-    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
+    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
       <categories>
         <category>Python</category>
       </categories>
