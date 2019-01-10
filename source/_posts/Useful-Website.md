@@ -11,6 +11,17 @@ This article will share some interesting Data Science related blogs or urls, you
 Thanks for your coming!
 Second, we will offer tips for how to positively learn Python, Finance and Data Science, and may be it will change your lifesytle.
 
+# Academic Urls
+[JFDS](http://www.keaipublishing.com/en/journals/the-journal-of-finance-and-data-science/)
+[ResearchGate](https://www.researchgate.net/)
+[Sci-Hub](http://sci-hub.tw/)
+[SSRN](https://www.ssrn.com/en/)
+[ScienceDirect](https://www.sciencedirect.com/)
+[知网](http://www.cnki.net/)
+[91lib](http://www.91lib.com/)
+[Google-Scholar](https://scholar.google.com)
+[SCMOR](http://dir.scmor.com/)
+
 # Finance
 [Joel Hasbrouck](http://people.stern.nyu.edu/jhasbrou/) for High Frequency Data
 [Marcos López de Prado](http://www.quantresearch.info/) for AQR
