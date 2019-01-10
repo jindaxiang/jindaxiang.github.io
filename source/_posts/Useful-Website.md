@@ -29,6 +29,9 @@ Second, we will offer tips for how to positively learn Python, Finance and Data 
 [Joel Hasbrouck](http://people.stern.nyu.edu/jhasbrou/) for High Frequency Data
 [Marcos López de Prado](http://www.quantresearch.info/) for AQR
 [Guofu Zhou](http://apps.olin.wustl.edu/faculty/zhou/)
+[Campbell R. Harvey's Research Papers](http://people.duke.edu/~charvey/new_research.htm)
+[Marcos Lopez de Prado](http://www.quantresearch.info/Publications.htm)
+[IPR Journals](https://www.iijournals.com/)
 
 # Python
 ## Python Blogs
