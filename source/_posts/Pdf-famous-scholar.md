@@ -1,5 +1,5 @@
 ---
-title: Famous Scholar: P. Eric Yeung
+title: Famous Scholar--P. Eric Yeung
 date: 2019-01-09 16:09:52
 tags: [Scholar]
 categories: [Finance]
