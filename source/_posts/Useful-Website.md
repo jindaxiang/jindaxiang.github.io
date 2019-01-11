@@ -26,6 +26,8 @@ Second, we will offer tips for how to positively learn Python, Finance and Data 
 [Fama-French](frmba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
 ## Financial Package for Python
 [linearmodels](https://github.com/bashtage/linearmodels)
+## Financial Books for Python
+[Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
 
 # Finance
 [Joel Hasbrouck](http://people.stern.nyu.edu/jhasbrou/) for High Frequency Data
