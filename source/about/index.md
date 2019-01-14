@@ -1,6 +1,6 @@
 ---
-title: About
-date: 2018-03-24 20:31:38
+title: Albert King's Profile
+date: 2019-01-14 18:31:38
 type: "about"
 ---
 > Stay Hungry Stay Foolish <br>
