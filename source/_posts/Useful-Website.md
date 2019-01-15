@@ -36,6 +36,7 @@ Second, we will offer tips for how to positively learn Python, Finance and Data 
 [Campbell R. Harvey's Research Papers](http://people.duke.edu/~charvey/new_research.htm)
 [Marcos Lopez de Prado](http://www.quantresearch.info/Publications.htm)
 [IPR Journals](https://www.iijournals.com/)
+[Qiang Chen](http://www.econometrics-stata.com/)
 
 # Python
 ## Python Blogs
