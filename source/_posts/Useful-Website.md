@@ -44,6 +44,7 @@ Second, we will offer tips for how to positively learn Python, Finance and Data 
 [Python Tips](https://pythontips.com/)
 [Blog of old boy](https://www.cnblogs.com/bingabcd/p/6984792.html)
 [kawabangga](https://www.kawabangga.com/how-to-learn-python) for Python Learning Map
+[100-Days](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
 ## Python for Web Design
 [Django Tutorial](https://simpleisbetterthancomplex.com/), [Chinese Edition](https://jfds.nos-eastchina1.126.net/django_tutorial.pdf)
