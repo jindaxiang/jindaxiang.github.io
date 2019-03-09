@@ -1,6 +1,6 @@
 ---
 title: Useful Website
-date: 2019-01-07 10:09:52
+date: 2019-03-09 10:09:52
 tags: [Skill]
 categories: [Daily]
 ---
@@ -56,6 +56,8 @@ Second, we will offer tips for how to positively learn Python, Finance and Data 
 [Deeplearning.ai](https://www.deeplearning.ai/)
 [深度学习思维导图](https://github.com/dformoso/deeplearning-mindmap)
 [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
+[Mathematics for Machine Learning](https://mml-book.github.io/)
+[MLcourse](https://mlcourse.ai/)
 
 # Lifesytle Tips
 [Sticking to New Year&rsquo;s resolutions](https://news.stanford.edu/2018/12/28/resolutions/)
