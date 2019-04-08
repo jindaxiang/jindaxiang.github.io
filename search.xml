@@ -56,17 +56,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[2019年度教育部人文社会科学研究规划基金、青年基金、自筹经费项目评审结果公示一览表]]></title>
-    <url>%2F2019%2F01%2F28%2FPdf-humanities-and-social-sciences%2F</url>
-    <content type="text"><![CDATA[]]></content>
-      <categories>
-        <category>Fund</category>
-      </categories>
-      <tags>
-        <tag>教育部</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Data Processing with Stata 15]]></title>
     <url>%2F2019%2F01%2F28%2FPdf-Stata-Cheat-Sheet%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -75,6 +64,17 @@
       </categories>
       <tags>
         <tag>Stata</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[2019年度教育部人文社会科学研究规划基金、青年基金、自筹经费项目评审结果公示一览表]]></title>
+    <url>%2F2019%2F01%2F28%2FPdf-humanities-and-social-sciences%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Fund</category>
+      </categories>
+      <tags>
+        <tag>教育部</tag>
       </tags>
   </entry>
   <entry>
@@ -122,17 +122,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python for Data Science Cheat Sheet Pandas]]></title>
-    <url>%2F2019%2F01%2F09%2FPdf-Pandas-Cheat-Sheet%2F</url>
-    <content type="text"><![CDATA[]]></content>
-      <categories>
-        <category>Data Science</category>
-      </categories>
-      <tags>
-        <tag>Pandas</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Famous Scholar--P. Eric Yeung]]></title>
     <url>%2F2019%2F01%2F09%2FPdf-famous-scholar%2F</url>
     <content type="text"><![CDATA[P. Eric Yeung，康奈尔大学管理学院终身教授，研究兴趣主要集中于财务会计与资本市场中的三个方面，即经济与行为因素对市场参与者使用会计信息产生的影响、经济与行为因素对管理层提供会计信息产生的影响、会计信息与经济基本面之间的关系，其研究成果全部发表在世界最顶尖的会计和管理类学术期刊上，如The Accounting Review、Journal of Accounting Research、Journal of Accounting and Economics、Management Science、Contemporary Accounting Research、Review of Financial Studies、Strategic Management Journal等。Yeung教授现为国际会计类顶级期刊The Accounting Review编委会委员，并担任了会计学、金融学、管理学等方面共计21家国际学术期刊和AAA年会参会论文的审稿人。2014年，Yeung教授被美国著名网站Poets &amp; Quants评选为“全世界40名40岁以下最杰出的商学院教授”]]></content>
@@ -141,6 +130,17 @@
       </categories>
       <tags>
         <tag>Scholar</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python for Data Science Cheat Sheet Pandas]]></title>
+    <url>%2F2019%2F01%2F09%2FPdf-Pandas-Cheat-Sheet%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Data Science</category>
+      </categories>
+      <tags>
+        <tag>Pandas</tag>
       </tags>
   </entry>
   <entry>
@@ -324,8 +324,8 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Machine_Learning_day_02]]></title>
-    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_02%2F</url>
+    <title><![CDATA[Machine_Learning_day_01]]></title>
+    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_01%2F</url>
     <content type="text"><![CDATA[Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import and manage the data sets. Step 2: Importing the Data SetData sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe. Step 3: Handling the Missing DataThe data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task. Step 4: Encoding Categorical DataCategorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library Step 5: Splitting the dataset into test set and training setWe make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library. Step 6: Feature ScalingMost of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.]]></content>
       <categories>
         <category>Machine Learning</category>
@@ -335,8 +335,8 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Machine_Learning_day_01]]></title>
-    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_01%2F</url>
+    <title><![CDATA[Machine_Learning_day_02]]></title>
+    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_02%2F</url>
     <content type="text"><![CDATA[Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import and manage the data sets. Step 2: Importing the Data SetData sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe. Step 3: Handling the Missing DataThe data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task. Step 4: Encoding Categorical DataCategorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library Step 5: Splitting the dataset into test set and training setWe make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library. Step 6: Feature ScalingMost of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.]]></content>
       <categories>
         <category>Machine Learning</category>
@@ -490,9 +490,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
-    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
+    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
       <categories>
         <category>Python</category>
       </categories>
@@ -512,9 +512,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
-    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
+    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
       <categories>
         <category>Python</category>
       </categories>
