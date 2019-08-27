@@ -10,17 +10,18 @@ categories: [Course]
 ## Introduction to Fixed-Income Treasury
 - Attention: I have put the slides in chinese at bottom of this page, please download the pdf if you need!
 - Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30pm to 20:55pm in the X1320 - in the xipu campus of southwest jiaotong university.
-- This is the syllabus for the September 2018 iteration of the course.
-You can download the book of lectures [here](http://p659fi1z8.bkt.clouddn.com/OptionsFuturesAndOtherDerivatives10.pdf).
-You can download the necessary materials about this book from the [author's homepage](http://www-2.rotman.utoronto.ca/~hull/ofod/).
-You can download the [Errata](http://p659fi1z8.bkt.clouddn.com/OFOD_Errata.pdf) about this book.
+- This is the syllabus for the August 2019 iteration of the course. 
+- You can download the book [Fixed Income Securities 7th](https://jfds.nos-eastchina1.126.net/FICC/the_handbook_of_fixed_income_securities.pdf) written by Frank J. Fabozzi.
+- You can download the other materials about author from the [author's homepage](https://www.edhec.edu/en/corps-professoral-et-chercheurs/fabozzi-frank-phd).
+- You can download papers wirtten by author [here](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=87348) about this book.
 ---
 ## The skills of FICC: Programming, Math and Finance
 
 ### Schedule
 Event Type | Date | Title | Description
 ---|---|---|---
-Lecture 1 | Tuesday August 27 <br> 19:30pm to 20:55pm | Introduction to the Financial Market | 1. Introduction to the recent financial events <br> 2. Introduction to the fin-tech <br> 3. Introduction to the tools about fin-tech
+Lecture 1 | Tuesday August 27 <br> 19:30pm to 20:55pm | Introduction | 1. Conclusion about the Financial Engineering(last semester) <br> 2. Introduction to the recent financial events <br> 3. Introduction to the FICC and course zero
+Lecture 2 | Tuesday August 29 <br> 19:30pm to 20:55pm | Basic Python Programming for beginers | 1. Install python and install pandas, numpy, matplotlib, tushare and other package <br> 2. Use virtual environment and PyCharm <br> 3. Introduction an example about FICC using Python
 Lecture 16 | Thursday  <br> 19:30pm to 20:55pm | Review the content we have learned from this class | Prepare for the article about FICC
 
 ## Homework
@@ -53,7 +54,7 @@ I will put some research article here
 Write an article about FICC market using empirical method
 
 # Attachment
-Name | Click ==download== to download the pdf file
+Name | Click ==Download== to download the pdf file
 ---|---
 第零章-绪论 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E9%9B%B6%E7%AB%A0-%E7%BB%AA%E8%AE%BA.pdf)
 第一章-债券基础知识 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.pdf)
@@ -62,6 +63,9 @@ Name | Click ==download== to download the pdf file
 第四章-债券的收益率 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E6%94%B6%E7%9B%8A%E7%8E%87.pdf)
 第五章-债券价格波动性的衡量 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E5%80%BA%E5%88%B8%E4%BB%B7%E6%A0%BC%E6%B3%A2%E5%8A%A8%E6%80%A7%E7%9A%84%E8%A1%A1%E9%87%8F.pdf)
 第六章-利率期限结构 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%88%A9%E7%8E%87%E6%9C%9F%E9%99%90%E7%BB%93%E6%9E%84.pdf)
+
+
+
 
 
 
