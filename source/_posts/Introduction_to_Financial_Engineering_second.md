@@ -17,7 +17,7 @@ categories: [Course]
 - You can download the [Errata](http://p659fi1z8.bkt.clouddn.com/OFOD_Errata.pdf) about this book.
 ---
 
-## The skills of financial engineering
+## The skills of Financial Engineering
 1. Programming
 2. Math
 3. Finance
@@ -46,6 +46,7 @@ Lecture forever | Every Friday 19:30pm to 21:55pm | Reading material | [Python f
 ---
 
 ## Homework
+
 ### The First Homework
 1. Should read the article or material about The Lehman Bankruptcy, which you can get from the [link in English](https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers) or [link in Chinese](https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin). 
 2. Write an electronic reports in chinese about 1000 words to describe The Lehman Bankruptcy event. You should print it with your Name, Student ID and submit it at next time.
@@ -53,6 +54,7 @@ Lecture forever | Every Friday 19:30pm to 21:55pm | Reading material | [Python f
 ---
 
 ## Mid-term Exam
+
 ### Reading Materials
 [Baidu](https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BD%E9%95%BF%E6%9C%9F%E8%B5%84%E6%9C%AC%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8/9505357?fr=aladdin), which is not very good for you. So i recommand that [Wikipedia](https://www.wikipedia.org/) to search the infomation about LTCM, also, you can read the [article](https://www.sohu.com/a/240167751_313170) written by analyst, who is come form Hong Ming Capital. At last but not least, I think this [material](https://wiki.mbalib.com/wiki/%E7%BE%8E%E5%9B%BD%E9%95%BF%E6%9C%9F%E8%B5%84%E6%9C%AC%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8) is very useful.
 
@@ -70,6 +72,7 @@ If all above materials are not sufficient for you, you can find the useful infor
 ---
 
 ## The Final Exam
+
 ### Reading Materials
 I will put some research articles here
 ### Requirement
