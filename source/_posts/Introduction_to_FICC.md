@@ -9,6 +9,7 @@ categories: [Course]
 ---
 ## Introduction to Fixed-Income Treasury
 - Attention: I have put the slides in chinese at bottom of this page, please download the pdf if you need!
+- We will use 固定收益证券-第四版-类承曜 as the main book, click [here](https://item.jd.com/12001823.html) to buy the book
 - Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30pm to 20:55pm in the X1320 - in the xipu campus of southwest jiaotong university.
 - This is the syllabus for the August 2019 iteration of the course. 
 - You can download the book [Fixed Income Securities 7th](https://jfds.nos-eastchina1.126.net/FICC/the_handbook_of_fixed_income_securities.pdf) written by Frank J. Fabozzi.
@@ -63,8 +64,6 @@ Name | Click ==Download== to download the pdf file
 第四章-债券的收益率 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E6%94%B6%E7%9B%8A%E7%8E%87.pdf)
 第五章-债券价格波动性的衡量 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E5%80%BA%E5%88%B8%E4%BB%B7%E6%A0%BC%E6%B3%A2%E5%8A%A8%E6%80%A7%E7%9A%84%E8%A1%A1%E9%87%8F.pdf)
 第六章-利率期限结构 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%88%A9%E7%8E%87%E6%9C%9F%E9%99%90%E7%BB%93%E6%9E%84.pdf)
-
-
 
 
 
