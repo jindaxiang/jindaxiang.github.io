@@ -85,7 +85,7 @@ Write an article about FICC market using empirical method
 Title | Click ==Download== to download the pdf file
 ---|---
 第0课-绪论 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E9%9B%B6%E7%AB%A0-%E7%BB%AA%E8%AE%BA.pdf)
-第1课-Python介绍及环境配置 | [MindMap](https://jfds.nos-eastchina1.126.net/FICC/class_2/%E5%9B%BA%E5%AE%9A%E6%94%B6%E7%9B%8A%E8%AF%81%E5%88%B8-Python-%E7%AC%AC%E4%BA%8C%E8%AF%BE.png), [Code](https://jfds.nos-eastchina1.126.net/FICC/class_2/con_bond.py), [Software](https://jfds.nos-eastchina1.126.net/FICC/class_2/requirements.txt)
+第1课-Python介绍及环境配置 | [MindMap](https://jfds.nos-eastchina1.126.net/FICC/class_2/%E5%9B%BA%E5%AE%9A%E6%94%B6%E7%9B%8A%E8%AF%81%E5%88%B8-Python-%E7%AC%AC%E4%BA%8C%E8%AF%BE.png), [Code](https://jfds.nos-eastchina1.126.net/FICC/class_2/con_bond.py), [Software](https://jfds.nos-eastchina1.126.net/FICC/class_2/requirements.txt), [Related Blogs](https://jfds.nos-eastchina1.126.net/FE/blogs_links.txt)
 第一章-债券基础知识 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.pdf)
 第二章-债券市场和债券交易 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E5%92%8C%E5%80%BA%E5%88%B8%E4%BA%A4%E6%98%93.pdf)
 第三章-债券的价格 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E4%BB%B7%E6%A0%BC.pdf)
