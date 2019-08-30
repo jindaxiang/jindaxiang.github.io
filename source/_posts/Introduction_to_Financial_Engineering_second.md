@@ -12,24 +12,24 @@ categories: [Course]
 - I have put the slides in chinese at bottom of this page, please download the pdf if you need!
 - Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30pm to 21:55pm in the X1318 in the xipu campus of Southwest Jiaotong University.
 - This is the syllabus for the August 30 2019 iteration of the course.
-- You can download the book [here](http://p659fi1z8.bkt.clouddn.com/OptionsFuturesAndOtherDerivatives10.pdf).
+- You can download the book [here](https://jfds.nos-eastchina1.126.net/FE/OptionsFuturesAndOtherDerivatives10.pdf).
 - You can download the necessary materials about this book from the [author's homepage](http://www-2.rotman.utoronto.ca/~hull/ofod/).
-- You can download the [Errata](http://p659fi1z8.bkt.clouddn.com/OFOD_Errata.pdf) about this book.
+- You can download the [Errata](https://jfds.nos-eastchina1.126.net/FE/errata10e.docx) about this book.
 ---
 
-## The skills of Financial Engineering
-1. Programming
-2. Math
-3. Finance
+## The skills for Financial Engineering
+1. Programming: Python
+2. Math: Calculus, Linear Algebra, Probability
+3. Finance: Finance Market
 ---
 
 ## Schedule
 Event Type | Date | Title | Description
 ---|---|---|---
-Lecture 1 | Friday August 30 <br> 19:30pm to 21:55pm | [Introduction](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/ch01_hull_ofod_10th_edition.pdf) | 1. Should read the article or material about The <br> Lehman Bankruptcy, which you can get from the [link in English](https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers) or [link in Chinese](https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin). 
+Lecture 1 | Friday August 30 <br> 19:30pm to 21:55pm | [Introduction](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/ch01_hull_ofod_10th_edition.pdf) | 1. Should read the article or material about The <br> Lehman Bankruptcy, which you can get from the [link in English](https://jfds.nos-eastchina1.126.net/FE/SSRN-id2016892.pdf) or [link in Chinese](https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin). 
 Lecture 2 | Friday September 6 <br> 19:30pm to 21:55pm | [Introduction](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch02HullOFOD10thEdition.pdf) | 1. Should read the article or material about The <br> Lehman Bankruptcy, which you can get from the [link in English](https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers) or [link in Chinese](https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin). 
-Lecture 3 | Friday September 20 <br> 19:30pm to 21:55pm | [Futures Markets and Central Counterparties](http://p659fi1z8.bkt.clouddn.com/Ch02HullOFOD10thEdition.pdf) | Review the Futures Markets in chapter 2 and concern Central Counterparties
-Lecture 4 | Friday September 27 <br> 19:30pm to 21:55pm | [Futures Markets and Central Counterparties](http://p659fi1z8.bkt.clouddn.com/Ch02HullOFOD10thEdition.pdf) | Review the Futures Markets in chapter 2 and concern Central Counterparties
+Lecture 3 | Friday September 20 <br> 19:30pm to 21:55pm | [Futures Markets and Central Counterparties](https://jfds.nos-eastchina1.126.net/FE/Ch02HullOFOD10thEdition.pdf) | Review the Futures Markets in chapter 2 and concern Central Counterparties
+Lecture 4 | Friday September 27 <br> 19:30pm to 21:55pm | [Futures Markets and Central Counterparties](https://jfds.nos-eastchina1.126.net/FE/Ch02HullOFOD10thEdition.pdf) | Review the Futures Markets in chapter 2 and concern Central Counterparties
 Lecture 5 | Friday September 29 <br> 19:30pm to 21:55pm | [Hedging Strategies Using Futures](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch03HullOFOD10thEdition.pdf) | Should be familar with lesson 4 and will tell you some hedge methods.
 Lecture 6 | Friday October 11 <br> 19:30pm to 21:55pm | [Interest Rates](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch04HullOFOD10thEdition.pdf) | Should be familar with lesson 5 and know about some financial ternominology: [Libor](https://www.global-rates.com/interest-rates/libor/libor.aspx), [Federal funds rate](https://en.wikipedia.org/wiki/Federal_funds_rate), [Repo rate](https://www.investopedia.com/terms/i/implied_repo_rate.asp), [Treasury rate](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/Historic-LongTerm-Rate-Data-Visualization.aspx), [OIS rate](https://www.investopedia.com/terms/o/overnightindexswap.asp)
 Lecture 7 | Friday October 18 <br> 19:30pm to 21:55pm | [Determination of Forward and Futures Prices](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch05HullOFOD10thEdition.pdf) | This lesson will teach you how to determine the price of the futures and forword.
@@ -92,6 +92,7 @@ Title | Click ==Download== to download the pdf file
 第八章：证券化和2007年信用危机 | [Download](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%85%AB%E7%AB%A0-%E8%AF%81%E5%88%B8%E5%8C%96%E5%92%8C2007%E5%B9%B4%E4%BF%A1%E7%94%A8%E5%8D%B1%E6%9C%BA.pdf)
 第九章：期权市场的机制 | [Download](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E6%9C%9F%E6%9D%83%E5%B8%82%E5%9C%BA%E6%9C%BA%E5%88%B6.pdf)
 第十章：股票期权的性质 | [Download](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E8%82%A1%E7%A5%A8%E6%9C%9F%E6%9D%83%E7%9A%84%E6%80%A7%E8%B4%A8.pdf)
+
 
 
 
