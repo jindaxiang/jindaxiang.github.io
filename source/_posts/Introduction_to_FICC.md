@@ -19,9 +19,9 @@ categories: [Course]
 ---
 
 ## The skills of financial engineering
-1. Programming
-2. Math
-3. Finance
+1. Programming: Python
+2. Math: Calculus, Linear Algebra, Probability
+3. Finance: Finance Market
 ---
 
 ## Schedule
@@ -90,8 +90,3 @@ Title | Click Download to oepn or download the pdf file
 第14课-Python应用 | 
 第15课-案例 | 
 第16课-案例 | 
-
-
-
-
-
