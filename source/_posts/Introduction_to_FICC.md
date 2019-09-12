@@ -79,7 +79,7 @@ Title | Click Download to oepn or download the pdf file
 第3课-债券基础知识 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.pdf)
 第4课-Python应用: Pandas | [Pandas in 10 mins](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html), [Tushare Code](https://jfds.nos-eastchina1.126.net/FICC/class_4/get_a_stock.py) , [Tushare Web Site](https://tushare.pro/document/2), [Python Basic in Chinese](https://www.liaoxuefeng.com/wiki/1016959663602400)
 第5课-债券市场和债券交易 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E5%92%8C%E5%80%BA%E5%88%B8%E4%BA%A4%E6%98%93.pdf)
-第6课-Python应用: Numpy & Matplotlib | 
+第6课-Python应用: Numpy & Matplotlib | [class_6_demo](https://jfds.nos-eastchina1.126.net/FICC/class_6/class_6_demo.py)
 第7课-债券的价格 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E4%BB%B7%E6%A0%BC.pdf)
 第8课-Python应用 | 
 第9课-债券的收益率 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E6%94%B6%E7%9B%8A%E7%8E%87.pdf)
