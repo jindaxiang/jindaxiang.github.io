@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Python_report]]></title>
+    <url>%2F2019%2F09%2F16%2FPython_get_report%2F</url>
+    <content type="text"><![CDATA[123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263# coding=utf-8# /usr/bin/env python"""Author: Albert Kingdate: 2019/9/15 18:27desc: 调用 configparser 模块管理您的 token，防止重要信息外泄；调用 pathlib 模块管理路径；利用 f-strings 管理字符串替换"""from pathlib import Path # 路径管理模块import logging # 日志管理模块import configparser # 配置管理模块import jqdatasdk as jq # 聚宽数据接口import tushare as ts # Tushare 数据接口import pandas as pdpd.options.display.max_columns = Nonepd.options.display.max_rows = Nonelogger = logging.getLogger()logger.setLevel(logging.INFO)logFormatter = '%(asctime)s - %(user)s - %(levelname)s - %(message)s'formatter = logging.Formatter(fmt=logFormatter)console = logging.StreamHandler() # 配置日志输出到控制台console.setLevel(logging.INFO) # 设置输出到控制台的最低日志级别console.setFormatter(formatter) # 设置格式logger.addHandler(console)handler = logging.FileHandler(Path(r"C:\Users\king\PycharmProjects\rep_process\config") / 'king.log', mode='w') # mode="a", 为追加文件; mode="w", 为擦出后写入文件handler.setLevel(logging.INFO)handler.setFormatter(formatter)logger.addHandler(handler)logger.info("Begin record", extra=&#123;'user': 'king'&#125;)path_ini = Path(r'C:\Users\king\PycharmProjects\rep_process\config\account_info.ini')config = configparser.ConfigParser()config.read(path_ini)jq_username = config['joinquant']['username']jq_password = config['joinquant']['password']jq.auth(jq_username, jq_password)jq.get_all_securities()ts_token = config['tushare']['token']pro = ts.pro_api(ts_token)data = pro.stock_basic(exchange='', list_status='L', fields='ts_code,symbol,name,area,industry,list_date')for item in data['ts_code'][:10]: df = pro.anns(ts_code=item, start_date='20180401', end_date='20190521', year='2019', fields='ts_code,ann_date,ann_type,title,content,pub_time') content_text = df[(df['ann_type'] == "年度报告") &amp; (df['title'].str.endswith("报告"))]['content'].values[0] with open(Path(r'C:\Users\king\PycharmProjects\rep_process\tushare_data') / f"&#123;item&#125;.txt", 'w', encoding='utf-8') as f: f.write(content_text) logger.info(f"&#123;item&#125; finished", extra=&#123;'user': 'king'&#125;)my_name = "jindaxiang"logger.info(f"Finished by &#123;my_name.upper()&#125;", extra=&#123;"user": "daxiang"&#125;)with open(Path(r"C:\Users\king\PycharmProjects\rep_process\config") / "king.log", "r") as f: print(f.read())]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Report</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Python_basic]]></title>
     <url>%2F2019%2F09%2F15%2FPython_basic%2F</url>
     <content type="text"><![CDATA[123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657# coding=utf-8# /usr/bin/env python"""Author: Albert Kingdate: 2019/9/15 18:27desc: 调用 configparser 模块管理您的 token，防止重要信息外泄；调用 pathlib 模块管理路径；利用 f-strings 管理字符串替换"""from pathlib import Path # 路径管理模块import logging # 日志管理模块import configparser # 配置管理模块import jqdatasdk as jq # 聚宽数据接口import tushare as ts # Tushare 数据接口logger = logging.getLogger()logger.setLevel(logging.INFO)logFormatter = '%(asctime)s - %(user)s - %(levelname)s - %(message)s'formatter = logging.Formatter(fmt=logFormatter)console = logging.StreamHandler() # 配置日志输出到控制台console.setLevel(logging.INFO) # 设置输出到控制台的最低日志级别console.setFormatter(formatter) # 设置格式logger.addHandler(console)handler = logging.FileHandler('king.log', mode='w') # mode="a", 为追加文件; mode="w", 为擦出后写入文件handler.setLevel(logging.INFO)handler.setFormatter(formatter)logger.addHandler(handler)logger.info("Begin record", extra=&#123;'user': 'king'&#125;)path_ini = Path(r'account_info.ini')config = configparser.ConfigParser()config.read(path_ini)jq_username = config['joinquant']['username']jq_password = config['joinquant']['password']jq.auth(jq_username, jq_password)jq.get_all_securities()ts_token = config['tushare']['token']pro = ts.pro_api(ts_token)data = pro.stock_basic(exchange='', list_status='L', fields='ts_code,symbol,name,area,industry,list_date')for item in data['ts_code'][:10]: temp_df = pro.daily(ts_code=item, start_date='20180701', end_date='20180718') temp_df.to_csv(f'&#123;item&#125;.csv') logger.info(f"&#123;item&#125; finished", extra=&#123;'user': 'king'&#125;)my_name = "jindaxiang"logger.info(f"Finished by &#123;my_name.upper()&#125;", extra=&#123;'user': 'daxiang'&#125;)with open('king.log', 'r') as f: print(f.read())]]></content>
@@ -556,6 +567,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
+    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
     <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
     <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
@@ -570,17 +592,6 @@
     <title><![CDATA[Python_s1_day02_topic_skills_Set_domestic_source]]></title>
     <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_set_domestic_source%2F</url>
     <content type="text"><![CDATA[Set Python default domestic sourcePIP安装源替换成国内镜像，可以大幅提升下载速度，还可以提高安装成功率。If you always install packages from pypi, then you will find that use default source will be very slow!you can use domestic source from the next list: Attention: new version ubuntu require https! 清华：https://pypi.tuna.tsinghua.edu.cn/simple 阿里云：http://mirrors.aliyun.com/pypi/simple/ 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 华中理工大学：http://pypi.hustunique.com/ 山东理工大学：http://pypi.sdutlinux.org/ 豆瓣：http://pypi.douban.com/simple/ Temporary useyou can add parameters in pip install -i https://pypi.tuna.tsinghua.edu.cn/simple for example: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspideryou will download the pyspider from the TUNA source Permanent changeUnder the environment of Linux, fix ~/.pip/pip.conf (没有就创建一个文件夹及文件。文件夹要加“.”，表示是隐藏文件夹) content as follows：1234[global]index-url = https://pypi.tuna.tsinghua.edu.cn/simple[install]trusted-host=mirrors.aliyun.com Under the environment of windows, create the dir under the user dir, for example：C:\Users\xx\pip, create pip.ini。content as above.]]></content>
-      <categories>
-        <category>Python</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
-    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
       <categories>
         <category>Python</category>
       </categories>
