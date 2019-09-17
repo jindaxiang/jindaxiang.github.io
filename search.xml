@@ -12,6 +12,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Introduction to Fixed-Income Treasury]]></title>
+    <url>%2F2019%2F09%2F17%2FIntroduction_to_FICC%2F</url>
+    <content type="text"><![CDATA[Fixed-Income Treasury P.S. The course begin at 2019-08-27, thank you for your participation! Fixed-Income Treasury P.S. The course begin at 2019-08-27, thank you for your participation! Attention Attention: I have put the slides in chinese at bottom of this page, please download the pdf if you need! We will use 固定收益证券-第四版-类承曜 as the main book, click here to buy the book Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30pm to 20:55pm in the X1320 - in the xipu campus of southwest jiaotong university. This is the syllabus for the August 2019 iteration of the course. You can download the book Fixed Income Securities 7th written by Frank J. Fabozzi. You can download the other materials about author from the author’s homepage. You can download papers wirtten by author here about this book. The skills of financial engineering Programming: Python Math: Calculus, Linear Algebra, Probability Finance: Finance Market Schedule Event Type Date Title Description Lecture 1 Tuesday August 27 19:30pm to 20:55pm Introduction 1. Conclusion about the Financial Engineering(last semester) 2. Introduction to the recent financial events 3. Introduction to the FICC and course zero Lecture 2 Thursday August 29 19:30pm to 20:55pm Basic Python Programming for beginers 1. Install python and install pandas, numpy, matplotlib, tushare and other package 2. Use virtual environment and PyCharm 3. Introduction an example about FICC using Python Lecture 3 Tuesday September 3 19:30pm to 20:55pm Bond Fundamentals 1. What is a bond 2. International bond market 3. Chinese bond market Lecture 4 Thursday September 5 19:30pm to 20:55pm Data scientist using Python: Pandas 1. Write your first line of code 2. Get the data from API 3. Examples Lecture 5 Tuesday September 10 19:30pm to 20:55pm Bond Market and Bond Trading 1. Types of bond market 2. How to apply for bond 3. Bond rating Lecture 6 Thursday September 12 19:30pm to 20:55pm Data scientist using Python: Numpy, Matplotlib 1. Introduction to Numpy 2. Introduction to Matplotlib 3. Examples Lecture 16 Thursday 19:30pm to 20:55pm Review the content we have learned from this class Prepare for the article about FICC HomeworkWaiting The Mid-term Homework Published: 2019-09-19 Content: To describe the 327 bond event in chinese, reference materials are provided here! To download the fundamental bond data from the website and print the code in paper. Give me the paper in the next class. If all above materials are not sufficient for you, you can find the useful information by yourself. Requirement of the FormatMid-term-Format The content of the Mid-term ExamWaiting The Final ExamReading MaterialsI will put some research articles here or in the attachment RequirementWrite an article about FICC market using empirical method Attachment Title Click Download to oepn or download the pdf file 第1课-绪论 Download 第2课-Python介绍及环境配置 Class MindMap, Code, Software, Anaconda 教程, 虚拟环境设置, Python MindMap 第3课-债券基础知识 Download 第4课-Python应用: Pandas Pandas in 10 mins, Tushare Code , Tushare Web Site, Python Basic in Chinese 第5课-债券市场和债券交易 Download 第6课-Python应用: Pandas&amp;Tushare class_6_demo 第7课-债券市场和债券交易 Download 第8课-Python应用 Download 第9课-债券的价格 Download 第10课-Python应用 第11课-债券的收益率 Download 第12课-Python应用 第13课-债券价格波动性的衡量 Download 第14课-Python应用 第15课-利率期限结构 Download 第16课-Python应用]]></content>
+      <categories>
+        <category>Course</category>
+      </categories>
+      <tags>
+        <tag>Weekly</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Python_report]]></title>
     <url>%2F2019%2F09%2F16%2FPython_get_report%2F</url>
     <content type="text"><![CDATA[123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263# coding=utf-8# /usr/bin/env python"""Author: Albert Kingdate: 2019/9/15 18:27desc: 调用 configparser 模块管理您的 token，防止重要信息外泄；调用 pathlib 模块管理路径；利用 f-strings 管理字符串替换"""from pathlib import Path # 路径管理模块import logging # 日志管理模块import configparser # 配置管理模块import jqdatasdk as jq # 聚宽数据接口import tushare as ts # Tushare 数据接口import pandas as pdpd.options.display.max_columns = Nonepd.options.display.max_rows = Nonelogger = logging.getLogger()logger.setLevel(logging.INFO)logFormatter = '%(asctime)s - %(user)s - %(levelname)s - %(message)s'formatter = logging.Formatter(fmt=logFormatter)console = logging.StreamHandler() # 配置日志输出到控制台console.setLevel(logging.INFO) # 设置输出到控制台的最低日志级别console.setFormatter(formatter) # 设置格式logger.addHandler(console)handler = logging.FileHandler(Path(r"C:\Users\king\PycharmProjects\rep_process\config") / 'king.log', mode='w') # mode="a", 为追加文件; mode="w", 为擦出后写入文件handler.setLevel(logging.INFO)handler.setFormatter(formatter)logger.addHandler(handler)logger.info("Begin record", extra=&#123;'user': 'king'&#125;)path_ini = Path(r'C:\Users\king\PycharmProjects\rep_process\config\account_info.ini')config = configparser.ConfigParser()config.read(path_ini)jq_username = config['joinquant']['username']jq_password = config['joinquant']['password']jq.auth(jq_username, jq_password)jq.get_all_securities()ts_token = config['tushare']['token']pro = ts.pro_api(ts_token)data = pro.stock_basic(exchange='', list_status='L', fields='ts_code,symbol,name,area,industry,list_date')for item in data['ts_code'][:10]: df = pro.anns(ts_code=item, start_date='20180401', end_date='20190521', year='2019', fields='ts_code,ann_date,ann_type,title,content,pub_time') content_text = df[(df['ann_type'] == "年度报告") &amp; (df['title'].str.endswith("报告"))]['content'].values[0] with open(Path(r'C:\Users\king\PycharmProjects\rep_process\tushare_data') / f"&#123;item&#125;.txt", 'w', encoding='utf-8') as f: f.write(content_text) logger.info(f"&#123;item&#125; finished", extra=&#123;'user': 'king'&#125;)my_name = "jindaxiang"logger.info(f"Finished by &#123;my_name.upper()&#125;", extra=&#123;"user": "daxiang"&#125;)with open(Path(r"C:\Users\king\PycharmProjects\rep_process\config") / "king.log", "r") as f: print(f.read())]]></content>
@@ -48,17 +59,6 @@
     <title><![CDATA[Introduction to Financial Engineering Second Version]]></title>
     <url>%2F2019%2F08%2F27%2FIntroduction_to_Financial_Engineering_second%2F</url>
     <content type="text"><![CDATA[Introduction to Financial Engineering P.S. The course begin at 2019-08-30, thank you for your participation! Attention I have put the slides in chinese at bottom of this page, please download the pdf if you need! Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30pm to 21:55pm in the X1318 in the xipu campus of Southwest Jiaotong University. This is the syllabus for the August 30 2019 iteration of the course. You can download the book here. You can download the necessary materials about this book from the author’s homepage. You can download the Errata about this book. The skills for Financial Engineering Programming: Python Math: Calculus, Linear Algebra, Probability Finance: Finance Market Schedule Event Type Date Title Description Lecture 1 Friday August 30 19:30pm to 21:55pm Introduction 1. Should read the article or material about The Lehman Bankruptcy, which you can get from the link in English or link in Chinese. Lecture 2 Friday September 6 19:30pm to 21:55pm Introduction 1. To find futures and options exchange in China. Link1 Link2 2. To find every king of product in these exchanges. Lecture 3 Friday September 20 19:30pm to 21:55pm Futures Markets and Central Counterparties Review the Futures Markets in chapter 2 and concern Central Counterparties Lecture 4 Friday September 27 19:30pm to 21:55pm Futures Markets and Central Counterparties Review the Futures Markets in chapter 2 and concern Central Counterparties Lecture 5 Friday September 29 19:30pm to 21:55pm Hedging Strategies Using Futures Should be familar with lesson 4 and will tell you some hedge methods. Lecture 6 Friday October 11 19:30pm to 21:55pm Interest Rates Should be familar with lesson 5 and know about some financial ternominology: Libor, Federal funds rate, Repo rate, Treasury rate, OIS rate Lecture 7 Friday October 18 19:30pm to 21:55pm Determination of Forward and Futures Prices This lesson will teach you how to determine the price of the futures and forword. Lecture 8 Friday October 25 19:30pm to 21:55pm Interest Rate Futures Day count convention, Treasury Bond and Eurodollar Futures. Lecture 9 Friday November 1 19:30pm to 21:55pm Interest Rate Futures Day count convention, Treasury Bond and Eurodollar Futures. Lecture 10 Friday November 8 19:30pm to 21:55pm Swaps This lesson will teach almost all types of swaps Lecture 11 Friday November 15 19:30pm to 21:55pm Swaps This lesson will teach almost all types of swaps Lecture 12 Friday November 22 19:30pm to 21:55pm Securitization and the Credit Crisis of 2007 This lesson will teach almost all types of swaps Lecture 13 Friday November 29 19:30pm to 21:55pm Mechanics of Options Markets Get into the world of Options Lecture 14 Friday December 06 19:30pm to 21:55pm Properties of Stock Options Introduction to the properties of stock options Lecture 15 Friday December 13 19:30pm to 21:55pm Properties of Stock Options Introduction to the properties of stock options Lecture 16 Friday December 20 19:30pm to 21:55pm Review the content we have learned from this class Prepare for the article Lecture forever Every Friday 19:30pm to 21:55pm Reading material Python for Finance HomeworkThe First Homework Should read the article or material about The Lehman Bankruptcy, which you can get from the link in English or link in Chinese. Write an electronic reports in chinese about 1000 words to describe The Lehman Bankruptcy event. You should print it with your Name, Student ID and submit it at next time. Click here to download the format of the homework. Mid-term ExamReading MaterialsBaidu, which is not very good for you. So i recommand that Wikipedia to search the infomation about LTCM, also, you can read the article written by analyst, who is come form Hong Ming Capital. At last but not least, I think this material is very useful. If all above materials are not sufficient for you, you can find the useful information by yourself. Requirement of the FormatClick here to download the format of the homework. The Content of the Mid-term Exam First, you should choose one of the three opinions about LTCM, especially, your opinion is the most important. Second, there are many different ideas about the bankruptcy of LTCM Support the LTCM for that the default of the Treasury bond can not be control The LTCM should take some methods about th risk of the default of Treasury bond The two side the coin Last, you should write the opinion about the bankruptcy of LTCM, the words in this article should more than 1000 words and less than 5000 words in Chinese. Next class at 2019-11-01, you should give me your homework. The Final ExamReading MaterialsI will put some research articles here RequirementWrite an article about FE using empirical method Attachment: Title Click ==Download== to download the pdf file 第一章：导言 Download 第二章：期货市场的运行机制 Download 第三章：利用期货的对冲策略 Download 第四章：利率 Download 第五章：远期和期货价格的确定 Download 第六章：利率期货 Download 第七章：互换 Download 第八章：证券化和2007年信用危机 Download 第九章：期权市场的机制 Download 第十章：股票期权的性质 Download]]></content>
-      <categories>
-        <category>Course</category>
-      </categories>
-      <tags>
-        <tag>Weekly</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Introduction to Fixed-Income Treasury]]></title>
-    <url>%2F2019%2F08%2F27%2FIntroduction_to_FICC%2F</url>
-    <content type="text"><![CDATA[Fixed-Income Treasury P.S. The course begin at 2019-08-27, thank you for your participation! Attention Attention: I have put the slides in chinese at bottom of this page, please download the pdf if you need! We will use 固定收益证券-第四版-类承曜 as the main book, click here to buy the book Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30pm to 20:55pm in the X1320 - in the xipu campus of southwest jiaotong university. This is the syllabus for the August 2019 iteration of the course. You can download the book Fixed Income Securities 7th written by Frank J. Fabozzi. You can download the other materials about author from the author’s homepage. You can download papers wirtten by author here about this book. The skills of financial engineering Programming: Python Math: Calculus, Linear Algebra, Probability Finance: Finance Market Schedule Event Type Date Title Description Lecture 1 Tuesday August 27 19:30pm to 20:55pm Introduction 1. Conclusion about the Financial Engineering(last semester) 2. Introduction to the recent financial events 3. Introduction to the FICC and course zero Lecture 2 Thursday August 29 19:30pm to 20:55pm Basic Python Programming for beginers 1. Install python and install pandas, numpy, matplotlib, tushare and other package 2. Use virtual environment and PyCharm 3. Introduction an example about FICC using Python Lecture 3 Tuesday September 3 19:30pm to 20:55pm Bond Fundamentals 1. What is a bond 2. International bond market 3. Chinese bond market Lecture 4 Thursday September 5 19:30pm to 20:55pm Data scientist using Python: Pandas 1. Write your first line of code 2. Get the data from API 3. Examples Lecture 5 Tuesday September 10 19:30pm to 20:55pm Bond Market and Bond Trading 1. Types of bond market 2. How to apply for bond 3. Bond rating Lecture 6 Thursday September 12 19:30pm to 20:55pm Data scientist using Python: Numpy, Matplotlib 1. Introduction to Numpy 2. Introduction to Matplotlib 3. Examples Lecture 16 Thursday 19:30pm to 20:55pm Review the content we have learned from this class Prepare for the article about FICC HomeworkWaiting The Mid-term HomeworkWating If all above materials are not sufficient for you, you can find the useful information by yourself. Requirement of the FormatWating The content of the Mid-term ExamWaiting The Final ExamReading MaterialsI will put some research articles here or in the attachment RequirementWrite an article about FICC market using empirical method Attachment Title Click Download to oepn or download the pdf file 第1课-绪论 Download 第2课-Python介绍及环境配置 Class MindMap, Code, Software, Anaconda 教程, 虚拟环境设置, Python MindMap 第3课-债券基础知识 Download 第4课-Python应用: Pandas Pandas in 10 mins, Tushare Code , Tushare Web Site, Python Basic in Chinese 第5课-债券市场和债券交易 Download 第6课-Python应用: Numpy &amp; Matplotlib class_6_demo 第7课-债券的价格 Download 第8课-Python应用 第9课-债券的收益率 Download 第10课-Python应用 第11课-债券价格波动性的衡量 Download 第12课-Python应用 第13课-利率期限结构 Download 第14课-Python应用 第15课-案例 第16课-案例]]></content>
       <categories>
         <category>Course</category>
       </categories>
@@ -144,17 +144,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[2019年度教育部人文社会科学研究规划基金、青年基金、自筹经费项目评审结果公示一览表]]></title>
-    <url>%2F2019%2F01%2F28%2FPdf-humanities-and-social-sciences%2F</url>
-    <content type="text"><![CDATA[]]></content>
-      <categories>
-        <category>Fund</category>
-      </categories>
-      <tags>
-        <tag>教育部</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Data Processing with Stata 15]]></title>
     <url>%2F2019%2F01%2F28%2FPdf-Stata-Cheat-Sheet%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -163,6 +152,17 @@
       </categories>
       <tags>
         <tag>Stata</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[2019年度教育部人文社会科学研究规划基金、青年基金、自筹经费项目评审结果公示一览表]]></title>
+    <url>%2F2019%2F01%2F28%2FPdf-humanities-and-social-sciences%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Fund</category>
+      </categories>
+      <tags>
+        <tag>教育部</tag>
       </tags>
   </entry>
   <entry>
@@ -210,17 +210,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Famous Scholar--P. Eric Yeung]]></title>
-    <url>%2F2019%2F01%2F09%2FPdf-famous-scholar%2F</url>
-    <content type="text"><![CDATA[P. Eric Yeung，康奈尔大学管理学院终身教授，研究兴趣主要集中于财务会计与资本市场中的三个方面，即经济与行为因素对市场参与者使用会计信息产生的影响、经济与行为因素对管理层提供会计信息产生的影响、会计信息与经济基本面之间的关系，其研究成果全部发表在世界最顶尖的会计和管理类学术期刊上，如The Accounting Review、Journal of Accounting Research、Journal of Accounting and Economics、Management Science、Contemporary Accounting Research、Review of Financial Studies、Strategic Management Journal等。Yeung教授现为国际会计类顶级期刊The Accounting Review编委会委员，并担任了会计学、金融学、管理学等方面共计21家国际学术期刊和AAA年会参会论文的审稿人。2014年，Yeung教授被美国著名网站Poets &amp; Quants评选为“全世界40名40岁以下最杰出的商学院教授”]]></content>
-      <categories>
-        <category>Finance</category>
-      </categories>
-      <tags>
-        <tag>Scholar</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Python for Data Science Cheat Sheet Pandas]]></title>
     <url>%2F2019%2F01%2F09%2FPdf-Pandas-Cheat-Sheet%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -229,6 +218,17 @@
       </categories>
       <tags>
         <tag>Pandas</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Famous Scholar--P. Eric Yeung]]></title>
+    <url>%2F2019%2F01%2F09%2FPdf-famous-scholar%2F</url>
+    <content type="text"><![CDATA[P. Eric Yeung，康奈尔大学管理学院终身教授，研究兴趣主要集中于财务会计与资本市场中的三个方面，即经济与行为因素对市场参与者使用会计信息产生的影响、经济与行为因素对管理层提供会计信息产生的影响、会计信息与经济基本面之间的关系，其研究成果全部发表在世界最顶尖的会计和管理类学术期刊上，如The Accounting Review、Journal of Accounting Research、Journal of Accounting and Economics、Management Science、Contemporary Accounting Research、Review of Financial Studies、Strategic Management Journal等。Yeung教授现为国际会计类顶级期刊The Accounting Review编委会委员，并担任了会计学、金融学、管理学等方面共计21家国际学术期刊和AAA年会参会论文的审稿人。2014年，Yeung教授被美国著名网站Poets &amp; Quants评选为“全世界40名40岁以下最杰出的商学院教授”]]></content>
+      <categories>
+        <category>Finance</category>
+      </categories>
+      <tags>
+        <tag>Scholar</tag>
       </tags>
   </entry>
   <entry>
@@ -412,8 +412,8 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Machine_Learning_day_01]]></title>
-    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_01%2F</url>
+    <title><![CDATA[Machine_Learning_day_02]]></title>
+    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_02%2F</url>
     <content type="text"><![CDATA[Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import and manage the data sets. Step 2: Importing the Data SetData sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe. Step 3: Handling the Missing DataThe data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task. Step 4: Encoding Categorical DataCategorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library Step 5: Splitting the dataset into test set and training setWe make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library. Step 6: Feature ScalingMost of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.]]></content>
       <categories>
         <category>Machine Learning</category>
@@ -423,8 +423,8 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Machine_Learning_day_02]]></title>
-    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_02%2F</url>
+    <title><![CDATA[Machine_Learning_day_01]]></title>
+    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_01%2F</url>
     <content type="text"><![CDATA[Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import and manage the data sets. Step 2: Importing the Data SetData sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe. Step 3: Handling the Missing DataThe data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task. Step 4: Encoding Categorical DataCategorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library Step 5: Splitting the dataset into test set and training setWe make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library. Step 6: Feature ScalingMost of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.]]></content>
       <categories>
         <category>Machine Learning</category>
@@ -578,9 +578,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
-    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_Set_domestic_source]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_set_domestic_source%2F</url>
+    <content type="text"><![CDATA[Set Python default domestic sourcePIP安装源替换成国内镜像，可以大幅提升下载速度，还可以提高安装成功率。If you always install packages from pypi, then you will find that use default source will be very slow!you can use domestic source from the next list: Attention: new version ubuntu require https! 清华：https://pypi.tuna.tsinghua.edu.cn/simple 阿里云：http://mirrors.aliyun.com/pypi/simple/ 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 华中理工大学：http://pypi.hustunique.com/ 山东理工大学：http://pypi.sdutlinux.org/ 豆瓣：http://pypi.douban.com/simple/ Temporary useyou can add parameters in pip install -i https://pypi.tuna.tsinghua.edu.cn/simple for example: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspideryou will download the pyspider from the TUNA source Permanent changeUnder the environment of Linux, fix ~/.pip/pip.conf (没有就创建一个文件夹及文件。文件夹要加“.”，表示是隐藏文件夹) content as follows：1234[global]index-url = https://pypi.tuna.tsinghua.edu.cn/simple[install]trusted-host=mirrors.aliyun.com Under the environment of windows, create the dir under the user dir, for example：C:\Users\xx\pip, create pip.ini。content as above.]]></content>
       <categories>
         <category>Python</category>
       </categories>
@@ -589,9 +589,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_Set_domestic_source]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_set_domestic_source%2F</url>
-    <content type="text"><![CDATA[Set Python default domestic sourcePIP安装源替换成国内镜像，可以大幅提升下载速度，还可以提高安装成功率。If you always install packages from pypi, then you will find that use default source will be very slow!you can use domestic source from the next list: Attention: new version ubuntu require https! 清华：https://pypi.tuna.tsinghua.edu.cn/simple 阿里云：http://mirrors.aliyun.com/pypi/simple/ 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 华中理工大学：http://pypi.hustunique.com/ 山东理工大学：http://pypi.sdutlinux.org/ 豆瓣：http://pypi.douban.com/simple/ Temporary useyou can add parameters in pip install -i https://pypi.tuna.tsinghua.edu.cn/simple for example: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspideryou will download the pyspider from the TUNA source Permanent changeUnder the environment of Linux, fix ~/.pip/pip.conf (没有就创建一个文件夹及文件。文件夹要加“.”，表示是隐藏文件夹) content as follows：1234[global]index-url = https://pypi.tuna.tsinghua.edu.cn/simple[install]trusted-host=mirrors.aliyun.com Under the environment of windows, create the dir under the user dir, for example：C:\Users\xx\pip, create pip.ini。content as above.]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
+    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
       <categories>
         <category>Python</category>
       </categories>
