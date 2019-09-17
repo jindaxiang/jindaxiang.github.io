@@ -129,8 +129,8 @@
               </a>
             </div>
           {% endif %}
-			<div id="music163player">
-				<iframe frameborder="0" width="250" height="300" scrolling="yes" src="https://www.jin10.com/example/jin10.com.html?fontSize=14px&backgroundColor=ffffff&color=000"></iframe>
+			<div id="jin10">
+				<iframe frameborder="0" width="200" height="350" scrolling="yes" src="https://www.jin10.com/example/jin10.com.html?fontSize=14px&backgroundColor=ffffff&color=000"></iframe>
 			</div>
 
           {# Blogroll #}
