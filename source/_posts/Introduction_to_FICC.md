@@ -35,7 +35,9 @@ Lecture 2 | Thursday August 29 <br> 19:30pm to 20:55pm | Basic Python Programmin
 Lecture 3 | Tuesday September 3 <br> 19:30pm to 20:55pm | Bond Fundamentals | 1. What is a bond <br> 2.  International bond market <br> 3. Chinese bond market
 Lecture 4 | Thursday September 5 <br> 19:30pm to 20:55pm | Data scientist using Python: Pandas | 1. Write your first line of code <br> 2. Get the data from API <br> 3. Examples
 Lecture 5 | Tuesday September 10 <br> 19:30pm to 20:55pm | Bond Market and Bond Trading | 1. Types of bond market <br> 2. How to apply for bond <br> 3. Bond rating
-Lecture 6 | Thursday September 12 <br> 19:30pm to 20:55pm | Data scientist using Python: Numpy, Matplotlib | 1. Introduction to Numpy <br> 2. Introduction to Matplotlib <br> 3. Examples
+Lecture 6 | Thursday September 12 <br> 19:30pm to 20:55pm | Data scientist using Pandas and Tushare | 1. Introduction to Pandas <br> 2. Introduction to Tushare <br> 3. Examples: dowload all data from tushare
+Lecture 7 | Thursday September 17 <br> 19:30pm to 20:55pm | Introduce the bond market and know about the bond market | 1. Kings of market types <br> 2. Issue methods of bond
+Lecture 8 | Thursday September 17 <br> 19:30pm to 20:55pm | Get the data from the web of website | 1. Analysis the website <br> 2. Introduction to the [requests](https://2.python-requests.org/en/master/) <br> 3. Examples: download the data and save it into local place
 Lecture 16 | Thursday  <br> 19:30pm to 20:55pm | Review the content we have learned from this class | Prepare for the article about FICC
 
 ---
@@ -97,5 +99,6 @@ Title | Click Download to oepn or download the pdf file
 第14课-Python应用 | 
 第15课-利率期限结构 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%88%A9%E7%8E%87%E6%9C%9F%E9%99%90%E7%BB%93%E6%9E%84.pdf)
 第16课-Python应用 | 
+
 
 
