@@ -1,6 +1,6 @@
 ---
 title: Introduction to Financial Engineering Second Version
-date: 2019-08-27 20:07:52
+date: 2019-09-17 20:07:52
 tags: [Weekly]
 categories: [Course]
 ---
@@ -50,7 +50,7 @@ Lecture forever | Every Friday 19:30pm to 21:55pm | Reading material | [Python f
 ### The First Homework
 1. Should read the article or material about The Lehman Bankruptcy, which you can get from the [link in English](https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers) or [link in Chinese](https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin). 
 2. Write an electronic reports in chinese about 1000 words to describe The Lehman Bankruptcy event. You should print it with your Name, Student ID and submit it at next time.
-3. [Click here](http://p659fi1z8.bkt.clouddn.com/%E9%87%91%E8%9E%8D%E5%B7%A5%E7%A8%8B%E5%AF%BC%E8%AE%BA%E4%BD%9C%E4%B8%9A%E6%A0%BC%E5%BC%8F.docx) to download the format of the homework. 
+3. [Click here](https://jfds.nos-eastchina1.126.net/FICC/class_7/%E5%B0%81%E9%9D%A2.docx) to download the format of the homework. 
 ---
 
 ## Mid-term Exam
@@ -60,7 +60,7 @@ Lecture forever | Every Friday 19:30pm to 21:55pm | Reading material | [Python f
 
 If all above materials are not sufficient for you, you can find the useful information by yourself.
 #### Requirement of the Format
-[Click](http://p659fi1z8.bkt.clouddn.com/%E9%87%91%E8%9E%8D%E5%B7%A5%E7%A8%8B%E5%AF%BC%E8%AE%BA%E4%BD%9C%E4%B8%9A%E6%A0%BC%E5%BC%8F.docx) here to download the format of the homework.
+[Click](https://jfds.nos-eastchina1.126.net/FICC/class_7/%E5%B0%81%E9%9D%A2.docx) here to download the format of the homework.
 #### The Content of the Mid-term Exam
 1. First, you should choose one of the three opinions about LTCM, especially, your opinion is the most important.
 2. Second, there are many different ideas about the bankruptcy of LTCM
@@ -92,6 +92,7 @@ Title | Click ==Download== to download the pdf file
 第八章：证券化和2007年信用危机 | [Download](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%85%AB%E7%AB%A0-%E8%AF%81%E5%88%B8%E5%8C%96%E5%92%8C2007%E5%B9%B4%E4%BF%A1%E7%94%A8%E5%8D%B1%E6%9C%BA.pdf)
 第九章：期权市场的机制 | [Download](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E6%9C%9F%E6%9D%83%E5%B8%82%E5%9C%BA%E6%9C%BA%E5%88%B6.pdf)
 第十章：股票期权的性质 | [Download](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E8%82%A1%E7%A5%A8%E6%9C%9F%E6%9D%83%E7%9A%84%E6%80%A7%E8%B4%A8.pdf)
+
 
 
 

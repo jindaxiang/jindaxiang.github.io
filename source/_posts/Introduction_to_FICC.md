@@ -37,7 +37,9 @@ Lecture 4 | Thursday September 5 <br> 19:30pm to 20:55pm | Data scientist using 
 Lecture 5 | Tuesday September 10 <br> 19:30pm to 20:55pm | Bond Market and Bond Trading | 1. Types of bond market <br> 2. How to apply for bond <br> 3. Bond rating
 Lecture 6 | Thursday September 12 <br> 19:30pm to 20:55pm | Data scientist using Pandas and Tushare | 1. Introduction to Pandas <br> 2. Introduction to Tushare <br> 3. Examples: dowload all data from tushare
 Lecture 7 | Thursday September 17 <br> 19:30pm to 20:55pm | Introduce the bond market and know about the bond market | 1. Kings of market types <br> 2. Issue methods of bond
-Lecture 8 | Thursday September 17 <br> 19:30pm to 20:55pm | Get the data from the web of website | 1. Analysis the website <br> 2. Introduction to the [requests](https://2.python-requests.org/en/master/) <br> 3. Examples: download the data and save it into local place
+Lecture 8 | Thursday September 19 <br> 19:30pm to 20:55pm | Get the data from the web of website | 1. Analysis the website <br> 2. Introduction to the [requests](https://2.python-requests.org/en/master/) <br> 3. Examples: download the data and save it into local place
+Lecture 9 | Thursday September 24 <br> 19:30pm to 20:55pm | Learn the price of bond | 1. Pricing of bond <br> 2. Basic knowledge
+Lecture 10 | Thursday September 27 <br> 19:30pm to 20:55pm | Data analysis | 1. Basic data process <br> 2. Examples: 
 Lecture 16 | Thursday  <br> 19:30pm to 20:55pm | Review the content we have learned from this class | Prepare for the article about FICC
 
 ---
@@ -88,9 +90,9 @@ Title | Click Download to oepn or download the pdf file
 第3课-债券基础知识 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.pdf)
 第4课-Python应用: Pandas | [Pandas in 10 mins](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html), [Tushare Code](https://jfds.nos-eastchina1.126.net/FICC/class_4/get_a_stock.py) , [Tushare Web Site](https://tushare.pro/document/2), [Python Basic in Chinese](https://www.liaoxuefeng.com/wiki/1016959663602400)
 第5课-债券市场和债券交易 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E5%92%8C%E5%80%BA%E5%88%B8%E4%BA%A4%E6%98%93.pdf)
-第6课-Python应用: Pandas&Tushare | [class_6_demo](https://jfds.nos-eastchina1.126.net/FICC/class_6/class_6_demo.py)
+第6课-Python应用: Pandas&Tushare | [Class_6_demo](https://jfds.nos-eastchina1.126.net/FICC/class_6/class_6_demo.py)
 第7课-债券市场和债券交易 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E5%92%8C%E5%80%BA%E5%88%B8%E4%BA%A4%E6%98%93.pdf)
-第8课-Python应用 | [Download](https://jfds.nos-eastchina1.126.net/FICC/class_7/bond.py)
+第8课-Python应用 | [Download](https://jfds.nos-eastchina1.126.net/FICC/class_7/bond.py), [Swjtu](https://jfds.nos-eastchina1.126.net/FICC/class_8/get_swjtu.py), [Async](https://jfds.nos-eastchina1.126.net/FICC/class_8/temp_2.py), [Tthread](https://jfds.nos-eastchina1.126.net/FICC/class_8/temp_3.py)
 第9课-债券的价格 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E4%BB%B7%E6%A0%BC.pdf)
 第10课-Python应用 | 
 第11课-债券的收益率 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E6%94%B6%E7%9B%8A%E7%8E%87.pdf)
