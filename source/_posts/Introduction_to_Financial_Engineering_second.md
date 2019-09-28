@@ -50,7 +50,7 @@ Lecture forever | Every Friday 19:30pm to 21:55pm | Reading material | [Python f
 ### The First Homework
 1. Should read the article or material about The Lehman Bankruptcy, which you can get from the [link in English](https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers) or [link in Chinese](https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin). 
 2. Write an electronic reports in chinese about 1000 words to describe The Lehman Bankruptcy event. You should print it with your Name, Student ID and submit it at next time.
-3. [Click here](https://jfds.nos-eastchina1.126.net/FICC/class_7/%E5%B0%81%E9%9D%A2.docx) to download the format of the homework. 
+3. [Click here](https://jfds.nos-eastchina1.126.net/FE/class_05/FE_homework.docx) to download the format of the homework. 
 ---
 
 ## Mid-term Exam
@@ -92,11 +92,3 @@ Title | Click ==Download== to download the pdf file
 第八章：证券化和2007年信用危机 | [Download](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%85%AB%E7%AB%A0-%E8%AF%81%E5%88%B8%E5%8C%96%E5%92%8C2007%E5%B9%B4%E4%BF%A1%E7%94%A8%E5%8D%B1%E6%9C%BA.pdf)
 第九章：期权市场的机制 | [Download](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E6%9C%9F%E6%9D%83%E5%B8%82%E5%9C%BA%E6%9C%BA%E5%88%B6.pdf)
 第十章：股票期权的性质 | [Download](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E8%82%A1%E7%A5%A8%E6%9C%9F%E6%9D%83%E7%9A%84%E6%80%A7%E8%B4%A8.pdf)
-
-
-
-
-
-
-
-
