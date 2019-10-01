@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[A new tools for futures]]></title>
+    <url>%2F2019%2F10%2F01%2FPublish_new_tools_about_futures%2F</url>
+    <content type="text"><![CDATA[akshare1pip install akshare 12import akshare as akak.get_receipt("20190802", "20190823")]]></content>
+      <categories>
+        <category>Course</category>
+      </categories>
+      <tags>
+        <tag>Weekly</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Python_get_bond_data]]></title>
     <url>%2F2019%2F09%2F17%2FPython_get_bond_data%2F</url>
     <content type="text"><![CDATA[1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253# coding=utf-8# /usr/bin/env python"""Author: Albert Kingdate: 2019/9/13 22:48desc: 获取中国银行间市场交易商协会(http://www.nafmii.org.cn/)中孔雀开屏(http://zhuce.nafmii.org.cn/fans/publicQuery/manager)的债券基本信息数据"""from pathlib import Pathimport pandas as pdimport requests# 页面分析后获得的接口地址obj_url = "http://zhuce.nafmii.org.cn/fans/publicQuery/releFileProjDataGrid"# 添加游览器伪装headers = &#123; "Accept": "application/json, text/javascript, */*; q=0.01", "Accept-Encoding": "gzip, deflate", "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8", "Connection": "keep-alive", "Content-Length": "95", "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8", "Cookie": "Hm_lvt_508be7db52fd6da009f33b1d6a262bd3=1568385898; Hm_lpvt_508be7db52fd6da009f33b1d6a262bd3=1568385898; JSESSIONID=cEArLxkgwPfryBR_dAOfQEXfKx2MfDwFT-bNVl24FCALRSsMUm1C!-1036170306", "Host": "zhuce.nafmii.org.cn", "Origin": "http://zhuce.nafmii.org.cn", "Referer": "http://zhuce.nafmii.org.cn/fans/publicQuery/manager", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36", "X-Requested-With": "XMLHttpRequest"&#125;# 初始化一个空的数据框temp_df = pd.DataFrame()# 遍历页面并上传参数来获取数据for i in range(1, 719): payload = &#123; "regFileName": "", "itemType": "", "startTime": "", "endTime": "", "entityName": "", "leadManager": "", "regPrdtType": "", "page": i, "rows": 20 &#125; r = requests.post(obj_url, data=payload, headers=headers) if r.status_code == 200: # 状态码为200就表示获取了数据 data_json = r.json() # 数据类型为 json 格式 for item in data_json["rows"]: # 遍历 json 的具体格式 # 将 json 格式转化为数据库 temp_df = temp_df.append(pd.DataFrame.from_dict(item, orient='index').T, sort=False)temp_df.reset_index(inplace=True, drop=True) # 重新设置索引temp_df.to_csv(Path('你的路径') / "bond_data.csv")]]></content>
@@ -144,17 +155,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[2019年度教育部人文社会科学研究规划基金、青年基金、自筹经费项目评审结果公示一览表]]></title>
-    <url>%2F2019%2F01%2F28%2FPdf-humanities-and-social-sciences%2F</url>
-    <content type="text"><![CDATA[]]></content>
-      <categories>
-        <category>Fund</category>
-      </categories>
-      <tags>
-        <tag>教育部</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Data Processing with Stata 15]]></title>
     <url>%2F2019%2F01%2F28%2FPdf-Stata-Cheat-Sheet%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -163,6 +163,17 @@
       </categories>
       <tags>
         <tag>Stata</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[2019年度教育部人文社会科学研究规划基金、青年基金、自筹经费项目评审结果公示一览表]]></title>
+    <url>%2F2019%2F01%2F28%2FPdf-humanities-and-social-sciences%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Fund</category>
+      </categories>
+      <tags>
+        <tag>教育部</tag>
       </tags>
   </entry>
   <entry>
@@ -412,8 +423,8 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Machine_Learning_day_02]]></title>
-    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_02%2F</url>
+    <title><![CDATA[Machine_Learning_day_01]]></title>
+    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_01%2F</url>
     <content type="text"><![CDATA[Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import and manage the data sets. Step 2: Importing the Data SetData sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe. Step 3: Handling the Missing DataThe data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task. Step 4: Encoding Categorical DataCategorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library Step 5: Splitting the dataset into test set and training setWe make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library. Step 6: Feature ScalingMost of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.]]></content>
       <categories>
         <category>Machine Learning</category>
@@ -423,8 +434,8 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Machine_Learning_day_01]]></title>
-    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_01%2F</url>
+    <title><![CDATA[Machine_Learning_day_02]]></title>
+    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_02%2F</url>
     <content type="text"><![CDATA[Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import and manage the data sets. Step 2: Importing the Data SetData sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe. Step 3: Handling the Missing DataThe data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task. Step 4: Encoding Categorical DataCategorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library Step 5: Splitting the dataset into test set and training setWe make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library. Step 6: Feature ScalingMost of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.]]></content>
       <categories>
         <category>Machine Learning</category>
