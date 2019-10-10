@@ -21,7 +21,7 @@ categories: [Course]
 - You can download papers wirtten by author [here](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=87348) about this book.
 ---
 
-## The skills of financial engineering
+## The skills of FICC
 1. Programming: Python
 2. Math: Calculus, Linear Algebra, Probability
 3. Finance: Finance Market
@@ -80,7 +80,9 @@ Waiting
 ### Reading Materials
 I will put some research articles here or in the attachment
 ### Requirement
-Write an article about FICC market using empirical method
+Write an article about FICC market using empirical method!
+### Deadline
+**2019-10-17**!
 
 ---
 
@@ -102,3 +104,4 @@ Title | Click Download to oepn or download the pdf file
 第14课-Python应用 | [Download](https://jfds.nos-eastchina1.126.net/FICC/class_13/bond_data_process(1).py)
 第15课-债券属性 | [债券的收益率](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E6%94%B6%E7%9B%8A%E7%8E%87.pdf), [债券价格波动性的衡量](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E5%80%BA%E5%88%B8%E4%BB%B7%E6%A0%BC%E6%B3%A2%E5%8A%A8%E6%80%A7%E7%9A%84%E8%A1%A1%E9%87%8F.pdf), [利率期限结构](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%88%A9%E7%8E%87%E6%9C%9F%E9%99%90%E7%BB%93%E6%9E%84.pdf)
 第16课-写作| 债券论文写作
+
