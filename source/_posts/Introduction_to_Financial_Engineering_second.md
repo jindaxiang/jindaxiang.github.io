@@ -12,9 +12,9 @@ categories: [Course]
 - I have put the slides in chinese at bottom of this page, please download the pdf if you need!
 - Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30pm to 21:55pm in the X1318 in the xipu campus of Southwest Jiaotong University.
 - This is the syllabus for the August 30 2019 iteration of the course.
-- You can download the book [here](https://jfds.nos-eastchina1.126.net/FE/OptionsFuturesAndOtherDerivatives10.pdf).
+- You can download the book [here](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FE_02/handbook/OptionsFuturesAndOtherDerivatives10.pdf).
 - You can download the necessary materials about this book from the [author's homepage](http://www-2.rotman.utoronto.ca/~hull/ofod/).
-- You can download the [Errata](https://jfds.nos-eastchina1.126.net/FE/errata10e.docx) about this book.
+- You can download the [Errata](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FE_02/handbook/errata10e.docx) about this book.
 ---
 
 ## The skills for Financial Engineering
@@ -50,7 +50,7 @@ Lecture forever | Every Friday 19:30pm to 21:55pm | Reading material | [Python f
 ### The First Homework
 1. Should read the article or material about The Lehman Bankruptcy, which you can get from the [link in English](https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers) or [link in Chinese](https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin). 
 2. Write an electronic reports in chinese about 1000 words to describe The Lehman Bankruptcy event. You should print it with your Name, Student ID and submit it at next time.
-3. [Click](https://jfds.nos-eastchina1.126.net/FE/class_05/FE_homework.docx) here to download the format of the homework.
+3. [Click](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FE_02/docs/FE_format.docx) here to download the format of the homework.
 
 ---
 
@@ -61,7 +61,7 @@ Lecture forever | Every Friday 19:30pm to 21:55pm | Reading material | [Python f
 
 If all above materials are not sufficient for you, you can find the useful information by yourself.
 #### Requirement of the Format
-[Click](https://jfds.nos-eastchina1.126.net/FE/class_05/FE_homework.docx) here to download the format of the homework.
+[Click](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FE_02/docs/FE_format.docx) here to download the format of the homework.
 #### The Content of the Mid-term Exam
 1. First, you should choose one of the three opinions about LTCM, especially, your opinion is the most important.
 2. Second, there are many different ideas about the bankruptcy of LTCM
