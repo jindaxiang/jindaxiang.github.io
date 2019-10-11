@@ -34,6 +34,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Introduction to Fixed-Income Treasury]]></title>
+    <url>%2F2019%2F09%2F17%2FIntroduction_to_FICC%2F</url>
+    <content type="text"><![CDATA[Fixed-Income Treasury P.S. The course begin at 2019-08-27, thank you for your participation! Fixed-Income Treasury P.S. The course begin at 2019-08-27, thank you for your participation! Attention Attention: I have put the slides in chinese at bottom of this page, please download the pdf if you need! We will use 固定收益证券-第四版-类承曜 as the main book, click here to buy the book Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30pm to 20:55pm in the X1320 - in the xipu campus of southwest jiaotong university. This is the syllabus for the August 2019 iteration of the course. You can download the book Fixed Income Securities 7th written by Frank J. Fabozzi. You can download the other materials about author from the author’s homepage. You can download papers wirtten by author here about this book. The skills of FICC Programming: Python Math: Calculus, Linear Algebra, Probability Finance: Finance Market Schedule Event Type Date Title Description Lecture 1 Tuesday August 27 19:30pm to 20:55pm Introduction 1. Conclusion about the Financial Engineering(last semester) 2. Introduction to the recent financial events 3. Introduction to the FICC and course zero Lecture 2 Thursday August 29 19:30pm to 20:55pm Basic Python Programming for beginers 1. Install python and install pandas, numpy, matplotlib, tushare and other package 2. Use virtual environment and PyCharm 3. Introduction an example about FICC using Python Lecture 3 Tuesday September 3 19:30pm to 20:55pm Bond Fundamentals 1. What is a bond 2. International bond market 3. Chinese bond market Lecture 4 Thursday September 5 19:30pm to 20:55pm Data scientist using Python: Pandas 1. Write your first line of code 2. Get the data from API 3. Examples Lecture 5 Tuesday September 10 19:30pm to 20:55pm Bond Market and Bond Trading 1. Types of bond market 2. How to apply for bond 3. Bond rating Lecture 6 Tuesday September 12 19:30pm to 20:55pm Data scientist using Pandas and Tushare 1. Introduction to Pandas 2. Introduction to Tushare 3. Examples: dowload all data from tushare Lecture 7 Thursday September 17 19:30pm to 20:55pm Introduce the bond market and know about the bond market 1. Kings of market types 2. Issue methods of bond Lecture 8 Tuesday September 19 19:30pm to 20:55pm Get the data from the web of website 1. Analysis the website 2. Introduction to the requests 3. Examples: download the data and save it into local place Lecture 9 Tuesday September 24 19:30pm to 20:55pm Learn the price of bond 1. Pricing of bond 2. Basic knowledge Lecture 10 Thursday September 27 19:30pm to 20:55pm Data analysis 1. Basic data process 2. Examples: process the bond data Lecture 13 Tuesday October 8 19:30pm to 20:55pm Update data 1. Basic data process 2. Examples: update the bond data and calculate the corr Lecture 14 Thursday October 10 19:30pm to 20:55pm Data modeling 1. Basic data modeling 2. Examples: linear regression Lecture 15 Tuesday October 15 19:30pm to 20:55pm Update data 1. Basic data process 2. Examples: update the bond data and calculate the corr Lecture 16 Thursday October 17 19:30pm to 20:55pm Review the content we have learned from this class Prepare for the article about FICC HomeworkWaiting The Mid-term Homework Published: 2019-09-19 Content: To describe the 327 bond event in chinese, reference materials are provided here! To download the fundamental bond data from the website and print the code in paper. Give me the paper in the next class. If all above materials are not sufficient for you, you can find the useful information by yourself. Requirement of the FormatMid-term-Format The content of the Mid-term ExamWaiting The Final ExamReading MaterialsI will put some research articles here or in the attachment RequirementWrite an article about FICC market using empirical method! Deadline2019-10-17! Attachment Title Click Download to oepn or download the pdf file 第1课-绪论 Download 第2课-Python介绍及环境配置 Class MindMap, Code, Software, Anaconda 教程, 虚拟环境设置, Python MindMap 第3课-债券基础知识 Download 第4课-Python应用: Pandas Pandas in 10 mins, Tushare Code , Tushare Web Site, Python Basic in Chinese 第5课-债券市场和债券交易 Download 第6课-Python应用: Pandas&amp;Tushare Class_6_demo 第7课-债券市场和债券交易 Download 第8课-Python应用 Download, Swjtu, Async, Tthread 第9课-债券的价格 Download 第10课-Python应用 Download 第13课-Python应用 Download.py) 第14课-Python应用 Data, Code 第15课-债券属性 债券的收益率, 债券价格波动性的衡量, 利率期限结构 第16课-写作 债券论文写作]]></content>
+      <categories>
+        <category>Course</category>
+      </categories>
+      <tags>
+        <tag>Weekly</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Python_report]]></title>
     <url>%2F2019%2F09%2F16%2FPython_get_report%2F</url>
     <content type="text"><![CDATA[123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263# coding=utf-8# /usr/bin/env python"""Author: Albert Kingdate: 2019/9/15 18:27desc: 调用 configparser 模块管理您的 token，防止重要信息外泄；调用 pathlib 模块管理路径；利用 f-strings 管理字符串替换"""from pathlib import Path # 路径管理模块import logging # 日志管理模块import configparser # 配置管理模块import jqdatasdk as jq # 聚宽数据接口import tushare as ts # Tushare 数据接口import pandas as pdpd.options.display.max_columns = Nonepd.options.display.max_rows = Nonelogger = logging.getLogger()logger.setLevel(logging.INFO)logFormatter = '%(asctime)s - %(user)s - %(levelname)s - %(message)s'formatter = logging.Formatter(fmt=logFormatter)console = logging.StreamHandler() # 配置日志输出到控制台console.setLevel(logging.INFO) # 设置输出到控制台的最低日志级别console.setFormatter(formatter) # 设置格式logger.addHandler(console)handler = logging.FileHandler(Path(r"C:\Users\king\PycharmProjects\rep_process\config") / 'king.log', mode='w') # mode="a", 为追加文件; mode="w", 为擦出后写入文件handler.setLevel(logging.INFO)handler.setFormatter(formatter)logger.addHandler(handler)logger.info("Begin record", extra=&#123;'user': 'king'&#125;)path_ini = Path(r'C:\Users\king\PycharmProjects\rep_process\config\account_info.ini')config = configparser.ConfigParser()config.read(path_ini)jq_username = config['joinquant']['username']jq_password = config['joinquant']['password']jq.auth(jq_username, jq_password)jq.get_all_securities()ts_token = config['tushare']['token']pro = ts.pro_api(ts_token)data = pro.stock_basic(exchange='', list_status='L', fields='ts_code,symbol,name,area,industry,list_date')for item in data['ts_code'][:10]: df = pro.anns(ts_code=item, start_date='20180401', end_date='20190521', year='2019', fields='ts_code,ann_date,ann_type,title,content,pub_time') content_text = df[(df['ann_type'] == "年度报告") &amp; (df['title'].str.endswith("报告"))]['content'].values[0] with open(Path(r'C:\Users\king\PycharmProjects\rep_process\tushare_data') / f"&#123;item&#125;.txt", 'w', encoding='utf-8') as f: f.write(content_text) logger.info(f"&#123;item&#125; finished", extra=&#123;'user': 'king'&#125;)my_name = "jindaxiang"logger.info(f"Finished by &#123;my_name.upper()&#125;", extra=&#123;"user": "daxiang"&#125;)with open(Path(r"C:\Users\king\PycharmProjects\rep_process\config") / "king.log", "r") as f: print(f.read())]]></content>
@@ -210,17 +221,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Famous Scholar--P. Eric Yeung]]></title>
-    <url>%2F2019%2F01%2F09%2FPdf-famous-scholar%2F</url>
-    <content type="text"><![CDATA[P. Eric Yeung，康奈尔大学管理学院终身教授，研究兴趣主要集中于财务会计与资本市场中的三个方面，即经济与行为因素对市场参与者使用会计信息产生的影响、经济与行为因素对管理层提供会计信息产生的影响、会计信息与经济基本面之间的关系，其研究成果全部发表在世界最顶尖的会计和管理类学术期刊上，如The Accounting Review、Journal of Accounting Research、Journal of Accounting and Economics、Management Science、Contemporary Accounting Research、Review of Financial Studies、Strategic Management Journal等。Yeung教授现为国际会计类顶级期刊The Accounting Review编委会委员，并担任了会计学、金融学、管理学等方面共计21家国际学术期刊和AAA年会参会论文的审稿人。2014年，Yeung教授被美国著名网站Poets &amp; Quants评选为“全世界40名40岁以下最杰出的商学院教授”]]></content>
-      <categories>
-        <category>Finance</category>
-      </categories>
-      <tags>
-        <tag>Scholar</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Python for Data Science Cheat Sheet Pandas]]></title>
     <url>%2F2019%2F01%2F09%2FPdf-Pandas-Cheat-Sheet%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -229,6 +229,17 @@
       </categories>
       <tags>
         <tag>Pandas</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Famous Scholar--P. Eric Yeung]]></title>
+    <url>%2F2019%2F01%2F09%2FPdf-famous-scholar%2F</url>
+    <content type="text"><![CDATA[P. Eric Yeung，康奈尔大学管理学院终身教授，研究兴趣主要集中于财务会计与资本市场中的三个方面，即经济与行为因素对市场参与者使用会计信息产生的影响、经济与行为因素对管理层提供会计信息产生的影响、会计信息与经济基本面之间的关系，其研究成果全部发表在世界最顶尖的会计和管理类学术期刊上，如The Accounting Review、Journal of Accounting Research、Journal of Accounting and Economics、Management Science、Contemporary Accounting Research、Review of Financial Studies、Strategic Management Journal等。Yeung教授现为国际会计类顶级期刊The Accounting Review编委会委员，并担任了会计学、金融学、管理学等方面共计21家国际学术期刊和AAA年会参会论文的审稿人。2014年，Yeung教授被美国著名网站Poets &amp; Quants评选为“全世界40名40岁以下最杰出的商学院教授”]]></content>
+      <categories>
+        <category>Finance</category>
+      </categories>
+      <tags>
+        <tag>Scholar</tag>
       </tags>
   </entry>
   <entry>
@@ -412,8 +423,8 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Machine_Learning_day_02]]></title>
-    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_02%2F</url>
+    <title><![CDATA[Machine_Learning_day_01]]></title>
+    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_01%2F</url>
     <content type="text"><![CDATA[Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import and manage the data sets. Step 2: Importing the Data SetData sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe. Step 3: Handling the Missing DataThe data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task. Step 4: Encoding Categorical DataCategorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library Step 5: Splitting the dataset into test set and training setWe make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library. Step 6: Feature ScalingMost of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.]]></content>
       <categories>
         <category>Machine Learning</category>
@@ -423,8 +434,8 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Machine_Learning_day_01]]></title>
-    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_01%2F</url>
+    <title><![CDATA[Machine_Learning_day_02]]></title>
+    <url>%2F2018%2F08%2F16%2FMachine_Learning_day_02%2F</url>
     <content type="text"><![CDATA[Step 1: Importing the required LibrariesThese Two are essential libraries which we will import every time.NumPy is a Library which contains Mathematical functions.Pandas is the library used to import and manage the data sets. Step 2: Importing the Data SetData sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe. Step 3: Handling the Missing DataThe data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task. Step 4: Encoding Categorical DataCategorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library Step 5: Splitting the dataset into test set and training setWe make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library. Step 6: Feature ScalingMost of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.]]></content>
       <categories>
         <category>Machine Learning</category>
