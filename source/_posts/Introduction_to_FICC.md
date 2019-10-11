@@ -65,7 +65,7 @@ If all above materials are not sufficient for you, you can find the useful infor
 
 
 ## Requirement of the Format
-[Mid-term-Format](https://jfds.nos-eastchina1.126.net/FICC/class_7/%E5%B0%81%E9%9D%A2.docx)
+[Mid-term-Format](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/docs/FICC_format.docx)
 
 ---
 
@@ -84,6 +84,9 @@ Write an article about FICC market using empirical method!
 ### Deadline
 **2019-10-17**!
 
+### Requirement of the Format
+[Final-exam-Format](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/docs/FICC_format.docx)
+
 ---
 
 
@@ -99,8 +102,8 @@ Title | Click Download to oepn or download the pdf file
 第7课-债券市场和债券交易 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E5%92%8C%E5%80%BA%E5%88%B8%E4%BA%A4%E6%98%93.pdf)
 第8课-Python应用 | [Download](https://jfds.nos-eastchina1.126.net/FICC/class_7/bond.py), [Swjtu](https://jfds.nos-eastchina1.126.net/FICC/class_8/get_swjtu.py), [Async](https://jfds.nos-eastchina1.126.net/FICC/class_8/temp_2.py), [Tthread](https://jfds.nos-eastchina1.126.net/FICC/class_8/temp_3.py)
 第9课-债券的价格 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E4%BB%B7%E6%A0%BC.pdf)
-第10课-Python应用 | [Download](https://jfds.nos-eastchina1.126.net/FICC/class_10/bond_data_process.py)
-第13课-Python应用 | [Download](https://jfds.nos-eastchina1.126.net/FICC/class_13/bond_data_process(1).py)
-第14课-Python应用 | [Data](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/bond_d.csv), [Code](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/bond_data_process.py)
+第10课-Python应用 | [Download](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_data_process.py)
+第13课-Python应用 | [Download](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_data_process.py)
+第14课-Python应用 | [Data](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_d.csv), [Code](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_data_process.py)
 第15课-债券属性 | [债券的收益率](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E6%94%B6%E7%9B%8A%E7%8E%87.pdf), [债券价格波动性的衡量](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E5%80%BA%E5%88%B8%E4%BB%B7%E6%A0%BC%E6%B3%A2%E5%8A%A8%E6%80%A7%E7%9A%84%E8%A1%A1%E9%87%8F.pdf), [利率期限结构](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%88%A9%E7%8E%87%E6%9C%9F%E9%99%90%E7%BB%93%E6%9E%84.pdf)
 第16课-写作| 债券论文写作
