@@ -3,7 +3,6 @@ title: Introduction to Fixed-Income Treasury
 date: 2019-09-17 18:00:52
 tags: [Weekly]
 categories: [Course]
----
 # Fixed-Income Treasury
 - P.S. The course begin at 2019-08-27, thank you for your participation!
 ---
@@ -101,7 +100,6 @@ Title | Click Download to oepn or download the pdf file
 第9课-债券的价格 | [Download](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E4%BB%B7%E6%A0%BC.pdf)
 第10课-Python应用 | [Download](https://jfds.nos-eastchina1.126.net/FICC/class_10/bond_data_process.py)
 第13课-Python应用 | [Download](https://jfds.nos-eastchina1.126.net/FICC/class_13/bond_data_process(1).py)
-第14课-Python应用 | [Download](https://jfds.nos-eastchina1.126.net/FICC/class_13/bond_data_process(1).py)
+第14课-Python应用 | [Data](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/bond_d.csv), [Code](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/bond_data_process.py)
 第15课-债券属性 | [债券的收益率](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E6%94%B6%E7%9B%8A%E7%8E%87.pdf), [债券价格波动性的衡量](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E5%80%BA%E5%88%B8%E4%BB%B7%E6%A0%BC%E6%B3%A2%E5%8A%A8%E6%80%A7%E7%9A%84%E8%A1%A1%E9%87%8F.pdf), [利率期限结构](https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%88%A9%E7%8E%87%E6%9C%9F%E9%99%90%E7%BB%93%E6%9E%84.pdf)
 第16课-写作| 债券论文写作
-
