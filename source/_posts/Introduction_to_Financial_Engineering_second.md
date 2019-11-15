@@ -1,6 +1,6 @@
 ---
 title: Introduction to Financial Engineering Second Version
-date: 2019-09-17 20:07:52
+date: 2019-11-14 20:07:52
 tags: [Weekly]
 categories: [Course]
 ---
@@ -35,13 +35,14 @@ Lecture 6 | Friday October 11 <br> 19:30pm to 21:55pm | [Interest Rates](https:/
 Lecture 7 | Friday October 18 <br> 19:30pm to 21:55pm | [Determination of Forward and Futures Prices](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch05HullOFOD10thEdition.pdf) | This lesson will teach you how to determine the price of the futures and forword.
 Lecture 8 | Friday October 25 <br> 19:30pm to 21:55pm | [Interest Rate Futures](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch06HullOFOD10thEdition.pdf) | Day count convention, Treasury Bond and Eurodollar Futures.
 Lecture 9 | Friday November 1 <br> 19:30pm to 21:55pm | [Interest Rate Futures](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch06HullOFOD10thEdition.pdf) | Day count convention, Treasury Bond and Eurodollar Futures.
-Lecture 10 | Friday November 8 <br> 19:30pm to 21:55pm | [Swaps](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch07HullOFOD10thEdition.pdf) | This lesson will teach almost all types of swaps
-Lecture 11 | Friday November 15 <br> 19:30pm to 21:55pm | [Swaps](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch07HullOFOD10thEdition.pdf) | This lesson will teach almost all types of swaps
-Lecture 12 | Friday November 22 <br> 19:30pm to 21:55pm | [Securitization and the Credit Crisis of 2007](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch08HullOFOD10thEdition.pdf) | This lesson will teach almost all types of swaps
-Lecture 13 | Friday November 29 <br> 19:30pm to 21:55pm | [Mechanics of Options Markets](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch10HullOFOD10thEdition.pdf) | Get into the world of Options
-Lecture 14 | Friday December 06 <br> 19:30pm to 21:55pm | [Properties of Stock Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf) | Introduction to the properties of stock options
-Lecture 15 | Friday December 13 <br> 19:30pm to 21:55pm | [Properties of Stock Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf) | Introduction to the properties of stock options
-Lecture 16 | Friday December 20 <br> 19:30pm to 21:55pm | Review the content we have learned from this class | Prepare for the article
+Lecture 10 | Friday November 1 <br> 19:30pm to 21:55pm | [Swaps](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch07HullOFOD10thEdition.pdf) | This lesson will teach almost all types of swaps
+Lecture 11 | Friday November 8 <br> 19:30pm to 21:55pm | [Securitization and the Credit Crisis of 2007](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch08HullOFOD10thEdition.pdf) | This lesson will talk about 2007-2009 in financial market
+Lecture 12 | Friday November 15 <br> 19:30pm to 21:55pm | [XVAs](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FE_02/handbook/Ch09HullOFOD10thEdition.pdf) | This lesson will talk about XVAs and options
+Lecture 13 | Friday November 22 <br> 19:30pm to 21:55pm | [Mechanics of Options Markets](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch10HullOFOD10thEdition.pdf) | Get into the world of Options
+Lecture 14 | Friday December 29 <br> 19:30pm to 21:55pm | [Properties of Stock Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf) | Introduction to the properties of stock options
+Lecture 15 | Friday December 6 <br> 19:30pm to 21:55pm | [Properties of Stock Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf) | Introduction to the properties of stock options
+Lecture 16 | Friday December 13 <br> 19:30pm to 21:55pm | Review the content we have learned from this class | Prepare for the exam!
+Lecture 17 | Friday December 20 <br> 19:30pm to 21:00pm | exam for 90 minutes!
 Lecture forever | Every Friday 19:30pm to 21:55pm | Reading material | [Python for Finance](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/python_for_finance_2.pdf)
 ---
 
