@@ -1,5 +1,5 @@
 ---
-title: 统计机器学习课件
+title: 统计学习方法课件
 date: 2019-11-15 16:09:52
 tags: [Python]
 categories: [Machine Learning]
