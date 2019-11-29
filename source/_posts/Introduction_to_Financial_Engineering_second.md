@@ -40,7 +40,7 @@ Lecture 11 | Friday November 8 <br> 19:30pm to 21:55pm | [XVAs](https://jfds-125
 Lecture 12 | Friday November 15 <br> 19:30pm to 21:55pm | [Mechanics of Options Markets](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch10HullOFOD10thEdition.pdf) | Get into the world of Options                                
 Lecture 13 | Friday November 22 <br> 19:30pm to 21:55pm | [Properties of Stock Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf) | Introduction to the properties of stock options              
 Lecture 14 | Friday December 29 <br> 19:30pm to 21:55pm | [Properties of Stock Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf) | Introduction to the properties of stock options
-Lecture 15 | Friday December 6 <br> 19:30pm to 21:55pm | [Properties of Stock Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf) | Introduction to the properties of stock options
+Lecture 15 | Friday December 6 <br> 19:30pm to 21:55pm | [Trading Strategies Involving Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FE_02/handbook/Ch12HullOFOD10thEdition.pdf) | Introduction to the strategies of options
 Lecture 16 | Friday December 13 <br> 19:30pm to 21:55pm | Review the content we have learned from this class | Prepare for the exam!
 Lecture 17 | Friday December 20 <br> 19:30pm to 21:00pm | exam for 90 minutes!|
 Lecture forever | Every Friday 19:30pm to 21:55pm | Reading material | [Python for Finance](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/python_for_finance_2.pdf)
