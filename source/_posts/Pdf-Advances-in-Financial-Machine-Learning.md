@@ -5,5 +5,5 @@ tags: [Skill]
 categories: [Finance]
 ---
 
-{% pdf https://jfds.nos-eastchina1.126.net/finance/advances_in_financial_machine_learning_wiley(2018).pdf %}
+{% pdf https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/advances_in_financial_machine_learning_wiley%282018%29.pdf %}
 
