@@ -1,11 +1,12 @@
 ---
 title: Introduction to Financial Engineering Second Version
-date: 2019-11-14 20:07:52
+date: 2019-12-19 20:07:52
 tags: [Weekly]
 categories: [Course]
 ---
 # Introduction to Financial Engineering
 - P.S. The course begin at 2019-08-30, thank you for your participation!
+- P.S. The course end at 2019-12-20, thank you for your participation again!
 ---
 
 ## Attention
@@ -42,7 +43,7 @@ Lecture 13 | Friday November 22 <br> 19:30pm to 21:55pm | [Properties of Stock O
 Lecture 14 | Friday December 29 <br> 19:30pm to 21:55pm | [Properties of Stock Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf) | Introduction to the properties of stock options
 Lecture 15 | Friday December 6 <br> 19:30pm to 21:55pm | [Trading Strategies Involving Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FE_02/handbook/Ch12HullOFOD10thEdition.pdf) | Introduction to the strategies of options
 Lecture 16 | Friday December 13 <br> 19:30pm to 21:55pm | Review the content we have learned from this class | Prepare for the exam!
-Lecture 17 | Friday December 20 <br> 19:30pm to 21:00pm | exam for 90 minutes!|
+Lecture 17 | Friday December 20 <br> 19:30pm to 21:00pm | exam for 90 minutes!| we will have 90 mins test in xipu campus X8215 room!
 Lecture forever | Every Friday 19:30pm to 21:55pm | Reading material | [Python for Finance](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/python_for_finance_2.pdf)
 ---
 
