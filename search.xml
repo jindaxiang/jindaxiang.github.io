@@ -14,7 +14,7 @@
   <entry>
     <title><![CDATA[Introduction to Financial Engineering Second Version]]></title>
     <url>%2F2019%2F12%2F19%2FIntroduction_to_Financial_Engineering_second%2F</url>
-    <content type="text"><![CDATA[Introduction to Financial Engineering P.S. The course begin at 2019-08-30, thank you for your participation! P.S. The course end at 2019-12-20, thank you for your participation again! Attention I have put the slides in Chinese at bottom of this page, please download the pdf if you need! Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30pm to 21:55pm in the X1318 in the XIPU campus of Southwest JIAOATONG University. This is the syllabus for the August 30 2019 iteration of the course. You can download the book here. You can download the necessary materials about this book from the author’s homepage. You can download the Errata about this book. The skills for Financial Engineering Programming: Python Math: Calculus, Linear Algebra, Probability Finance: Finance Market Schedule Event Type Date Title Description Lecture 1 Friday August 30 19:30pm to 21:55pm Introduction 1. Should read the article or material about The Lehman Bankruptcy, which you can get from the link in English or link in Chinese. Lecture 2 Friday September 6 19:30pm to 21:55pm Introduction 1. To find futures and options exchange in China. Link1 Link2 2. To find every king of product in these exchanges. Lecture 3 Friday September 13 19:30pm to 21:55pm Futures Markets and Central Counterparties Review the Futures Markets in chapter 2 and concern Central Counterparties Lecture 4 Friday September 20 19:30pm to 21:55pm Hedging Strategies Using Futures Should be familiar with lesson 4 and will tell you some hedge methods. Lecture 5 Friday September 27 19:30pm to 21:55pm Python for Financial engineering Know the python programming for financial engineering, Demo code Lecture 6 Friday October 4 19:30pm to 21:55pm Interest Rates Should be familiar with lesson 4 and know about some financial terminology: Libor, Federal funds rate, Repo rate, Treasury rate, OIS rate Lecture 7 Friday October 11 19:30pm to 21:55pm Determination of Forward and Futures Prices This lesson will teach you how to determine the price of the futures and forward. Lecture 8 Friday October 18 19:30pm to 21:55pm Interest Rate Futures Day count convention, Treasury Bond and Eurodollar Futures. Lecture 9 Friday October25 19:30pm to 21:55pm Swaps This lesson will teach almost all types of swaps Lecture 10 Friday November 1 19:30pm to 21:55pm Securitization and the Credit Crisis of 2007 This lesson will talk about 2007-2009 in financial market Lecture 11 Friday November 8 19:30pm to 21:55pm XVAs This lesson will talk about XVAs and options Lecture 12 Friday November 15 19:30pm to 21:55pm Mechanics of Options Markets Get into the world of Options Lecture 13 Friday November 22 19:30pm to 21:55pm Properties of Stock Options Introduction to the properties of stock options Lecture 14 Friday December 29 19:30pm to 21:55pm Properties of Stock Options Introduction to the properties of stock options Lecture 15 Friday December 6 19:30pm to 21:55pm Trading Strategies Involving Options Introduction to the strategies of options Lecture 16 Friday December 13 19:30pm to 21:55pm Review the content we have learned from this class Prepare for the exam! Lecture 17 Friday December 20 19:30pm to 21:00pm exam for 90 minutes! we will have 90 mins test in xipu campus X8215 room! Lecture forever Every Friday 19:30pm to 21:55pm Reading material Python for Finance HomeworkThe First Homework Should read the article or material about The Lehman Bankruptcy, which you can get from the link in English or link in Chinese. Write an electronic reports in Chinese about 1000 words to describe The Lehman Bankruptcy event. You should print it with your Name, Student ID and submit it at next time. Click here to download the format of the homework. Mid-term ExamReading MaterialsBaidu, which is not very good for you. So i recommend that Wikipedia to search the information about LTCM, also, you can read the article written by analyst, who is come form Hong Ming Capital. At last but not least, I think this material is very useful. If all above materials are not sufficient for you, you can find the useful information by yourself. Requirement of the FormatClick here to download the format of the homework. The Content of the Mid-term Exam First, you should choose one of the three opinions about LTCM, especially, your opinion is the most important. Second, there are many different ideas about the bankruptcy of LTCM Support the LTCM for that the default of the Treasury bond can not be control The LTCM should take some methods about the risk of the default of Treasury bond The two side the coin Last, you should write the opinion about the bankruptcy of LTCM, the words in this article should more than 1000 words and less than 5000 words in Chinese. Next class at 2019-11-01, you should give me your homework. The Final ExamReading MaterialsI will put some research articles here RequirementWrite an article about FE using empirical method Attachment: Title Click ==Download== to download the pdf file 第一章：导言 Download 第二章：期货市场的运行机制 Download 第三章：利用期货的对冲策略 Download 第四章：利率 Download 第五章：远期和期货价格的确定 Download 第六章：利率期货 Download 第七章：互换 Download 第八章：证券化和2007年信用危机 Download 第九章：期权市场的机制 Download 第十章：股票期权的性质 Download]]></content>
+    <content type="text"><![CDATA[Introduction to Financial Engineering P.S. The course begin at 2019-08-30, thank you for your participation! P.S. The course end at 2019-12-20, thank you for your participation again! Attention I have put the slides in Chinese at bottom of this page, please download the pdf if you need! Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30pm to 21:55pm in the X1318 in the XIPU campus of Southwest JIAOATONG University. This is the syllabus for the August 30 2019 iteration of the course. You can download the book here. You can download the necessary materials about this book from the author’s homepage. You can download the Errata about this book. The skills for Financial Engineering Programming: Python Math: Calculus, Linear Algebra, Probability Finance: Finance Market Schedule Event Type Date Title Description Lecture 1 Friday August 30 19:30pm to 21:55pm Introduction 1. Should read the article or material about The Lehman Bankruptcy, which you can get from the link in English or link in Chinese. Lecture 2 Friday September 6 19:30pm to 21:55pm Introduction 1. To find futures and options exchange in China. Link1 Link2 2. To find every king of product in these exchanges. Lecture 3 Friday September 13 19:30pm to 21:55pm Futures Markets and Central Counterparties Review the Futures Markets in chapter 2 and concern Central Counterparties Lecture 4 Friday September 20 19:30pm to 21:55pm Hedging Strategies Using Futures Should be familiar with lesson 4 and will tell you some hedge methods. Lecture 5 Friday September 27 19:30pm to 21:55pm Python for Financial engineering Know the python programming for financial engineering, Demo code Lecture 6 Friday October 4 19:30pm to 21:55pm Interest Rates Should be familiar with lesson 4 and know about some financial terminology: Libor, Federal funds rate, Repo rate, Treasury rate, OIS rate Lecture 7 Friday October 11 19:30pm to 21:55pm Determination of Forward and Futures Prices This lesson will teach you how to determine the price of the futures and forward. Lecture 8 Friday October 18 19:30pm to 21:55pm Interest Rate Futures Day count convention, Treasury Bond and Eurodollar Futures. Lecture 9 Friday October25 19:30pm to 21:55pm Swaps This lesson will teach almost all types of swaps Lecture 10 Friday November 1 19:30pm to 21:55pm Securitization and the Credit Crisis of 2007 This lesson will talk about 2007-2009 in financial market Lecture 11 Friday November 8 19:30pm to 21:55pm XVAs This lesson will talk about XVAs and options Lecture 12 Friday November 15 19:30pm to 21:55pm Mechanics of Options Markets Get into the world of Options Lecture 13 Friday November 22 19:30pm to 21:55pm Properties of Stock Options Introduction to the properties of stock options Lecture 14 Friday December 29 19:30pm to 21:55pm Properties of Stock Options Introduction to the properties of stock options Lecture 15 Friday December 6 19:30pm to 21:55pm Trading Strategies Involving Options Introduction to the strategies of options Lecture 16 Friday December 13 19:30pm to 21:55pm Binomial Trees Introduction to the Binomial Trees and Prepare for the exam! Lecture 17 Friday December 20 19:30pm to 21:00pm exam for 90 minutes! we will have 90 mins test in xipu campus X8215 room! Lecture forever Every Friday 19:30pm to 21:55pm Reading material Python for Finance HomeworkThe First Homework Should read the article or material about The Lehman Bankruptcy, which you can get from the link in English or link in Chinese. Write an electronic reports in Chinese about 1000 words to describe The Lehman Bankruptcy event. You should print it with your Name, Student ID and submit it at next time. Click here to download the format of the homework. Mid-term ExamReading MaterialsBaidu, which is not very good for you. So i recommend that Wikipedia to search the information about LTCM, also, you can read the article written by analyst, who is come form Hong Ming Capital. At last but not least, I think this material is very useful. If all above materials are not sufficient for you, you can find the useful information by yourself. Requirement of the FormatClick here to download the format of the homework. The Content of the Mid-term Exam First, you should choose one of the three opinions about LTCM, especially, your opinion is the most important. Second, there are many different ideas about the bankruptcy of LTCM Support the LTCM for that the default of the Treasury bond can not be control The LTCM should take some methods about the risk of the default of Treasury bond The two side the coin Last, you should write the opinion about the bankruptcy of LTCM, the words in this article should more than 1000 words and less than 5000 words in Chinese. Next class at 2019-11-01, you should give me your homework. The Final ExamReading MaterialsI will put some research articles here RequirementWrite an article about FE using empirical method Attachment: Title Click ==Download== to download the pdf file 第一章：导言 Download 第二章：期货市场的运行机制 Download 第三章：利用期货的对冲策略 Download 第四章：利率 Download 第五章：远期和期货价格的确定 Download 第六章：利率期货 Download 第七章：互换 Download 第八章：证券化和2007年信用危机 Download 第九章：期权市场的机制 Download 第十章：股票期权的性质 Download]]></content>
       <categories>
         <category>Course</category>
       </categories>
@@ -177,17 +177,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[2019年度教育部人文社会科学研究规划基金、青年基金、自筹经费项目评审结果公示一览表]]></title>
-    <url>%2F2019%2F01%2F28%2FPdf-humanities-and-social-sciences%2F</url>
-    <content type="text"><![CDATA[]]></content>
-      <categories>
-        <category>Fund</category>
-      </categories>
-      <tags>
-        <tag>教育部</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Data Processing with Stata 15]]></title>
     <url>%2F2019%2F01%2F28%2FPdf-Stata-Cheat-Sheet%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -196,6 +185,17 @@
       </categories>
       <tags>
         <tag>Stata</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[2019年度教育部人文社会科学研究规划基金、青年基金、自筹经费项目评审结果公示一览表]]></title>
+    <url>%2F2019%2F01%2F28%2FPdf-humanities-and-social-sciences%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Fund</category>
+      </categories>
+      <tags>
+        <tag>教育部</tag>
       </tags>
   </entry>
   <entry>
@@ -611,17 +611,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
-    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
-      <categories>
-        <category>Python</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
     <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
     <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
@@ -636,6 +625,17 @@
     <title><![CDATA[Python_s1_day02_topic_skills_Set_domestic_source]]></title>
     <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_set_domestic_source%2F</url>
     <content type="text"><![CDATA[Set Python default domestic sourcePIP安装源替换成国内镜像，可以大幅提升下载速度，还可以提高安装成功率。If you always install packages from pypi, then you will find that use default source will be very slow!you can use domestic source from the next list: Attention: new version ubuntu require https! 清华：https://pypi.tuna.tsinghua.edu.cn/simple 阿里云：http://mirrors.aliyun.com/pypi/simple/ 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 华中理工大学：http://pypi.hustunique.com/ 山东理工大学：http://pypi.sdutlinux.org/ 豆瓣：http://pypi.douban.com/simple/ Temporary useyou can add parameters in pip install -i https://pypi.tuna.tsinghua.edu.cn/simple for example: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspideryou will download the pyspider from the TUNA source Permanent changeUnder the environment of Linux, fix ~/.pip/pip.conf (没有就创建一个文件夹及文件。文件夹要加“.”，表示是隐藏文件夹) content as follows：1234[global]index-url = https://pypi.tuna.tsinghua.edu.cn/simple[install]trusted-host=mirrors.aliyun.com Under the environment of windows, create the dir under the user dir, for example：C:\Users\xx\pip, create pip.ini。content as above.]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
+    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
       <categories>
         <category>Python</category>
       </categories>
