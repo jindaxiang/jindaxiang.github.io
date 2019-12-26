@@ -42,7 +42,7 @@ Lecture 12 | Friday November 15 <br> 19:30pm to 21:55pm | [Mechanics of Options 
 Lecture 13 | Friday November 22 <br> 19:30pm to 21:55pm | [Properties of Stock Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf) | Introduction to the properties of stock options              
 Lecture 14 | Friday December 29 <br> 19:30pm to 21:55pm | [Properties of Stock Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf) | Introduction to the properties of stock options
 Lecture 15 | Friday December 6 <br> 19:30pm to 21:55pm | [Trading Strategies Involving Options](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FE_02/handbook/Ch12HullOFOD10thEdition.pdf) | Introduction to the strategies of options
-Lecture 16 | Friday December 13 <br> 19:30pm to 21:55pm | Review the content we have learned from this class | Prepare for the exam!
+Lecture 16 | Friday December 13 <br> 19:30pm to 21:55pm | [Binomial Trees](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_17/Ch13HullOFOD10thEdition.pdf) | Introduction to the Binomial Trees and Prepare for the exam!
 Lecture 17 | Friday December 20 <br> 19:30pm to 21:00pm | exam for 90 minutes!| we will have 90 mins test in xipu campus X8215 room!
 Lecture forever | Every Friday 19:30pm to 21:55pm | Reading material | [Python for Finance](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/python_for_finance_2.pdf)
 ---
@@ -77,8 +77,11 @@ If all above materials are not sufficient for you, you can find the useful infor
 ## The Final Exam
 
 ### Reading Materials
+
 I will put some research articles here
+
 ### Requirement
+
 Write an article about FE using empirical method
 
 ## Attachment:
