@@ -1,3 +1,10 @@
+---
+title: HelloGitHub-47-AkShare
+date: 2020-02-29 16:09:52
+tags: [AkShare]
+categories: [Python]
+---
+
 # 《HelloGitHub》第 47 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
