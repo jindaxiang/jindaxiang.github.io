@@ -17,7 +17,7 @@ jindaxiang.coding.net
 
 ## Warning
 
-1. 阿里云 -> 域名 -> 解析 -> 暂停 GitHub 的解析
+阿里云 -> 域名 -> 解析 -> 暂停 GitHub 的解析
 
 ## Frequency
 
