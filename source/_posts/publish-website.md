@@ -17,9 +17,12 @@ jindaxiang.coding.net
 
 ## Warning
 
-阿里云 -> 域名 -> 解析 -> 暂停 GitHub 的解析
+1. 阿里云 -> 域名 -> 解析 -> 暂停 GitHub 的解析
 
 ## Frequency
 
 每月一次
 
+## Attention
+
+If you are old customer of coding.net, so you have to update **_config.yml** file with conding site object
