@@ -87,7 +87,7 @@ deploy:
   type: git
   repository:
     github: git@github.com:jindaxiang/jindaxiang.github.io.git
-    coding: git@git.dev.tencent.com:jindaxiang/jindaxiang.git
+    coding: git@e.coding.net:jindaxiang/jindaxiang.git
   branch: master # 分支名称
 search:
   path: search.xml
