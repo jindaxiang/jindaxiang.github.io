@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[How to publish my personal website on coding.net]]></title>
+    <url>%2F2020%2F06%2F24%2Fpublish-website%2F</url>
+    <content type="text"><![CDATA[How to publish my personal website on coding.netLogin Pagejindaxiang.coding.net Find Item项目 -&gt; jindaxiang -&gt; 持续部署 -&gt; 静态网页 -&gt; 设置 -&gt; 自定义域名 -&gt; Warning -&gt; 申请 -&gt; 在阿里云重启 GitHub 的解析 Warning阿里云 -&gt; 域名 -&gt; 解析 -&gt; 暂停 GitHub 的解析 Frequency每月一次]]></content>
+      <categories>
+        <category>Website</category>
+      </categories>
+      <tags>
+        <tag>Website</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[How to install TensorFlow 2.2 on Windows 10]]></title>
     <url>%2F2020%2F05%2F13%2FTensorflow22%2F</url>
     <content type="text"><![CDATA[How to install TensorFlow 2.2 on Windows 10 TensorFlow 2.2 is the latest version for now 1234conda create -n tf_test python # 安装最新版 Pythonconda activate tf_test # 进入所创建的 tf_test 这个虚拟环境pip install tensorflow # 安装适配当前虚拟环境 Python 版本的 TensorFlowpip install cudnn # 自动安装最新的 TensorFlow 配套支持库 If return grpcio error, please pip install grpcio via proxy If return can not find DLL error, please conda install cudnn]]></content>
@@ -633,9 +644,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
-    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
+    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
       <categories>
         <category>Python</category>
       </categories>
@@ -644,9 +655,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools]]></title>
-    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_download_Visual_C%2B%2B_Build_Tools%2F</url>
-    <content type="text"><![CDATA[Set Python Unofficial SourceVisula C++ Bulid Tools]]></content>
+    <title><![CDATA[Python_s1_day02_topic_skills_py37_install_scrapy]]></title>
+    <url>%2F2018%2F06%2F29%2FPython_s1_day02_topic_skills_py37_install_scrapy%2F</url>
+    <content type="text"><![CDATA[Get twisted and lxml file from unofficial source twisted for py37 lxml for py37]]></content>
       <categories>
         <category>Python</category>
       </categories>
