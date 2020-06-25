@@ -26,3 +26,9 @@ jindaxiang.coding.net
 ## Attention
 
 If you are old customer of coding.net, so you have to update **_config.yml** file with conding site object
+
+## bind www.jfds.xyz
+
+1. 先在阿里云添加主机记录，按照 coding 绑定 www.jfds.xyz 域名那块的提示
+2. 再次绑定 www.jfds.xyz 域名
+3. Https 勾选 -> 保存 -> 部署网站
