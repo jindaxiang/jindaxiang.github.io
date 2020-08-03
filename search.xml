@@ -69,6 +69,20 @@
       </tags>
   </entry>
   <entry>
+    <title>Article_skills_webpage</title>
+    <url>/2018/06/30/Article_skills_webpage/</url>
+    <content><![CDATA[<h1 id="Useful-Article-page"><a href="#Useful-Article-page" class="headerlink" title="Useful Article page"></a>Useful Article page</h1><p><a href="http://www.keaipublishing.com/en/journals/the-journal-of-finance-and-data-science/">JFDS</a><br><a href="https://www.sciencedirect.com/">ScienceDirect</a><br><a href="https://www.researchgate.net/">ResearchGate</a><br><a href="https://www.ssrn.com/en/">SSRN</a><br><a href="http://sci-hub.tw/">SCI Hub</a></p>
+<a id="more"></a>
+
+]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Anaconda_skill_update</title>
     <url>/2018/07/19/Anaconda_skill_update/</url>
     <content><![CDATA[<h1 id="If-you-want-to-update-the-syper-anaconda-python-or-conda-you-can-follow-these-steps"><a href="#If-you-want-to-update-the-syper-anaconda-python-or-conda-you-can-follow-these-steps" class="headerlink" title="If you want to update the syper, anaconda, python or conda, you can follow these steps"></a>If you want to update the syper, anaconda, python or conda, you can follow these steps</h1><ol>
@@ -87,14 +101,14 @@
       </tags>
   </entry>
   <entry>
-    <title>Article_skills_webpage</title>
-    <url>/2018/06/30/Article_skills_webpage/</url>
-    <content><![CDATA[<h1 id="Useful-Article-page"><a href="#Useful-Article-page" class="headerlink" title="Useful Article page"></a>Useful Article page</h1><p><a href="http://www.keaipublishing.com/en/journals/the-journal-of-finance-and-data-science/">JFDS</a><br><a href="https://www.sciencedirect.com/">ScienceDirect</a><br><a href="https://www.researchgate.net/">ResearchGate</a><br><a href="https://www.ssrn.com/en/">SSRN</a><br><a href="http://sci-hub.tw/">SCI Hub</a></p>
+    <title>Blog_skills_gitalk</title>
+    <url>/2018/06/29/Blog_skills_gitalk/</url>
+    <content><![CDATA[<h1 id="set-gitalk-comment"><a href="#set-gitalk-comment" class="headerlink" title="set gitalk comment"></a>set gitalk comment</h1><p><a href="http://p659fi1z8.bkt.clouddn.com/md5.min.js">md5.min.js</a><br><a href="http://p659fi1z8.bkt.clouddn.com/gitalk.swig">gitalk.swig</a><br><img src="http://p659fi1z8.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20180629191644.jpg" alt="config"><br><img src="http://p659fi1z8.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20180629192032.jpg" alt="github_config"><br><a href="https://github.com/gitalk/gitalk/issues/115#event-1539518527">error help</a></p>
 <a id="more"></a>
 
 ]]></content>
       <categories>
-        <category>Article</category>
+        <category>Blog</category>
       </categories>
       <tags>
         <tag>Skill</tag>
@@ -146,7 +160,7 @@
 <p>Lutz Kilian</p>
 </blockquote>
 <ul>
-<li>E-mail: <a href="mailto:&#108;&#x6b;&#x69;&#108;&#105;&#97;&#x6e;&#x40;&#x75;&#x6d;&#x69;&#x63;&#x68;&#x2e;&#x65;&#100;&#117;">&#108;&#x6b;&#x69;&#108;&#105;&#97;&#x6e;&#x40;&#x75;&#x6d;&#x69;&#x63;&#x68;&#x2e;&#x65;&#100;&#117;</a> </li>
+<li>E-mail: <a href="mailto:&#108;&#107;&#105;&#x6c;&#105;&#x61;&#110;&#x40;&#x75;&#109;&#105;&#x63;&#104;&#x2e;&#x65;&#100;&#x75;">&#108;&#107;&#105;&#x6c;&#105;&#x61;&#110;&#x40;&#x75;&#109;&#105;&#x63;&#104;&#x2e;&#x65;&#100;&#x75;</a> </li>
 <li>Department of Economics</li>
 <li>University of Michigan</li>
 <li>Ann Arbor, MI 48109-1220</li>
@@ -164,20 +178,6 @@
       </categories>
       <tags>
         <tag>Source</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Blog_skills_gitalk</title>
-    <url>/2018/06/29/Blog_skills_gitalk/</url>
-    <content><![CDATA[<h1 id="set-gitalk-comment"><a href="#set-gitalk-comment" class="headerlink" title="set gitalk comment"></a>set gitalk comment</h1><p><a href="http://p659fi1z8.bkt.clouddn.com/md5.min.js">md5.min.js</a><br><a href="http://p659fi1z8.bkt.clouddn.com/gitalk.swig">gitalk.swig</a><br><img src="http://p659fi1z8.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20180629191644.jpg" alt="config"><br><img src="http://p659fi1z8.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20180629192032.jpg" alt="github_config"><br><a href="https://github.com/gitalk/gitalk/issues/115#event-1539518527">error help</a></p>
-<a id="more"></a>
-
-]]></content>
-      <categories>
-        <category>Blog</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -438,221 +438,6 @@
 <tr>
 <td>第十章：股票期权的性质</td>
 <td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E8%82%A1%E7%A5%A8%E6%9C%9F%E6%9D%83%E7%9A%84%E6%80%A7%E8%B4%A8.pdf">Download</a></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>Course</category>
-      </categories>
-      <tags>
-        <tag>Weekly</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Introduction to Fixed-Income Treasury</title>
-    <url>/2019/09/17/Introduction_to_FICC/</url>
-    <content><![CDATA[<h1 id="Fixed-Income-Treasury"><a href="#Fixed-Income-Treasury" class="headerlink" title="Fixed-Income Treasury"></a>Fixed-Income Treasury</h1><ul>
-<li>P.S. The course begin at 2019-08-27, thank you for your participation!</li>
-</ul>
-<hr>
-<h1 id="Fixed-Income-Treasury-1"><a href="#Fixed-Income-Treasury-1" class="headerlink" title="Fixed-Income Treasury"></a>Fixed-Income Treasury</h1><ul>
-<li>P.S. The course begin at 2019-08-27, thank you for your participation!</li>
-</ul>
-<hr>
-<h2 id="Attention"><a href="#Attention" class="headerlink" title="Attention"></a>Attention</h2><ul>
-<li>Attention: I have put the slides in chinese at bottom of this page, please download the pdf if you need!</li>
-<li>We will use 固定收益证券-第四版-类承曜 as the main book, click <a href="https://item.jd.com/12001823.html">here</a> to buy the book</li>
-<li>Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30pm to 20:55pm in the X1320 - in the xipu campus of southwest jiaotong university.</li>
-<li>This is the syllabus for the August 2019 iteration of the course. </li>
-<li>You can download the book <a href="https://jfds.nos-eastchina1.126.net/FICC/the_handbook_of_fixed_income_securities.pdf">Fixed Income Securities 7th</a> written by Frank J. Fabozzi.</li>
-<li>You can download the other materials about author from the <a href="https://www.edhec.edu/en/corps-professoral-et-chercheurs/fabozzi-frank-phd">author’s homepage</a>.</li>
-<li>You can download papers wirtten by author <a href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=87348">here</a> about this book.</li>
-</ul>
-<hr>
-<h2 id="The-skills-of-FICC"><a href="#The-skills-of-FICC" class="headerlink" title="The skills of FICC"></a>The skills of FICC</h2><ol>
-<li>Programming: Python</li>
-<li>Math: Calculus, Linear Algebra, Probability</li>
-<li>Finance: Finance Market</li>
-</ol>
-<hr>
-<h2 id="Schedule"><a href="#Schedule" class="headerlink" title="Schedule"></a>Schedule</h2><table>
-<thead>
-<tr>
-<th>Event Type</th>
-<th>Date</th>
-<th>Title</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Lecture 1</td>
-<td>Tuesday August 27 <br> 19:30pm to 20:55pm</td>
-<td>Introduction</td>
-<td>1. Conclusion about the Financial Engineering(last semester) <br> 2. Introduction to the recent financial events <br> 3. Introduction to the FICC and course zero</td>
-</tr>
-<tr>
-<td>Lecture 2</td>
-<td>Thursday August 29 <br> 19:30pm to 20:55pm</td>
-<td>Basic Python Programming for beginers</td>
-<td>1. Install python and install pandas, numpy, matplotlib, tushare and other package <br> 2. Use virtual environment and PyCharm <br> 3. Introduction an example about FICC using Python</td>
-</tr>
-<tr>
-<td>Lecture 3</td>
-<td>Tuesday September 3 <br> 19:30pm to 20:55pm</td>
-<td>Bond Fundamentals</td>
-<td>1. What is a bond <br> 2.  International bond market <br> 3. Chinese bond market</td>
-</tr>
-<tr>
-<td>Lecture 4</td>
-<td>Thursday September 5 <br> 19:30pm to 20:55pm</td>
-<td>Data scientist using Python: Pandas</td>
-<td>1. Write your first line of code <br> 2. Get the data from API <br> 3. Examples</td>
-</tr>
-<tr>
-<td>Lecture 5</td>
-<td>Tuesday September 10 <br> 19:30pm to 20:55pm</td>
-<td>Bond Market and Bond Trading</td>
-<td>1. Types of bond market <br> 2. How to apply for bond <br> 3. Bond rating</td>
-</tr>
-<tr>
-<td>Lecture 6</td>
-<td>Tuesday September 12 <br> 19:30pm to 20:55pm</td>
-<td>Data scientist using Pandas and Tushare</td>
-<td>1. Introduction to Pandas <br> 2. Introduction to Tushare <br> 3. Examples: dowload all data from tushare</td>
-</tr>
-<tr>
-<td>Lecture 7</td>
-<td>Thursday September 17 <br> 19:30pm to 20:55pm</td>
-<td>Introduce the bond market and know about the bond market</td>
-<td>1. Kings of market types <br> 2. Issue methods of bond</td>
-</tr>
-<tr>
-<td>Lecture 8</td>
-<td>Tuesday September 19 <br> 19:30pm to 20:55pm</td>
-<td>Get the data from the web of website</td>
-<td>1. Analysis the website <br> 2. Introduction to the <a href="https://2.python-requests.org/en/master/">requests</a> <br> 3. Examples: download the data and save it into local place</td>
-</tr>
-<tr>
-<td>Lecture 9</td>
-<td>Tuesday September 24 <br> 19:30pm to 20:55pm</td>
-<td>Learn the price of bond</td>
-<td>1. Pricing of bond <br> 2. Basic knowledge</td>
-</tr>
-<tr>
-<td>Lecture 10</td>
-<td>Thursday September 27 <br> 19:30pm to 20:55pm</td>
-<td>Data analysis</td>
-<td>1. Basic data process <br> 2. Examples: process the bond data</td>
-</tr>
-<tr>
-<td>Lecture 13</td>
-<td>Tuesday October 8 <br> 19:30pm to 20:55pm</td>
-<td>Update data</td>
-<td>1. Basic data process <br> 2. Examples: update the bond data and calculate the corr</td>
-</tr>
-<tr>
-<td>Lecture 14</td>
-<td>Thursday October 10 <br> 19:30pm to 20:55pm</td>
-<td>Data modeling</td>
-<td>1. Basic data modeling <br> 2. Examples: linear regression</td>
-</tr>
-<tr>
-<td>Lecture 15</td>
-<td>Tuesday October 15 <br> 19:30pm to 20:55pm</td>
-<td>Update data</td>
-<td>1. Basic data process <br> 2. Examples: update the bond data and calculate the corr</td>
-</tr>
-<tr>
-<td>Lecture 16</td>
-<td>Thursday October 17 <br> 19:30pm to 20:55pm</td>
-<td>Review the content we have learned from this class</td>
-<td>Prepare for the article about FICC</td>
-</tr>
-</tbody></table>
-<hr>
-<h2 id="Homework"><a href="#Homework" class="headerlink" title="Homework"></a>Homework</h2><p>Waiting</p>
-<h3 id="The-Mid-term-Homework"><a href="#The-Mid-term-Homework" class="headerlink" title="The Mid-term Homework"></a>The Mid-term Homework</h3><ol>
-<li>Published: 2019-09-19</li>
-<li>Content: <ol>
-<li>To describe the 327 bond event in chinese, <a href="https://baike.baidu.com/item/327%E5%9B%BD%E5%80%BA%E4%BA%8B%E4%BB%B6/4814853?fr=aladdin">reference materials</a> are provided here!</li>
-<li>To download the fundamental bond data from the <a href="http://zhuce.nafmii.org.cn/fans/publicQuery/manager">website</a> and print the code in paper.</li>
-<li>Give me the paper in the next class.</li>
-</ol>
-</li>
-</ol>
-<p>If all above materials are not sufficient for you, you can find the useful information by yourself.</p>
-<hr>
-<h2 id="Requirement-of-the-Format"><a href="#Requirement-of-the-Format" class="headerlink" title="Requirement of the Format"></a>Requirement of the Format</h2><p><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/docs/FICC_format.docx">Mid-term-Format</a></p>
-<hr>
-<h2 id="The-content-of-the-Mid-term-Exam"><a href="#The-content-of-the-Mid-term-Exam" class="headerlink" title="The content of the Mid-term Exam"></a>The content of the Mid-term Exam</h2><p>Waiting</p>
-<hr>
-<h2 id="The-Final-Exam"><a href="#The-Final-Exam" class="headerlink" title="The Final Exam"></a>The Final Exam</h2><h3 id="Reading-Materials"><a href="#Reading-Materials" class="headerlink" title="Reading Materials"></a>Reading Materials</h3><p>I will put some research articles here or in the attachment</p>
-<h3 id="Requirement"><a href="#Requirement" class="headerlink" title="Requirement"></a>Requirement</h3><p>Write an article about FICC market using empirical method!</p>
-<h3 id="Deadline"><a href="#Deadline" class="headerlink" title="Deadline"></a>Deadline</h3><p><strong>2019-10-17</strong>!</p>
-<h3 id="Requirement-of-the-Format-1"><a href="#Requirement-of-the-Format-1" class="headerlink" title="Requirement of the Format"></a>Requirement of the Format</h3><p><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/docs/FICC_format.docx">Final-exam-Format</a></p>
-<hr>
-<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><table>
-<thead>
-<tr>
-<th>Title</th>
-<th>Click Download to oepn or download the pdf file</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>第1课-绪论</td>
-<td><a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E9%9B%B6%E7%AB%A0-%E7%BB%AA%E8%AE%BA.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第2课-Python介绍及环境配置</td>
-<td><a href="https://jfds.nos-eastchina1.126.net/FICC/class_2/%E5%9B%BA%E5%AE%9A%E6%94%B6%E7%9B%8A%E8%AF%81%E5%88%B8-Python-%E7%AC%AC%E4%BA%8C%E8%AF%BE.png">Class MindMap</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_2/con_bond.py">Code</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_2/requirements.txt">Software</a>, <a href="https://blog.csdn.net/weixin_43715458/article/details/100096496">Anaconda 教程</a>, <a href="https://blog.csdn.net/AchangeC/article/details/80565466">虚拟环境设置</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_2/python%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B.pdf">Python MindMap</a></td>
-</tr>
-<tr>
-<td>第3课-债券基础知识</td>
-<td><a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第4课-Python应用: Pandas</td>
-<td><a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html">Pandas in 10 mins</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_4/get_a_stock.py">Tushare Code</a> , <a href="https://tushare.pro/document/2">Tushare Web Site</a>, <a href="https://www.liaoxuefeng.com/wiki/1016959663602400">Python Basic in Chinese</a></td>
-</tr>
-<tr>
-<td>第5课-债券市场和债券交易</td>
-<td><a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E5%92%8C%E5%80%BA%E5%88%B8%E4%BA%A4%E6%98%93.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第6课-Python应用: Pandas&amp;Tushare</td>
-<td><a href="https://jfds.nos-eastchina1.126.net/FICC/class_6/class_6_demo.py">Class_6_demo</a></td>
-</tr>
-<tr>
-<td>第7课-债券市场和债券交易</td>
-<td><a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E5%92%8C%E5%80%BA%E5%88%B8%E4%BA%A4%E6%98%93.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第8课-Python应用</td>
-<td><a href="https://jfds.nos-eastchina1.126.net/FICC/class_7/bond.py">Download</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_8/get_swjtu.py">Swjtu</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_8/temp_2.py">Async</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_8/temp_3.py">Tthread</a></td>
-</tr>
-<tr>
-<td>第9课-债券的价格</td>
-<td><a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E4%BB%B7%E6%A0%BC.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第10课-Python应用</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_data_process.py">Download</a></td>
-</tr>
-<tr>
-<td>第13课-Python应用</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_data_process.py">Download</a></td>
-</tr>
-<tr>
-<td>第14课-Python应用</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_d.csv">Data</a>, <a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_data_process.py">Code</a></td>
-</tr>
-<tr>
-<td>第15课-债券属性</td>
-<td><a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E6%94%B6%E7%9B%8A%E7%8E%87.pdf">债券的收益率</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E5%80%BA%E5%88%B8%E4%BB%B7%E6%A0%BC%E6%B3%A2%E5%8A%A8%E6%80%A7%E7%9A%84%E8%A1%A1%E9%87%8F.pdf">债券价格波动性的衡量</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%88%A9%E7%8E%87%E6%9C%9F%E9%99%90%E7%BB%93%E6%9E%84.pdf">利率期限结构</a>, <a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_15/bond_data_process.py">Code</a></td>
-</tr>
-<tr>
-<td>第16课-写作</td>
-<td>债券论文写作</td>
 </tr>
 </tbody></table>
 ]]></content>
@@ -925,6 +710,252 @@
       </tags>
   </entry>
   <entry>
+    <title>Introduction to Fixed-Income Treasury</title>
+    <url>/2019/09/17/Introduction_to_FICC/</url>
+    <content><![CDATA[<h1 id="Fixed-Income-Treasury"><a href="#Fixed-Income-Treasury" class="headerlink" title="Fixed-Income Treasury"></a>Fixed-Income Treasury</h1><ul>
+<li>P.S. The course begin at 2019-08-27, thank you for your participation!</li>
+</ul>
+<hr>
+<h1 id="Fixed-Income-Treasury-1"><a href="#Fixed-Income-Treasury-1" class="headerlink" title="Fixed-Income Treasury"></a>Fixed-Income Treasury</h1><ul>
+<li>P.S. The course begin at 2019-08-27, thank you for your participation!</li>
+</ul>
+<hr>
+<h2 id="Attention"><a href="#Attention" class="headerlink" title="Attention"></a>Attention</h2><ul>
+<li>Attention: I have put the slides in chinese at bottom of this page, please download the pdf if you need!</li>
+<li>We will use 固定收益证券-第四版-类承曜 as the main book, click <a href="https://item.jd.com/12001823.html">here</a> to buy the book</li>
+<li>Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30pm to 20:55pm in the X1320 - in the xipu campus of southwest jiaotong university.</li>
+<li>This is the syllabus for the August 2019 iteration of the course. </li>
+<li>You can download the book <a href="https://jfds.nos-eastchina1.126.net/FICC/the_handbook_of_fixed_income_securities.pdf">Fixed Income Securities 7th</a> written by Frank J. Fabozzi.</li>
+<li>You can download the other materials about author from the <a href="https://www.edhec.edu/en/corps-professoral-et-chercheurs/fabozzi-frank-phd">author’s homepage</a>.</li>
+<li>You can download papers wirtten by author <a href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=87348">here</a> about this book.</li>
+</ul>
+<hr>
+<h2 id="The-skills-of-FICC"><a href="#The-skills-of-FICC" class="headerlink" title="The skills of FICC"></a>The skills of FICC</h2><ol>
+<li>Programming: Python</li>
+<li>Math: Calculus, Linear Algebra, Probability</li>
+<li>Finance: Finance Market</li>
+</ol>
+<hr>
+<h2 id="Schedule"><a href="#Schedule" class="headerlink" title="Schedule"></a>Schedule</h2><table>
+<thead>
+<tr>
+<th>Event Type</th>
+<th>Date</th>
+<th>Title</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Lecture 1</td>
+<td>Tuesday August 27 <br> 19:30pm to 20:55pm</td>
+<td>Introduction</td>
+<td>1. Conclusion about the Financial Engineering(last semester) <br> 2. Introduction to the recent financial events <br> 3. Introduction to the FICC and course zero</td>
+</tr>
+<tr>
+<td>Lecture 2</td>
+<td>Thursday August 29 <br> 19:30pm to 20:55pm</td>
+<td>Basic Python Programming for beginers</td>
+<td>1. Install python and install pandas, numpy, matplotlib, tushare and other package <br> 2. Use virtual environment and PyCharm <br> 3. Introduction an example about FICC using Python</td>
+</tr>
+<tr>
+<td>Lecture 3</td>
+<td>Tuesday September 3 <br> 19:30pm to 20:55pm</td>
+<td>Bond Fundamentals</td>
+<td>1. What is a bond <br> 2.  International bond market <br> 3. Chinese bond market</td>
+</tr>
+<tr>
+<td>Lecture 4</td>
+<td>Thursday September 5 <br> 19:30pm to 20:55pm</td>
+<td>Data scientist using Python: Pandas</td>
+<td>1. Write your first line of code <br> 2. Get the data from API <br> 3. Examples</td>
+</tr>
+<tr>
+<td>Lecture 5</td>
+<td>Tuesday September 10 <br> 19:30pm to 20:55pm</td>
+<td>Bond Market and Bond Trading</td>
+<td>1. Types of bond market <br> 2. How to apply for bond <br> 3. Bond rating</td>
+</tr>
+<tr>
+<td>Lecture 6</td>
+<td>Tuesday September 12 <br> 19:30pm to 20:55pm</td>
+<td>Data scientist using Pandas and Tushare</td>
+<td>1. Introduction to Pandas <br> 2. Introduction to Tushare <br> 3. Examples: dowload all data from tushare</td>
+</tr>
+<tr>
+<td>Lecture 7</td>
+<td>Thursday September 17 <br> 19:30pm to 20:55pm</td>
+<td>Introduce the bond market and know about the bond market</td>
+<td>1. Kings of market types <br> 2. Issue methods of bond</td>
+</tr>
+<tr>
+<td>Lecture 8</td>
+<td>Tuesday September 19 <br> 19:30pm to 20:55pm</td>
+<td>Get the data from the web of website</td>
+<td>1. Analysis the website <br> 2. Introduction to the <a href="https://2.python-requests.org/en/master/">requests</a> <br> 3. Examples: download the data and save it into local place</td>
+</tr>
+<tr>
+<td>Lecture 9</td>
+<td>Tuesday September 24 <br> 19:30pm to 20:55pm</td>
+<td>Learn the price of bond</td>
+<td>1. Pricing of bond <br> 2. Basic knowledge</td>
+</tr>
+<tr>
+<td>Lecture 10</td>
+<td>Thursday September 27 <br> 19:30pm to 20:55pm</td>
+<td>Data analysis</td>
+<td>1. Basic data process <br> 2. Examples: process the bond data</td>
+</tr>
+<tr>
+<td>Lecture 13</td>
+<td>Tuesday October 8 <br> 19:30pm to 20:55pm</td>
+<td>Update data</td>
+<td>1. Basic data process <br> 2. Examples: update the bond data and calculate the corr</td>
+</tr>
+<tr>
+<td>Lecture 14</td>
+<td>Thursday October 10 <br> 19:30pm to 20:55pm</td>
+<td>Data modeling</td>
+<td>1. Basic data modeling <br> 2. Examples: linear regression</td>
+</tr>
+<tr>
+<td>Lecture 15</td>
+<td>Tuesday October 15 <br> 19:30pm to 20:55pm</td>
+<td>Update data</td>
+<td>1. Basic data process <br> 2. Examples: update the bond data and calculate the corr</td>
+</tr>
+<tr>
+<td>Lecture 16</td>
+<td>Thursday October 17 <br> 19:30pm to 20:55pm</td>
+<td>Review the content we have learned from this class</td>
+<td>Prepare for the article about FICC</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="Homework"><a href="#Homework" class="headerlink" title="Homework"></a>Homework</h2><p>Waiting</p>
+<h3 id="The-Mid-term-Homework"><a href="#The-Mid-term-Homework" class="headerlink" title="The Mid-term Homework"></a>The Mid-term Homework</h3><ol>
+<li>Published: 2019-09-19</li>
+<li>Content: <ol>
+<li>To describe the 327 bond event in chinese, <a href="https://baike.baidu.com/item/327%E5%9B%BD%E5%80%BA%E4%BA%8B%E4%BB%B6/4814853?fr=aladdin">reference materials</a> are provided here!</li>
+<li>To download the fundamental bond data from the <a href="http://zhuce.nafmii.org.cn/fans/publicQuery/manager">website</a> and print the code in paper.</li>
+<li>Give me the paper in the next class.</li>
+</ol>
+</li>
+</ol>
+<p>If all above materials are not sufficient for you, you can find the useful information by yourself.</p>
+<hr>
+<h2 id="Requirement-of-the-Format"><a href="#Requirement-of-the-Format" class="headerlink" title="Requirement of the Format"></a>Requirement of the Format</h2><p><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/docs/FICC_format.docx">Mid-term-Format</a></p>
+<hr>
+<h2 id="The-content-of-the-Mid-term-Exam"><a href="#The-content-of-the-Mid-term-Exam" class="headerlink" title="The content of the Mid-term Exam"></a>The content of the Mid-term Exam</h2><p>Waiting</p>
+<hr>
+<h2 id="The-Final-Exam"><a href="#The-Final-Exam" class="headerlink" title="The Final Exam"></a>The Final Exam</h2><h3 id="Reading-Materials"><a href="#Reading-Materials" class="headerlink" title="Reading Materials"></a>Reading Materials</h3><p>I will put some research articles here or in the attachment</p>
+<h3 id="Requirement"><a href="#Requirement" class="headerlink" title="Requirement"></a>Requirement</h3><p>Write an article about FICC market using empirical method!</p>
+<h3 id="Deadline"><a href="#Deadline" class="headerlink" title="Deadline"></a>Deadline</h3><p><strong>2019-10-17</strong>!</p>
+<h3 id="Requirement-of-the-Format-1"><a href="#Requirement-of-the-Format-1" class="headerlink" title="Requirement of the Format"></a>Requirement of the Format</h3><p><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/docs/FICC_format.docx">Final-exam-Format</a></p>
+<hr>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Click Download to oepn or download the pdf file</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>第1课-绪论</td>
+<td><a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E9%9B%B6%E7%AB%A0-%E7%BB%AA%E8%AE%BA.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第2课-Python介绍及环境配置</td>
+<td><a href="https://jfds.nos-eastchina1.126.net/FICC/class_2/%E5%9B%BA%E5%AE%9A%E6%94%B6%E7%9B%8A%E8%AF%81%E5%88%B8-Python-%E7%AC%AC%E4%BA%8C%E8%AF%BE.png">Class MindMap</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_2/con_bond.py">Code</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_2/requirements.txt">Software</a>, <a href="https://blog.csdn.net/weixin_43715458/article/details/100096496">Anaconda 教程</a>, <a href="https://blog.csdn.net/AchangeC/article/details/80565466">虚拟环境设置</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_2/python%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B.pdf">Python MindMap</a></td>
+</tr>
+<tr>
+<td>第3课-债券基础知识</td>
+<td><a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第4课-Python应用: Pandas</td>
+<td><a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html">Pandas in 10 mins</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_4/get_a_stock.py">Tushare Code</a> , <a href="https://tushare.pro/document/2">Tushare Web Site</a>, <a href="https://www.liaoxuefeng.com/wiki/1016959663602400">Python Basic in Chinese</a></td>
+</tr>
+<tr>
+<td>第5课-债券市场和债券交易</td>
+<td><a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E5%92%8C%E5%80%BA%E5%88%B8%E4%BA%A4%E6%98%93.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第6课-Python应用: Pandas&amp;Tushare</td>
+<td><a href="https://jfds.nos-eastchina1.126.net/FICC/class_6/class_6_demo.py">Class_6_demo</a></td>
+</tr>
+<tr>
+<td>第7课-债券市场和债券交易</td>
+<td><a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E5%92%8C%E5%80%BA%E5%88%B8%E4%BA%A4%E6%98%93.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第8课-Python应用</td>
+<td><a href="https://jfds.nos-eastchina1.126.net/FICC/class_7/bond.py">Download</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_8/get_swjtu.py">Swjtu</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_8/temp_2.py">Async</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/class_8/temp_3.py">Tthread</a></td>
+</tr>
+<tr>
+<td>第9课-债券的价格</td>
+<td><a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E4%BB%B7%E6%A0%BC.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第10课-Python应用</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_data_process.py">Download</a></td>
+</tr>
+<tr>
+<td>第13课-Python应用</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_data_process.py">Download</a></td>
+</tr>
+<tr>
+<td>第14课-Python应用</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_d.csv">Data</a>, <a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_data_process.py">Code</a></td>
+</tr>
+<tr>
+<td>第15课-债券属性</td>
+<td><a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E6%94%B6%E7%9B%8A%E7%8E%87.pdf">债券的收益率</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E5%80%BA%E5%88%B8%E4%BB%B7%E6%A0%BC%E6%B3%A2%E5%8A%A8%E6%80%A7%E7%9A%84%E8%A1%A1%E9%87%8F.pdf">债券价格波动性的衡量</a>, <a href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%88%A9%E7%8E%87%E6%9C%9F%E9%99%90%E7%BB%93%E6%9E%84.pdf">利率期限结构</a>, <a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_15/bond_data_process.py">Code</a></td>
+</tr>
+<tr>
+<td>第16课-写作</td>
+<td>债券论文写作</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>Course</category>
+      </categories>
+      <tags>
+        <tag>Weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MacOS High Sierra-10.13.5 install win10</title>
+    <url>/2018/06/19/Mac_s1_day01_topic_skills_install_win/</url>
+    <content><![CDATA[<h1 id="MacOS-High-Sierra-10-13-5-install-win10"><a href="#MacOS-High-Sierra-10-13-5-install-win10" class="headerlink" title="MacOS High Sierra-10.13.5 install win10"></a>MacOS High Sierra-10.13.5 install win10</h1><hr>
+<h2 id="Configuration"><a href="#Configuration" class="headerlink" title="Configuration"></a>Configuration</h2><ol>
+<li>MacBook Pro(13-inch, 2017, Four Thunderbolt 3 Ports)</li>
+<li>Edition: 10.13.5</li>
+<li>Processor: 3.5 GHz Intel Core i7</li>
+<li>Memory: 16GB 2133 MHz LPDDR3</li>
+<li>Graphics card: Intel Iris Plus Graphics 650 1536 MB</li>
+</ol>
+<h2 id="Sequence-to-open-the-MacBook-Pro"><a href="#Sequence-to-open-the-MacBook-Pro" class="headerlink" title="Sequence to open the MacBook Pro"></a>Sequence to open the MacBook Pro</h2><ol>
+<li>Set the password and AppID, input fingerprint</li>
+<li>Be careful that choose the SYSTEM PREFERENCE and get into the Secure and Privacy item and stop the file safe.</li>
+<li>Go to <a href="https://msdn.itellyou.cn/">MSDN</a> to download the <a href="ed2k://|file|cn_windows_10_consumer_editions_version_1803_updated_march_2018_x64_dvd_12063766.iso|4714162176|FB8C05DE594CD7E58D88993652DD2102|/">Win10</a>(click the website to find which version you will want) and save the file in the MacBook Pro</li>
+<li>Go into Launchpad and choose folder named other, choose the Boot Camp and click the next item</li>
+<li>Wait for seconds, you will enter the item named install windows, you can choose the ISO images item, the next you choose the APFS container, at this time, you may choose the divide the SSD into half, and the click the install item</li>
+<li>The IOS will download the necessary files from the web of the APPLE, if it had an error, you just try again, this process will need 5 minutes, according to your speed of the internet, just waiting.</li>
+<li>When item 6 finished, the computer will restart, then we go to install win, just follow the steps in normal.</li>
+<li>When the computer appear the windows, we should open the c:/OSXRESERVED/BootCamp/, and click the install install item, and waiting for the process</li>
+<li>Restart the computer, it will get into the win system, a dos window will appear, please wait for seconds</li>
+<li>At last, you will continue to install the necessary softwares in the computer. For example, Anaconda for win, Office for win, Notepad++, QQpinyin and so on.</li>
+</ol>
+<a id="more"></a>]]></content>
+      <categories>
+        <category>OS</category>
+      </categories>
+      <tags>
+        <tag>MacOS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Linux_s1_day01_topic_skills</title>
     <url>/2018/06/19/Linux_s1_day01_topic_skills/</url>
     <content><![CDATA[<h1 id="common-characters"><a href="#common-characters" class="headerlink" title="common characters"></a>common characters</h1><ul>
@@ -1013,37 +1044,6 @@
       </tags>
   </entry>
   <entry>
-    <title>MacOS High Sierra-10.13.5 install win10</title>
-    <url>/2018/06/19/Mac_s1_day01_topic_skills_install_win/</url>
-    <content><![CDATA[<h1 id="MacOS-High-Sierra-10-13-5-install-win10"><a href="#MacOS-High-Sierra-10-13-5-install-win10" class="headerlink" title="MacOS High Sierra-10.13.5 install win10"></a>MacOS High Sierra-10.13.5 install win10</h1><hr>
-<h2 id="Configuration"><a href="#Configuration" class="headerlink" title="Configuration"></a>Configuration</h2><ol>
-<li>MacBook Pro(13-inch, 2017, Four Thunderbolt 3 Ports)</li>
-<li>Edition: 10.13.5</li>
-<li>Processor: 3.5 GHz Intel Core i7</li>
-<li>Memory: 16GB 2133 MHz LPDDR3</li>
-<li>Graphics card: Intel Iris Plus Graphics 650 1536 MB</li>
-</ol>
-<h2 id="Sequence-to-open-the-MacBook-Pro"><a href="#Sequence-to-open-the-MacBook-Pro" class="headerlink" title="Sequence to open the MacBook Pro"></a>Sequence to open the MacBook Pro</h2><ol>
-<li>Set the password and AppID, input fingerprint</li>
-<li>Be careful that choose the SYSTEM PREFERENCE and get into the Secure and Privacy item and stop the file safe.</li>
-<li>Go to <a href="https://msdn.itellyou.cn/">MSDN</a> to download the <a href="ed2k://|file|cn_windows_10_consumer_editions_version_1803_updated_march_2018_x64_dvd_12063766.iso|4714162176|FB8C05DE594CD7E58D88993652DD2102|/">Win10</a>(click the website to find which version you will want) and save the file in the MacBook Pro</li>
-<li>Go into Launchpad and choose folder named other, choose the Boot Camp and click the next item</li>
-<li>Wait for seconds, you will enter the item named install windows, you can choose the ISO images item, the next you choose the APFS container, at this time, you may choose the divide the SSD into half, and the click the install item</li>
-<li>The IOS will download the necessary files from the web of the APPLE, if it had an error, you just try again, this process will need 5 minutes, according to your speed of the internet, just waiting.</li>
-<li>When item 6 finished, the computer will restart, then we go to install win, just follow the steps in normal.</li>
-<li>When the computer appear the windows, we should open the c:/OSXRESERVED/BootCamp/, and click the install install item, and waiting for the process</li>
-<li>Restart the computer, it will get into the win system, a dos window will appear, please wait for seconds</li>
-<li>At last, you will continue to install the necessary softwares in the computer. For example, Anaconda for win, Office for win, Notepad++, QQpinyin and so on.</li>
-</ol>
-<a id="more"></a>]]></content>
-      <categories>
-        <category>OS</category>
-      </categories>
-      <tags>
-        <tag>MacOS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Machine Learning Flash Cards_Forward_Stepwise_Selection!</title>
     <url>/2018/07/01/Machine%20Learning%20Flash%20Cards_Forward_Stepwise_Selection!/</url>
     <content><![CDATA[<p><img src="https://mmbiz.qpic.cn/mmbiz_png/mPHy1qqyXHUQX9OT4yaic7GIAqa5u6CPmToEZF2HqzmPib1RdibEIjVbAF35kqibxxiazmQ0J7yn25gy5WsyvZupWrw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" alt="image"></p>
@@ -1058,23 +1058,6 @@
   <entry>
     <title>Machine_Learning_day_01</title>
     <url>/2018/08/16/Machine_Learning_day_01/</url>
-    <content><![CDATA[<h1 id="Step-1-Importing-the-required-Libraries"><a href="#Step-1-Importing-the-required-Libraries" class="headerlink" title="Step 1: Importing the required Libraries"></a>Step 1: Importing the required Libraries</h1><p>These Two are essential libraries which we will import every time.<br>NumPy is a Library which contains Mathematical functions.<br>Pandas is the library used to import and manage the data sets.</p>
-<h1 id="Step-2-Importing-the-Data-Set"><a href="#Step-2-Importing-the-Data-Set" class="headerlink" title="Step 2: Importing the Data Set"></a>Step 2: Importing the Data Set</h1><p>Data sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe.</p>
-<h1 id="Step-3-Handling-the-Missing-Data"><a href="#Step-3-Handling-the-Missing-Data" class="headerlink" title="Step 3: Handling the Missing Data"></a>Step 3: Handling the Missing Data</h1><p>The data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task.</p>
-<h1 id="Step-4-Encoding-Categorical-Data"><a href="#Step-4-Encoding-Categorical-Data" class="headerlink" title="Step 4: Encoding Categorical Data"></a>Step 4: Encoding Categorical Data</h1><p>Categorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library</p>
-<h1 id="Step-5-Splitting-the-dataset-into-test-set-and-training-set"><a href="#Step-5-Splitting-the-dataset-into-test-set-and-training-set" class="headerlink" title="Step 5: Splitting the dataset into test set and training set"></a>Step 5: Splitting the dataset into test set and training set</h1><p>We make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library.</p>
-<h1 id="Step-6-Feature-Scaling"><a href="#Step-6-Feature-Scaling" class="headerlink" title="Step 6: Feature Scaling"></a>Step 6: Feature Scaling</h1><p>Most of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.</p>
-]]></content>
-      <categories>
-        <category>Machine Learning</category>
-      </categories>
-      <tags>
-        <tag>Daily</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Machine_Learning_day_02</title>
-    <url>/2018/08/16/Machine_Learning_day_02/</url>
     <content><![CDATA[<h1 id="Step-1-Importing-the-required-Libraries"><a href="#Step-1-Importing-the-required-Libraries" class="headerlink" title="Step 1: Importing the required Libraries"></a>Step 1: Importing the required Libraries</h1><p>These Two are essential libraries which we will import every time.<br>NumPy is a Library which contains Mathematical functions.<br>Pandas is the library used to import and manage the data sets.</p>
 <h1 id="Step-2-Importing-the-Data-Set"><a href="#Step-2-Importing-the-Data-Set" class="headerlink" title="Step 2: Importing the Data Set"></a>Step 2: Importing the Data Set</h1><p>Data sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe.</p>
 <h1 id="Step-3-Handling-the-Missing-Data"><a href="#Step-3-Handling-the-Missing-Data" class="headerlink" title="Step 3: Handling the Missing Data"></a>Step 3: Handling the Missing Data</h1><p>The data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task.</p>
@@ -1127,15 +1110,20 @@
       </tags>
   </entry>
   <entry>
-    <title>Machine Learning Flash Cards_Extrema!</title>
-    <url>/2018/06/19/Machine_s1_day01_topic_flash_cards_extrema/</url>
-    <content><![CDATA[<p><img src="http://p659fi1z8.bkt.clouddn.com/Extrema_web.png" alt="image"></p>
+    <title>Machine_Learning_day_02</title>
+    <url>/2018/08/16/Machine_Learning_day_02/</url>
+    <content><![CDATA[<h1 id="Step-1-Importing-the-required-Libraries"><a href="#Step-1-Importing-the-required-Libraries" class="headerlink" title="Step 1: Importing the required Libraries"></a>Step 1: Importing the required Libraries</h1><p>These Two are essential libraries which we will import every time.<br>NumPy is a Library which contains Mathematical functions.<br>Pandas is the library used to import and manage the data sets.</p>
+<h1 id="Step-2-Importing-the-Data-Set"><a href="#Step-2-Importing-the-Data-Set" class="headerlink" title="Step 2: Importing the Data Set"></a>Step 2: Importing the Data Set</h1><p>Data sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe.</p>
+<h1 id="Step-3-Handling-the-Missing-Data"><a href="#Step-3-Handling-the-Missing-Data" class="headerlink" title="Step 3: Handling the Missing Data"></a>Step 3: Handling the Missing Data</h1><p>The data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task.</p>
+<h1 id="Step-4-Encoding-Categorical-Data"><a href="#Step-4-Encoding-Categorical-Data" class="headerlink" title="Step 4: Encoding Categorical Data"></a>Step 4: Encoding Categorical Data</h1><p>Categorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library</p>
+<h1 id="Step-5-Splitting-the-dataset-into-test-set-and-training-set"><a href="#Step-5-Splitting-the-dataset-into-test-set-and-training-set" class="headerlink" title="Step 5: Splitting the dataset into test set and training set"></a>Step 5: Splitting the dataset into test set and training set</h1><p>We make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library.</p>
+<h1 id="Step-6-Feature-Scaling"><a href="#Step-6-Feature-Scaling" class="headerlink" title="Step 6: Feature Scaling"></a>Step 6: Feature Scaling</h1><p>Most of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.</p>
 ]]></content>
       <categories>
         <category>Machine Learning</category>
       </categories>
       <tags>
-        <tag>Flash_cards</tag>
+        <tag>Daily</tag>
       </tags>
   </entry>
   <entry>
@@ -1152,6 +1140,18 @@
       </categories>
       <tags>
         <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Machine Learning Flash Cards_Extrema!</title>
+    <url>/2018/06/19/Machine_s1_day01_topic_flash_cards_extrema/</url>
+    <content><![CDATA[<p><img src="http://p659fi1z8.bkt.clouddn.com/Extrema_web.png" alt="image"></p>
+]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Flash_cards</tag>
       </tags>
   </entry>
   <entry>
@@ -1278,19 +1278,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Advances in Financial Machine Learning</title>
-    <url>/2019/01/01/Pdf-Advances-in-Financial-Machine-Learning/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/advances_in_financial_machine_learning_wiley%282018%29.pdf" data-height="500px"></div>
-
-]]></content>
-      <categories>
-        <category>Finance</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Futures Data Source and Fetch</title>
     <url>/2019/01/29/Pdf-Futures-Data-Source-and-Fetch/</url>
     <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/finance/2019-01-30-%E6%9C%9F%E8%B4%A7%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90.pdf" data-height="500px"></div>]]></content>
@@ -1325,19 +1312,16 @@
       </tags>
   </entry>
   <entry>
-    <title>Matrix for ML and Foundations of Data Science</title>
-    <url>/2019/01/20/Pdf-Matrix-DS/</url>
-    <content><![CDATA[<h1 id="Foundations-of-Data-Science"><a href="#Foundations-of-Data-Science" class="headerlink" title="Foundations of Data Science"></a>Foundations of Data Science</h1><div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/ml/book%2BFoundations%2Bof%2BData%2BScience.pdf" data-height="500px"></div>
-<h1 id="Matrix-for-ml-book-2BFoundations-2Bof-2BData-2BScience"><a href="#Matrix-for-ml-book-2BFoundations-2Bof-2BData-2BScience" class="headerlink" title="Matrix for ml/book%2BFoundations%2Bof%2BData%2BScience"></a>Matrix for ml/book%2BFoundations%2Bof%2BData%2BScience</h1><div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/ml/matrix%20vector%20derivatives%20for%20machine%20learning.pdf" data-height="500px"></div>
-
-
+    <title>Advances in Financial Machine Learning</title>
+    <url>/2019/01/01/Pdf-Advances-in-Financial-Machine-Learning/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/advances_in_financial_machine_learning_wiley%282018%29.pdf" data-height="500px"></div>
 
 ]]></content>
       <categories>
-        <category>Data Science</category>
+        <category>Finance</category>
       </categories>
       <tags>
-        <tag>ML</tag>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -1369,14 +1353,19 @@
       </tags>
   </entry>
   <entry>
-    <title>R in action 2nd</title>
-    <url>/2019/12/25/Pdf-R-in-action-2nd/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/manning_R_in_action_2nd.pdf" data-height="500px"></div>]]></content>
+    <title>Matrix for ML and Foundations of Data Science</title>
+    <url>/2019/01/20/Pdf-Matrix-DS/</url>
+    <content><![CDATA[<h1 id="Foundations-of-Data-Science"><a href="#Foundations-of-Data-Science" class="headerlink" title="Foundations of Data Science"></a>Foundations of Data Science</h1><div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/ml/book%2BFoundations%2Bof%2BData%2BScience.pdf" data-height="500px"></div>
+<h1 id="Matrix-for-ml-book-2BFoundations-2Bof-2BData-2BScience"><a href="#Matrix-for-ml-book-2BFoundations-2Bof-2BData-2BScience" class="headerlink" title="Matrix for ml/book%2BFoundations%2Bof%2BData%2BScience"></a>Matrix for ml/book%2BFoundations%2Bof%2BData%2BScience</h1><div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/ml/matrix%20vector%20derivatives%20for%20machine%20learning.pdf" data-height="500px"></div>
+
+
+
+]]></content>
       <categories>
-        <category>Book</category>
+        <category>Data Science</category>
       </categories>
       <tags>
-        <tag>R</tag>
+        <tag>ML</tag>
       </tags>
   </entry>
   <entry>
@@ -1404,6 +1393,31 @@
       </tags>
   </entry>
   <entry>
+    <title>R in action 2nd</title>
+    <url>/2019/12/25/Pdf-R-in-action-2nd/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/manning_R_in_action_2nd.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Book</category>
+      </categories>
+      <tags>
+        <tag>R</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Famous Scholar--P. Eric Yeung</title>
+    <url>/2019/01/09/Pdf-famous-scholar/</url>
+    <content><![CDATA[<p>P. Eric Yeung，康奈尔大学管理学院终身教授，研究兴趣主要集中于财务会计与资本市场中的三个方面，即经济与行为因素对市场参与者使用会计信息产生的影响、经济与行为因素对管理层提供会计信息产生的影响、会计信息与经济基本面之间的关系，其研究成果全部发表在世界最顶尖的会计和管理类学术期刊上，如The Accounting Review、Journal of Accounting Research、Journal of Accounting and Economics、Management Science、Contemporary Accounting Research、Review of Financial Studies、Strategic Management Journal等。Yeung教授现为国际会计类顶级期刊The Accounting Review编委会委员，并担任了会计学、金融学、管理学等方面共计21家国际学术期刊和AAA年会参会论文的审稿人。2014年，Yeung教授被美国著名网站Poets &amp; Quants评选为“全世界40名40岁以下最杰出的商学院教授”</p>
+<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/vitae/pey4_vitae.pdf" data-height="500px"></div>
+
+]]></content>
+      <categories>
+        <category>Finance</category>
+      </categories>
+      <tags>
+        <tag>Scholar</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>TensorFlow</title>
     <url>/2019/12/18/Pdf-TensorFlow/</url>
     <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/TensorFlow-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf" data-height="500px"></div>
@@ -1424,20 +1438,6 @@
       </categories>
       <tags>
         <tag>Stata</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Famous Scholar--P. Eric Yeung</title>
-    <url>/2019/01/09/Pdf-famous-scholar/</url>
-    <content><![CDATA[<p>P. Eric Yeung，康奈尔大学管理学院终身教授，研究兴趣主要集中于财务会计与资本市场中的三个方面，即经济与行为因素对市场参与者使用会计信息产生的影响、经济与行为因素对管理层提供会计信息产生的影响、会计信息与经济基本面之间的关系，其研究成果全部发表在世界最顶尖的会计和管理类学术期刊上，如The Accounting Review、Journal of Accounting Research、Journal of Accounting and Economics、Management Science、Contemporary Accounting Research、Review of Financial Studies、Strategic Management Journal等。Yeung教授现为国际会计类顶级期刊The Accounting Review编委会委员，并担任了会计学、金融学、管理学等方面共计21家国际学术期刊和AAA年会参会论文的审稿人。2014年，Yeung教授被美国著名网站Poets &amp; Quants评选为“全世界40名40岁以下最杰出的商学院教授”</p>
-<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/vitae/pey4_vitae.pdf" data-height="500px"></div>
-
-]]></content>
-      <categories>
-        <category>Finance</category>
-      </categories>
-      <tags>
-        <tag>Scholar</tag>
       </tags>
   </entry>
   <entry>
@@ -1509,17 +1509,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Python for Finance 2nd</title>
-    <url>/2018/12/17/Pdf_Python_for_Finance_2nd/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/ml/python_for_finance_2.pdf" data-height="500px"></div> ]]></content>
-      <categories>
-        <category>Finance</category>
-      </categories>
-      <tags>
-        <tag>PDF</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Web Scraping with Python 2nd</title>
     <url>/2018/12/16/Pdf_Web_Scraping_with_Python_2nd/</url>
     <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/python/web_scraping_with_python_2.pdf" data-height="500px"></div>
@@ -1545,6 +1534,17 @@
       </tags>
   </entry>
   <entry>
+    <title>Python for Finance 2nd</title>
+    <url>/2018/12/17/Pdf_Python_for_Finance_2nd/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/ml/python_for_finance_2.pdf" data-height="500px"></div> ]]></content>
+      <categories>
+        <category>Finance</category>
+      </categories>
+      <tags>
+        <tag>PDF</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Put my site on the github and coding</title>
     <url>/2019/01/02/Put-my-site-on-the-github-and-coding/</url>
     <content><![CDATA[<p><img src="https://user-gold-cdn.xitu.io/2018/4/23/162f30d3ac024b42?w=6000&h=4000&f=jpeg&s=2757031" alt="pic"></p>
@@ -1556,6 +1556,21 @@
 <h1 id="3-Pay-more-attentions-to-Github-using"><a href="#3-Pay-more-attentions-to-Github-using" class="headerlink" title="3. Pay more attentions to Github using!"></a>3. Pay more attentions to Github using!</h1>]]></content>
       <categories>
         <category>Blog</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PyCharm_skill_day_01</title>
+    <url>/2018/08/24/PyCharm_skill_day_01/</url>
+    <content><![CDATA[<h1 id="PyCharm-multiple-code-indent-and-left-moving"><a href="#PyCharm-multiple-code-indent-and-left-moving" class="headerlink" title="PyCharm multiple code indent and left moving"></a>PyCharm multiple code indent and left moving</h1><ol>
+<li>select the code line or block and press ==tab== key, you can indent the code line or block</li>
+<li>select the code line or block and press ==shift + tab== , you can left moving the code line or block</li>
+</ol>
+]]></content>
+      <categories>
+        <category>PyCharm</category>
       </categories>
       <tags>
         <tag>Skill</tag>
@@ -1593,18 +1608,14 @@
       </tags>
   </entry>
   <entry>
-    <title>PyCharm_skill_day_01</title>
-    <url>/2018/08/24/PyCharm_skill_day_01/</url>
-    <content><![CDATA[<h1 id="PyCharm-multiple-code-indent-and-left-moving"><a href="#PyCharm-multiple-code-indent-and-left-moving" class="headerlink" title="PyCharm multiple code indent and left moving"></a>PyCharm multiple code indent and left moving</h1><ol>
-<li>select the code line or block and press ==tab== key, you can indent the code line or block</li>
-<li>select the code line or block and press ==shift + tab== , you can left moving the code line or block</li>
-</ol>
-]]></content>
+    <title>Python_report</title>
+    <url>/2019/09/16/Python_get_report/</url>
+    <content><![CDATA[<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># coding=utf-8</span></span><br><span class="line"><span class="comment"># /usr/bin/env python</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">Author: Albert King</span></span><br><span class="line"><span class="string">date: 2019/9/15 18:27</span></span><br><span class="line"><span class="string">desc: 调用 configparser 模块管理您的 token，防止重要信息外泄；调用 pathlib 模块管理路径；利用 f-strings 管理字符串替换</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="keyword">from</span> pathlib <span class="keyword">import</span> Path  <span class="comment"># 路径管理模块</span></span><br><span class="line"><span class="keyword">import</span> logging  <span class="comment"># 日志管理模块</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> configparser  <span class="comment"># 配置管理模块</span></span><br><span class="line"><span class="keyword">import</span> jqdatasdk <span class="keyword">as</span> jq  <span class="comment"># 聚宽数据接口</span></span><br><span class="line"><span class="keyword">import</span> tushare <span class="keyword">as</span> ts  <span class="comment"># Tushare 数据接口</span></span><br><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br><span class="line"></span><br><span class="line">pd.options.display.max_columns = <span class="literal">None</span></span><br><span class="line">pd.options.display.max_rows = <span class="literal">None</span></span><br><span class="line"></span><br><span class="line">logger = logging.getLogger()</span><br><span class="line">logger.setLevel(logging.INFO)</span><br><span class="line">logFormatter = <span class="string">&#x27;%(asctime)s - %(user)s - %(levelname)s - %(message)s&#x27;</span></span><br><span class="line">formatter = logging.Formatter(fmt=logFormatter)</span><br><span class="line"></span><br><span class="line">console = logging.StreamHandler()  <span class="comment"># 配置日志输出到控制台</span></span><br><span class="line">console.setLevel(logging.INFO)  <span class="comment"># 设置输出到控制台的最低日志级别</span></span><br><span class="line">console.setFormatter(formatter)  <span class="comment"># 设置格式</span></span><br><span class="line">logger.addHandler(console)</span><br><span class="line"></span><br><span class="line">handler = logging.FileHandler(Path(<span class="string">r&quot;C:\Users\king\PycharmProjects\rep_process\config&quot;</span>) / <span class="string">&#x27;king.log&#x27;</span>, mode=<span class="string">&#x27;w&#x27;</span>)  <span class="comment"># mode=&quot;a&quot;, 为追加文件; mode=&quot;w&quot;, 为擦出后写入文件</span></span><br><span class="line">handler.setLevel(logging.INFO)</span><br><span class="line">handler.setFormatter(formatter)</span><br><span class="line">logger.addHandler(handler)</span><br><span class="line">logger.info(<span class="string">&quot;Begin record&quot;</span>, extra=&#123;<span class="string">&#x27;user&#x27;</span>: <span class="string">&#x27;king&#x27;</span>&#125;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">path_ini = Path(<span class="string">r&#x27;C:\Users\king\PycharmProjects\rep_process\config\account_info.ini&#x27;</span>)</span><br><span class="line">config = configparser.ConfigParser()</span><br><span class="line">config.read(path_ini)</span><br><span class="line">jq_username = config[<span class="string">&#x27;joinquant&#x27;</span>][<span class="string">&#x27;username&#x27;</span>]</span><br><span class="line">jq_password = config[<span class="string">&#x27;joinquant&#x27;</span>][<span class="string">&#x27;password&#x27;</span>]</span><br><span class="line"></span><br><span class="line">jq.auth(jq_username, jq_password)</span><br><span class="line">jq.get_all_securities()</span><br><span class="line">ts_token = config[<span class="string">&#x27;tushare&#x27;</span>][<span class="string">&#x27;token&#x27;</span>]</span><br><span class="line">pro = ts.pro_api(ts_token)</span><br><span class="line"></span><br><span class="line">data = pro.stock_basic(exchange=<span class="string">&#x27;&#x27;</span>, list_status=<span class="string">&#x27;L&#x27;</span>, fields=<span class="string">&#x27;ts_code,symbol,name,area,industry,list_date&#x27;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> item <span class="keyword">in</span> data[<span class="string">&#x27;ts_code&#x27;</span>][:<span class="number">10</span>]:</span><br><span class="line">    df = pro.anns(ts_code=item, start_date=<span class="string">&#x27;20180401&#x27;</span>, end_date=<span class="string">&#x27;20190521&#x27;</span>, year=<span class="string">&#x27;2019&#x27;</span>,</span><br><span class="line">                  fields=<span class="string">&#x27;ts_code,ann_date,ann_type,title,content,pub_time&#x27;</span>)</span><br><span class="line">    content_text = df[(df[<span class="string">&#x27;ann_type&#x27;</span>] == <span class="string">&quot;年度报告&quot;</span>) &amp; (df[<span class="string">&#x27;title&#x27;</span>].str.endswith(<span class="string">&quot;报告&quot;</span>))][<span class="string">&#x27;content&#x27;</span>].values[<span class="number">0</span>]</span><br><span class="line">    <span class="keyword">with</span> open(Path(<span class="string">r&#x27;C:\Users\king\PycharmProjects\rep_process\tushare_data&#x27;</span>) / <span class="string">f&quot;<span class="subst">&#123;item&#125;</span>.txt&quot;</span>, <span class="string">&#x27;w&#x27;</span>, encoding=<span class="string">&#x27;utf-8&#x27;</span>) <span class="keyword">as</span> f:</span><br><span class="line">        f.write(content_text)</span><br><span class="line">    logger.info(<span class="string">f&quot;<span class="subst">&#123;item&#125;</span> finished&quot;</span>, extra=&#123;<span class="string">&#x27;user&#x27;</span>: <span class="string">&#x27;king&#x27;</span>&#125;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">my_name = <span class="string">&quot;jindaxiang&quot;</span></span><br><span class="line">logger.info(<span class="string">f&quot;Finished by <span class="subst">&#123;my_name.upper()&#125;</span>&quot;</span>, extra=&#123;<span class="string">&quot;user&quot;</span>: <span class="string">&quot;daxiang&quot;</span>&#125;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">with</span> open(Path(<span class="string">r&quot;C:\Users\king\PycharmProjects\rep_process\config&quot;</span>) / <span class="string">&quot;king.log&quot;</span>, <span class="string">&quot;r&quot;</span>) <span class="keyword">as</span> f:</span><br><span class="line">    print(f.read())</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>PyCharm</category>
+        <category>Python</category>
       </categories>
       <tags>
-        <tag>Skill</tag>
+        <tag>Report</tag>
       </tags>
   </entry>
   <entry>
@@ -1618,17 +1629,6 @@
       </categories>
       <tags>
         <tag>Record</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Python_report</title>
-    <url>/2019/09/16/Python_get_report/</url>
-    <content><![CDATA[<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># coding=utf-8</span></span><br><span class="line"><span class="comment"># /usr/bin/env python</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">Author: Albert King</span></span><br><span class="line"><span class="string">date: 2019/9/15 18:27</span></span><br><span class="line"><span class="string">desc: 调用 configparser 模块管理您的 token，防止重要信息外泄；调用 pathlib 模块管理路径；利用 f-strings 管理字符串替换</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="keyword">from</span> pathlib <span class="keyword">import</span> Path  <span class="comment"># 路径管理模块</span></span><br><span class="line"><span class="keyword">import</span> logging  <span class="comment"># 日志管理模块</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> configparser  <span class="comment"># 配置管理模块</span></span><br><span class="line"><span class="keyword">import</span> jqdatasdk <span class="keyword">as</span> jq  <span class="comment"># 聚宽数据接口</span></span><br><span class="line"><span class="keyword">import</span> tushare <span class="keyword">as</span> ts  <span class="comment"># Tushare 数据接口</span></span><br><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br><span class="line"></span><br><span class="line">pd.options.display.max_columns = <span class="literal">None</span></span><br><span class="line">pd.options.display.max_rows = <span class="literal">None</span></span><br><span class="line"></span><br><span class="line">logger = logging.getLogger()</span><br><span class="line">logger.setLevel(logging.INFO)</span><br><span class="line">logFormatter = <span class="string">&#x27;%(asctime)s - %(user)s - %(levelname)s - %(message)s&#x27;</span></span><br><span class="line">formatter = logging.Formatter(fmt=logFormatter)</span><br><span class="line"></span><br><span class="line">console = logging.StreamHandler()  <span class="comment"># 配置日志输出到控制台</span></span><br><span class="line">console.setLevel(logging.INFO)  <span class="comment"># 设置输出到控制台的最低日志级别</span></span><br><span class="line">console.setFormatter(formatter)  <span class="comment"># 设置格式</span></span><br><span class="line">logger.addHandler(console)</span><br><span class="line"></span><br><span class="line">handler = logging.FileHandler(Path(<span class="string">r&quot;C:\Users\king\PycharmProjects\rep_process\config&quot;</span>) / <span class="string">&#x27;king.log&#x27;</span>, mode=<span class="string">&#x27;w&#x27;</span>)  <span class="comment"># mode=&quot;a&quot;, 为追加文件; mode=&quot;w&quot;, 为擦出后写入文件</span></span><br><span class="line">handler.setLevel(logging.INFO)</span><br><span class="line">handler.setFormatter(formatter)</span><br><span class="line">logger.addHandler(handler)</span><br><span class="line">logger.info(<span class="string">&quot;Begin record&quot;</span>, extra=&#123;<span class="string">&#x27;user&#x27;</span>: <span class="string">&#x27;king&#x27;</span>&#125;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">path_ini = Path(<span class="string">r&#x27;C:\Users\king\PycharmProjects\rep_process\config\account_info.ini&#x27;</span>)</span><br><span class="line">config = configparser.ConfigParser()</span><br><span class="line">config.read(path_ini)</span><br><span class="line">jq_username = config[<span class="string">&#x27;joinquant&#x27;</span>][<span class="string">&#x27;username&#x27;</span>]</span><br><span class="line">jq_password = config[<span class="string">&#x27;joinquant&#x27;</span>][<span class="string">&#x27;password&#x27;</span>]</span><br><span class="line"></span><br><span class="line">jq.auth(jq_username, jq_password)</span><br><span class="line">jq.get_all_securities()</span><br><span class="line">ts_token = config[<span class="string">&#x27;tushare&#x27;</span>][<span class="string">&#x27;token&#x27;</span>]</span><br><span class="line">pro = ts.pro_api(ts_token)</span><br><span class="line"></span><br><span class="line">data = pro.stock_basic(exchange=<span class="string">&#x27;&#x27;</span>, list_status=<span class="string">&#x27;L&#x27;</span>, fields=<span class="string">&#x27;ts_code,symbol,name,area,industry,list_date&#x27;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> item <span class="keyword">in</span> data[<span class="string">&#x27;ts_code&#x27;</span>][:<span class="number">10</span>]:</span><br><span class="line">    df = pro.anns(ts_code=item, start_date=<span class="string">&#x27;20180401&#x27;</span>, end_date=<span class="string">&#x27;20190521&#x27;</span>, year=<span class="string">&#x27;2019&#x27;</span>,</span><br><span class="line">                  fields=<span class="string">&#x27;ts_code,ann_date,ann_type,title,content,pub_time&#x27;</span>)</span><br><span class="line">    content_text = df[(df[<span class="string">&#x27;ann_type&#x27;</span>] == <span class="string">&quot;年度报告&quot;</span>) &amp; (df[<span class="string">&#x27;title&#x27;</span>].str.endswith(<span class="string">&quot;报告&quot;</span>))][<span class="string">&#x27;content&#x27;</span>].values[<span class="number">0</span>]</span><br><span class="line">    <span class="keyword">with</span> open(Path(<span class="string">r&#x27;C:\Users\king\PycharmProjects\rep_process\tushare_data&#x27;</span>) / <span class="string">f&quot;<span class="subst">&#123;item&#125;</span>.txt&quot;</span>, <span class="string">&#x27;w&#x27;</span>, encoding=<span class="string">&#x27;utf-8&#x27;</span>) <span class="keyword">as</span> f:</span><br><span class="line">        f.write(content_text)</span><br><span class="line">    logger.info(<span class="string">f&quot;<span class="subst">&#123;item&#125;</span> finished&quot;</span>, extra=&#123;<span class="string">&#x27;user&#x27;</span>: <span class="string">&#x27;king&#x27;</span>&#125;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">my_name = <span class="string">&quot;jindaxiang&quot;</span></span><br><span class="line">logger.info(<span class="string">f&quot;Finished by <span class="subst">&#123;my_name.upper()&#125;</span>&quot;</span>, extra=&#123;<span class="string">&quot;user&quot;</span>: <span class="string">&quot;daxiang&quot;</span>&#125;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">with</span> open(Path(<span class="string">r&quot;C:\Users\king\PycharmProjects\rep_process\config&quot;</span>) / <span class="string">&quot;king.log&quot;</span>, <span class="string">&quot;r&quot;</span>) <span class="keyword">as</span> f:</span><br><span class="line">    print(f.read())</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Python</category>
-      </categories>
-      <tags>
-        <tag>Report</tag>
       </tags>
   </entry>
   <entry>
@@ -1683,18 +1683,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Python_s1_day02_topic_skills_set_unoffical_source</title>
-    <url>/2018/06/29/Python_s1_day02_topic_skills_set_unoffical_source/</url>
-    <content><![CDATA[<h1 id="Set-Python-Unofficial-Source"><a href="#Set-Python-Unofficial-Source" class="headerlink" title="Set Python Unofficial Source"></a>Set Python Unofficial Source</h1><p><a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/">Unofficial Source</a></p>
-]]></content>
-      <categories>
-        <category>Python</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Python_s1_day02_topic_skills_Set_domestic_source</title>
     <url>/2018/06/29/Python_s1_day02_topic_skills_set_domestic_source/</url>
     <content><![CDATA[<h1 id="Set-Python-default-domestic-source"><a href="#Set-Python-default-domestic-source" class="headerlink" title="Set Python default domestic source"></a>Set Python default domestic source</h1><p>PIP安装源替换成国内镜像，可以大幅提升下载速度，还可以提高安装成功率。<br>If you always install packages from pypi, then you will find that use default source will be very slow!<br>you can use domestic source from the next list:</p>
@@ -1721,13 +1709,9 @@
       </tags>
   </entry>
   <entry>
-    <title>Python_s1_day02_topic_skills_setting</title>
-    <url>/2018/06/29/Python_s1_day02_topic_skills_setting/</url>
-    <content><![CDATA[<h1 id="Set-TUNA-source"><a href="#Set-TUNA-source" class="headerlink" title="Set TUNA source"></a>Set TUNA source</h1><p><a href="https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/">清华 Anaconda 镜像使用帮助</a></p>
-<p>If you use win10, then open the cmd command and input those code to set the TUNA source</p>
-<figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/</span><br><span class="line">conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/</span><br><span class="line">conda config --<span class="built_in">set</span> show_channel_urls yes</span><br></pre></td></tr></table></figure>
-
-<p>If you want to download and install <a href="https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/">Anaconda 安装包</a> to choose the latest version in win10</p>
+    <title>Python_s1_day02_topic_skills_set_unoffical_source</title>
+    <url>/2018/06/29/Python_s1_day02_topic_skills_set_unoffical_source/</url>
+    <content><![CDATA[<h1 id="Set-Python-Unofficial-Source"><a href="#Set-Python-Unofficial-Source" class="headerlink" title="Set Python Unofficial Source"></a>Set Python Unofficial Source</h1><p><a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/">Unofficial Source</a></p>
 ]]></content>
       <categories>
         <category>Python</category>
@@ -1752,14 +1736,16 @@
       </tags>
   </entry>
   <entry>
-    <title>Spider_about_mafengwo</title>
-    <url>/2018/10/24/Spider_about_mafengwo/</url>
-    <content><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>During the National Day Holidays, i did some work for the purpose of writing a repot about Mount Emei scenic area. The first thing i want to do is how to get the information about Mount Emei, when i was browsing websites on internet, Mafengwo come into my eyes. Then i will pay more attention on mafengwo, especially about how to fetch the data of hotels in every scenic area in <a href="http://www.mafengwo.com/">www.mafengwo.com</a></p>
-<h1 id="Step-one"><a href="#Step-one" class="headerlink" title="Step one"></a>Step one</h1><p>Firstly, i will open the chrome broswer and type in the website of our objective. <a href="http://www.mafengwo.com/">www.mafengwo.com</a>, then click the <a href="http://www.mafengwo.cn/mdd/">http://www.mafengwo.cn/mdd/</a> site, you will see the <img src="http://p659fi1z8.bkt.clouddn.com/pic_1.jpg" alt="pic_1">, our destination is the Mount Emei, so i click the 峨眉山, then we get into <a href="http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10143.html">http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10143.html</a>, yes, it’s the website we needed. In the process of fethcing the data, i think that, to fetch the hotel data is the most difficult, so i choose this part to do a favor. You should broswer the <a href="http://www.mafengwo.cn/hotel/10143/?sFrom=mdd">http://www.mafengwo.cn/hotel/10143/?sFrom=mdd</a>, and you will find it’s something interesting there, because the price of hotle is shown on the screen.</p>
-<h1 id="Step-two"><a href="#Step-two" class="headerlink" title="Step two"></a>Step two</h1><p>Click the right button of mounse, open the check, then go to the network tab, press the preserver log item, just as follows:<br>then you should reload the website, go into the source tab and press top, right click the top button, choose search in all files, then input ‘getSign’, just as <img src="http://p659fi1z8.bkt.clouddn.com/pic_2.jpg" alt="pic_2">. Use the debuger function of chrome. You can find the return value, it’s md5 encryption, use the dict and str content to generate the salt, then use get method to transmit the parameters to host.</p>
+    <title>Python_s1_day02_topic_skills_setting</title>
+    <url>/2018/06/29/Python_s1_day02_topic_skills_setting/</url>
+    <content><![CDATA[<h1 id="Set-TUNA-source"><a href="#Set-TUNA-source" class="headerlink" title="Set TUNA source"></a>Set TUNA source</h1><p><a href="https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/">清华 Anaconda 镜像使用帮助</a></p>
+<p>If you use win10, then open the cmd command and input those code to set the TUNA source</p>
+<figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/</span><br><span class="line">conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/</span><br><span class="line">conda config --<span class="built_in">set</span> show_channel_urls yes</span><br></pre></td></tr></table></figure>
+
+<p>If you want to download and install <a href="https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/">Anaconda 安装包</a> to choose the latest version in win10</p>
 ]]></content>
       <categories>
-        <category>Spider</category>
+        <category>Python</category>
       </categories>
       <tags>
         <tag>Skill</tag>
@@ -1805,6 +1791,20 @@
       </categories>
       <tags>
         <tag>Record</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Spider_about_mafengwo</title>
+    <url>/2018/10/24/Spider_about_mafengwo/</url>
+    <content><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>During the National Day Holidays, i did some work for the purpose of writing a repot about Mount Emei scenic area. The first thing i want to do is how to get the information about Mount Emei, when i was browsing websites on internet, Mafengwo come into my eyes. Then i will pay more attention on mafengwo, especially about how to fetch the data of hotels in every scenic area in <a href="http://www.mafengwo.com/">www.mafengwo.com</a></p>
+<h1 id="Step-one"><a href="#Step-one" class="headerlink" title="Step one"></a>Step one</h1><p>Firstly, i will open the chrome broswer and type in the website of our objective. <a href="http://www.mafengwo.com/">www.mafengwo.com</a>, then click the <a href="http://www.mafengwo.cn/mdd/">http://www.mafengwo.cn/mdd/</a> site, you will see the <img src="http://p659fi1z8.bkt.clouddn.com/pic_1.jpg" alt="pic_1">, our destination is the Mount Emei, so i click the 峨眉山, then we get into <a href="http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10143.html">http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10143.html</a>, yes, it’s the website we needed. In the process of fethcing the data, i think that, to fetch the hotel data is the most difficult, so i choose this part to do a favor. You should broswer the <a href="http://www.mafengwo.cn/hotel/10143/?sFrom=mdd">http://www.mafengwo.cn/hotel/10143/?sFrom=mdd</a>, and you will find it’s something interesting there, because the price of hotle is shown on the screen.</p>
+<h1 id="Step-two"><a href="#Step-two" class="headerlink" title="Step two"></a>Step two</h1><p>Click the right button of mounse, open the check, then go to the network tab, press the preserver log item, just as follows:<br>then you should reload the website, go into the source tab and press top, right click the top button, choose search in all files, then input ‘getSign’, just as <img src="http://p659fi1z8.bkt.clouddn.com/pic_2.jpg" alt="pic_2">. Use the debuger function of chrome. You can find the return value, it’s md5 encryption, use the dict and str content to generate the salt, then use get method to transmit the parameters to host.</p>
+]]></content>
+      <categories>
+        <category>Spider</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -1898,7 +1898,7 @@
   <entry>
     <title>Warning about files or pictures in my blog</title>
     <url>/2018/11/28/Warning_about_files_or_pictures_in_my_blog/</url>
-    <content><![CDATA[<h1 id="About-change-the-file-address-from-Qiniu-to-Tencent-COS"><a href="#About-change-the-file-address-from-Qiniu-to-Tencent-COS" class="headerlink" title="About change the file_address from Qiniu to Tencent COS"></a>About change the file_address from Qiniu to Tencent COS</h1><h2 id="Qiniu-require-my-blog-register-but-it’s-impossible-for-me-to-do-this-So-I-change-the-base-files-or-pics-website-from-the-Qiniu-to-Tencent-COS"><a href="#Qiniu-require-my-blog-register-but-it’s-impossible-for-me-to-do-this-So-I-change-the-base-files-or-pics-website-from-the-Qiniu-to-Tencent-COS" class="headerlink" title="Qiniu require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS."></a><a href="https://www.qiniu.com/?hmsr=baidu&hmpl=SEM&hmcu=pinzhuan_title&hmkw=&hmci=">Qiniu</a> require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS.</h2><h2 id="If-you-find-some-materials-can-not-access-please-contact-me-via-106-x69-110-x64-x61-x78-x69-x61-110-103-x40-x31-54-51-46-99-111-x6d-thank-you"><a href="#If-you-find-some-materials-can-not-access-please-contact-me-via-106-x69-110-x64-x61-x78-x69-x61-110-103-x40-x31-54-51-46-99-111-x6d-thank-you" class="headerlink" title="If you find some materials can not access, please contact me via &#106;&#x69;&#110;&#x64;&#x61;&#x78;&#x69;&#x61;&#110;&#103;&#x40;&#x31;&#54;&#51;&#46;&#99;&#111;&#x6d;, thank you!"></a>If you find some materials can not access, please contact me via <a href="mailto:&#106;&#x69;&#110;&#x64;&#x61;&#x78;&#x69;&#x61;&#110;&#103;&#x40;&#x31;&#54;&#51;&#46;&#99;&#111;&#x6d;">&#106;&#x69;&#110;&#x64;&#x61;&#x78;&#x69;&#x61;&#110;&#103;&#x40;&#x31;&#54;&#51;&#46;&#99;&#111;&#x6d;</a>, thank you!</h2>]]></content>
+    <content><![CDATA[<h1 id="About-change-the-file-address-from-Qiniu-to-Tencent-COS"><a href="#About-change-the-file-address-from-Qiniu-to-Tencent-COS" class="headerlink" title="About change the file_address from Qiniu to Tencent COS"></a>About change the file_address from Qiniu to Tencent COS</h1><h2 id="Qiniu-require-my-blog-register-but-it’s-impossible-for-me-to-do-this-So-I-change-the-base-files-or-pics-website-from-the-Qiniu-to-Tencent-COS"><a href="#Qiniu-require-my-blog-register-but-it’s-impossible-for-me-to-do-this-So-I-change-the-base-files-or-pics-website-from-the-Qiniu-to-Tencent-COS" class="headerlink" title="Qiniu require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS."></a><a href="https://www.qiniu.com/?hmsr=baidu&hmpl=SEM&hmcu=pinzhuan_title&hmkw=&hmci=">Qiniu</a> require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS.</h2><h2 id="If-you-find-some-materials-can-not-access-please-contact-me-via-x6a-x69-110-x64-x61-120-x69-x61-110-x67-x40-49-x36-x33-x2e-99-111-x6d-thank-you"><a href="#If-you-find-some-materials-can-not-access-please-contact-me-via-x6a-x69-110-x64-x61-120-x69-x61-110-x67-x40-49-x36-x33-x2e-99-111-x6d-thank-you" class="headerlink" title="If you find some materials can not access, please contact me via &#x6a;&#x69;&#110;&#x64;&#x61;&#120;&#x69;&#x61;&#110;&#x67;&#x40;&#49;&#x36;&#x33;&#x2e;&#99;&#111;&#x6d;, thank you!"></a>If you find some materials can not access, please contact me via <a href="mailto:&#x6a;&#x69;&#110;&#x64;&#x61;&#120;&#x69;&#x61;&#110;&#x67;&#x40;&#49;&#x36;&#x33;&#x2e;&#99;&#111;&#x6d;">&#x6a;&#x69;&#110;&#x64;&#x61;&#120;&#x69;&#x61;&#110;&#x67;&#x40;&#49;&#x36;&#x33;&#x2e;&#99;&#111;&#x6d;</a>, thank you!</h2>]]></content>
       <categories>
         <category>Bolg</category>
       </categories>
@@ -1936,27 +1936,6 @@
       </tags>
   </entry>
   <entry>
-    <title>How to publish my personal website on coding.net</title>
-    <url>/2020/06/24/publish-website/</url>
-    <content><![CDATA[<h1 id="How-to-publish-my-personal-website-on-coding-net"><a href="#How-to-publish-my-personal-website-on-coding-net" class="headerlink" title="How to publish my personal website on coding.net"></a>How to publish my personal website on coding.net</h1><h2 id="Login-Page"><a href="#Login-Page" class="headerlink" title="Login Page"></a>Login Page</h2><p>jindaxiang.coding.net</p>
-<h2 id="Find-Item"><a href="#Find-Item" class="headerlink" title="Find Item"></a>Find Item</h2><p>项目 -&gt; jindaxiang -&gt; 持续部署 -&gt; 静态网页 -&gt; 设置 -&gt; 自定义域名 -&gt; Warning -&gt; 申请 -&gt; 在阿里云重启 GitHub 的解析</p>
-<h2 id="Warning"><a href="#Warning" class="headerlink" title="Warning"></a>Warning</h2><p>阿里云 -&gt; 域名 -&gt; 解析 -&gt; 暂停 GitHub 的解析</p>
-<h2 id="Frequency"><a href="#Frequency" class="headerlink" title="Frequency"></a>Frequency</h2><p>每月一次</p>
-<h2 id="Attention"><a href="#Attention" class="headerlink" title="Attention"></a>Attention</h2><p>If you are old customer of coding.net, so you have to update <strong>_config.yml</strong> file with conding site object</p>
-<h2 id="bind-www-jfds-xyz"><a href="#bind-www-jfds-xyz" class="headerlink" title="bind www.jfds.xyz"></a>bind <a href="http://www.jfds.xyz/">www.jfds.xyz</a></h2><ol>
-<li>先在阿里云添加主机记录，按照 coding 绑定 <a href="http://www.jfds.xyz/">www.jfds.xyz</a> 域名那块的提示</li>
-<li>再次绑定 <a href="http://www.jfds.xyz/">www.jfds.xyz</a> 域名</li>
-<li>Https 勾选 -&gt; 保存 -&gt; 部署网站</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Website</category>
-      </categories>
-      <tags>
-        <tag>Website</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>How to get websocket data from jinshi</title>
     <url>/2020/06/25/jinshi-websocket/</url>
     <content><![CDATA[<h1 id="金十数据-Websocket-接口"><a href="#金十数据-Websocket-接口" class="headerlink" title="金十数据 Websocket 接口"></a>金十数据 Websocket 接口</h1><h2 id="目标地址"><a href="#目标地址" class="headerlink" title="目标地址"></a>目标地址</h2><p><a href="https://datacenter.jin10.com/price_wall">金十数据中心-行情中心</a></p>
@@ -1989,6 +1968,27 @@
       </tags>
   </entry>
   <entry>
+    <title>How to publish my personal website on coding.net</title>
+    <url>/2020/06/24/publish-website/</url>
+    <content><![CDATA[<h1 id="How-to-publish-my-personal-website-on-coding-net"><a href="#How-to-publish-my-personal-website-on-coding-net" class="headerlink" title="How to publish my personal website on coding.net"></a>How to publish my personal website on coding.net</h1><h2 id="Login-Page"><a href="#Login-Page" class="headerlink" title="Login Page"></a>Login Page</h2><p>jindaxiang.coding.net</p>
+<h2 id="Find-Item"><a href="#Find-Item" class="headerlink" title="Find Item"></a>Find Item</h2><p>项目 -&gt; jindaxiang -&gt; 持续部署 -&gt; 静态网页 -&gt; 设置 -&gt; 自定义域名 -&gt; Warning -&gt; 申请 -&gt; 在阿里云重启 GitHub 的解析</p>
+<h2 id="Warning"><a href="#Warning" class="headerlink" title="Warning"></a>Warning</h2><p>阿里云 -&gt; 域名 -&gt; 解析 -&gt; 暂停 GitHub 的解析</p>
+<h2 id="Frequency"><a href="#Frequency" class="headerlink" title="Frequency"></a>Frequency</h2><p>每月一次</p>
+<h2 id="Attention"><a href="#Attention" class="headerlink" title="Attention"></a>Attention</h2><p>If you are old customer of coding.net, so you have to update <strong>_config.yml</strong> file with conding site object</p>
+<h2 id="bind-www-jfds-xyz"><a href="#bind-www-jfds-xyz" class="headerlink" title="bind www.jfds.xyz"></a>bind <a href="http://www.jfds.xyz/">www.jfds.xyz</a></h2><ol>
+<li>先在阿里云添加主机记录，按照 coding 绑定 <a href="http://www.jfds.xyz/">www.jfds.xyz</a> 域名那块的提示</li>
+<li>再次绑定 <a href="http://www.jfds.xyz/">www.jfds.xyz</a> 域名</li>
+<li>Https 勾选 -&gt; 保存 -&gt; 部署网站</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Website</category>
+      </categories>
+      <tags>
+        <tag>Website</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>How to install and use TikTok in China</title>
     <url>/2020/08/03/tiktok-installment/</url>
     <content><![CDATA[<h1 id="How-to-install-and-use-TikTok-in-China"><a href="#How-to-install-and-use-TikTok-in-China" class="headerlink" title="How to install and use TikTok in China"></a>How to install and use TikTok in China</h1><h2 id="Download-and-install-Android-Emulator"><a href="#Download-and-install-Android-Emulator" class="headerlink" title="Download and install Android Emulator"></a>Download and install Android Emulator</h2><h3 id="BlueStacks"><a href="#BlueStacks" class="headerlink" title="BlueStacks"></a>BlueStacks</h3><p><a href="https://www.bluestacks.com/download.html">Download site</a></p>
@@ -2018,6 +2018,18 @@
       </tags>
   </entry>
   <entry>
+    <title>Win10_s1_day01_topic_skills_sys_update</title>
+    <url>/2018/06/21/win10_s1_day01_topic_skills_sys_update/</url>
+    <content><![CDATA[<p>Attention: if you use win10 home edition please update to win pro edition, then you can use gpedit.msc in cmd command<br>you will go to <a href="www.taobao.com">淘宝</a>, please click the characters!</p>
+]]></content>
+      <categories>
+        <category>Win10</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>word tips in writing</title>
     <url>/2019/04/02/word_tips_in_writing/</url>
     <content><![CDATA[<ol>
@@ -2033,18 +2045,6 @@
       </categories>
       <tags>
         <tag>word</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Win10_s1_day01_topic_skills_sys_update</title>
-    <url>/2018/06/21/win10_s1_day01_topic_skills_sys_update/</url>
-    <content><![CDATA[<p>Attention: if you use win10 home edition please update to win pro edition, then you can use gpedit.msc in cmd command<br>you will go to <a href="www.taobao.com">淘宝</a>, please click the characters!</p>
-]]></content>
-      <categories>
-        <category>Win10</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
