@@ -324,8 +324,8 @@ reward_settings:
   comment: 赞赏是最好的支持与鼓励！
 
 reward:
-  wechatpay: /images/wechatpay.jpg
-  alipay: /images/alipay.jpg
+  wechatpay: /images/logo.jpg
+  alipay: /images/logo.jpg
   #paypal: /images/paypal.png
   #bitcoin: /images/bitcoin.png
 
@@ -334,7 +334,7 @@ reward:
 follow_me:
   #Twitter: https://twitter.com/username || fab fa-twitter
   #Telegram: https://t.me/channel_name || fab fa-telegram
-  WeChat: /images/wechat-qcode.jpg || fab fa-weixin
+  WeChat: /images/logo.jpg || fab fa-weixin
   #RSS: /atom.xml || fa fa-rss
 
 # Related popular posts
