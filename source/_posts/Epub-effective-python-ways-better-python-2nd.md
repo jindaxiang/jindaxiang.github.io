@@ -1,5 +1,5 @@
 ---
-title: Effective Python: 2nd Edition
+title: Effective Python 2nd Edition
 date: 2020-01-26 16:09:52
 tags: [Python]
 categories: [Skills]
