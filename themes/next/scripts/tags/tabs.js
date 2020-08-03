@@ -1,5 +1,5 @@
 /**
- * tabs.js | https://theme-next.org/docs/tag-plugins/tabs/
+ * tabs.js | https://theme-next.org/docs/tag-plugins/tabs
  */
 
 /* global hexo */
@@ -33,25 +33,29 @@ function postTabs(args, content) {
     var tabIcon       = tabParameters[1] || '';
     var tabHref       = '';
 
-    postContent = hexo.render.renderSync({text: postContent, engine: 'markdown'});
+    postContent = hexo.render.renderSync({text: postContent, engine: 'markdown'}).trim();
 
     tabId += 1;
     tabHref = (tabName + ' ' + tabId).toLowerCase().split(' ').join('-');
 
     ((tabCaption.length === 0) && (tabIcon.length === 0)) && (tabCaption = tabName + ' ' + tabId);
 
-    var isOnlyicon = tabIcon.length > 0 && tabCaption.length === 0 ? 'style="text-align: center;' : '';
-    tabIcon.length > 0 && (tabIcon = '<i class="fa fa-' + tabIcon.trim() + '"' + isOnlyicon + '"></i>');
+    var isOnlyicon = tabIcon.length > 0 && tabCaption.length === 0 ? ' style="text-align: center;"' : '';
+    let icon = tabIcon.trim();
+    icon = icon.startsWith('fa') ? icon : 'fa fa-' + icon;
+    tabIcon.length > 0 && (tabIcon = `<i class="${icon}"${isOnlyicon}></i>`);
 
     var isActive = (tabActive > 0 && tabActive === tabId) || (tabActive === 0 && tabId === 1) ? ' active' : '';
-    tabNav += '<li class="tab' + isActive + '"><a href="#' + tabHref + '">' + tabIcon + tabCaption.trim() + '</a></li>';
-    tabContent += '<div class="tab-pane' + isActive + '" id="' + tabHref + '">' + postContent + '</div>';
+    tabNav += `<li class="tab${isActive}"><a href="#${tabHref}">${tabIcon + tabCaption.trim()}</a></li>`;
+    tabContent += `<div class="tab-pane${isActive}" id="${tabHref}">${postContent}</div>`;
   }
 
-  tabNav = '<ul class="nav-tabs">' + tabNav + '</ul>';
-  tabContent = '<div class="tab-content">' + tabContent + '</div>';
+  tabNav = `<ul class="nav-tabs">${tabNav}</ul>`;
+  tabContent = `<div class="tab-content">${tabContent}</div>`;
 
-  return '<div class="tabs" id="' + tabName.toLowerCase().split(' ').join('-') + '">' + tabNav + tabContent + '</div>';
+  return `<div class="tabs" id="${tabName.toLowerCase().split(' ').join('-')}">${tabNav + tabContent}</div>`;
 }
 
 hexo.extend.tag.register('tabs', postTabs, {ends: true});
+hexo.extend.tag.register('subtabs', postTabs, {ends: true});
+hexo.extend.tag.register('subsubtabs', postTabs, {ends: true});
