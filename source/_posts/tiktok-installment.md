@@ -27,4 +27,4 @@ Please intall apk file in Android Emulator
 
 ### Congratulations
 
-Please enjoy it！
+Please enjoy it！！
