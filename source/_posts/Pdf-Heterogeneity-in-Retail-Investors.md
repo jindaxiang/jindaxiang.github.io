@@ -1,5 +1,5 @@
 ---
-title: Heterogeneity in Retail Investors: Evidence from Comprehensive Account-Level Trading and Holdings Data
+title: Evidence from Comprehensive Account-Level Trading and Holdings Data
 date: 2020-08-03 16:09:52
 tags: [Stock]
 categories: [Finance]
