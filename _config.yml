@@ -86,7 +86,7 @@ theme: next
 deploy:
   type: git
   repository:
-    github: git@github.com:jindaxiang/jindaxiang.github.io.git
+    github: https://jindaxiang:King@0575@github.com:jindaxiang/jindaxiang.github.io.git
     coding: git@e.coding.net:jindaxiang/jindaxiang.git
   branch: master # 分支名称
 search:
