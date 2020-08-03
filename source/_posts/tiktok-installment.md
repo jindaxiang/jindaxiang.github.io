@@ -1,6 +1,6 @@
 ---
 title: How to install and use TikTok in China
-date: 2020-08-03 18:09:52
+date: 2020-08-03 17:09:52
 tags: [tiktok]
 categories: [Android]
 ---
