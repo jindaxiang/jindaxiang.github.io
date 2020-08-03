@@ -146,7 +146,7 @@
 <p>Lutz Kilian</p>
 </blockquote>
 <ul>
-<li>E-mail: <a href="mailto:&#x6c;&#107;&#105;&#108;&#105;&#97;&#x6e;&#64;&#x75;&#x6d;&#x69;&#99;&#104;&#46;&#101;&#100;&#x75;">&#x6c;&#107;&#105;&#108;&#105;&#97;&#x6e;&#64;&#x75;&#x6d;&#x69;&#99;&#104;&#46;&#101;&#100;&#x75;</a> </li>
+<li>E-mail: <a href="mailto:&#108;&#x6b;&#105;&#x6c;&#105;&#97;&#110;&#x40;&#x75;&#x6d;&#x69;&#x63;&#104;&#x2e;&#x65;&#100;&#117;">&#108;&#x6b;&#105;&#x6c;&#105;&#97;&#110;&#x40;&#x75;&#x6d;&#x69;&#x63;&#104;&#x2e;&#x65;&#100;&#117;</a> </li>
 <li>Department of Economics</li>
 <li>University of Michigan</li>
 <li>Ann Arbor, MI 48109-1220</li>
@@ -242,210 +242,6 @@
       </categories>
       <tags>
         <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Introduction to Financial Engineering</title>
-    <url>/2018/12/07/Introduction_to_Financial_Engineering/</url>
-    <content><![CDATA[<h1 id="The-course-had-finished-at-2018-12-27-thank-you-for-your-participation"><a href="#The-course-had-finished-at-2018-12-27-thank-you-for-your-participation" class="headerlink" title="The course had finished at 2018-12-27, thank you for your participation!"></a>The course had finished at 2018-12-27, thank you for your participation!</h1><h1 id="Introduction-to-Financial-Engineering"><a href="#Introduction-to-Financial-Engineering" class="headerlink" title="Introduction to Financial Engineering"></a>Introduction to Financial Engineering</h1><p>Attention: I have put the slides in chinese at bottom of this page, please download the pdf if you need!</p>
-<p>Schedule and Syllabus<br>Unless otherwise specified the lectures are Thursday 19:30pm to 21:55pm in the X1320 in the xipu campus of southwest jiaotong university.</p>
-<p>This is the syllabus for the September 2018 iteration of the course.<br>You can download the book of lectures <a href="http://p659fi1z8.bkt.clouddn.com/OptionsFuturesAndOtherDerivatives10.pdf">here</a>.<br>You can download the necessary materials about this book from the <a href="http://www-2.rotman.utoronto.ca/~hull/ofod/">author’s homepage</a>.<br>You can download the <a href="http://p659fi1z8.bkt.clouddn.com/OFOD_Errata.pdf">Errata</a> about this book.</p>
-<h1 id="The-skills-of-financial-engineering-Programming-Math-and-Finance"><a href="#The-skills-of-financial-engineering-Programming-Math-and-Finance" class="headerlink" title="The skills of financial engineering: Programming, Math and Finance"></a>The skills of financial engineering: Programming, Math and Finance</h1><h2 id="Schedule"><a href="#Schedule" class="headerlink" title="Schedule"></a>Schedule</h2><table>
-<thead>
-<tr>
-<th>Event Type</th>
-<th>Date</th>
-<th>Title</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Lecture 1</td>
-<td>Thursday September 6 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/ch01_hull_ofod_10th_edition.pdf">Introduction</a></td>
-<td>1. Should read the article or material about The <br> Lehman Bankruptcy, which you can get from the <a href="https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers">link in English</a> or <a href="https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin">link in Chinese</a>.</td>
-</tr>
-<tr>
-<td>Lecture 2</td>
-<td>Thursday September 13 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch02HullOFOD10thEdition.pdf">Introduction</a></td>
-<td>1. Should read the article or material about The <br> Lehman Bankruptcy, which you can get from the <a href="https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers">link in English</a> or <a href="https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin">link in Chinese</a>.</td>
-</tr>
-<tr>
-<td>Lecture 3</td>
-<td>Thursday September 20 <br> 19:30pm to 21:55pm</td>
-<td><a href="http://p659fi1z8.bkt.clouddn.com/Ch02HullOFOD10thEdition.pdf">Futures Markets and Central Counterparties</a></td>
-<td>Review the Futures Markets in chapter 2 and concern Central Counterparties</td>
-</tr>
-<tr>
-<td>Lecture 4</td>
-<td>Thursday September 27 <br> 19:30pm to 21:55pm</td>
-<td><a href="http://p659fi1z8.bkt.clouddn.com/Ch02HullOFOD10thEdition.pdf">Futures Markets and Central Counterparties</a></td>
-<td>Review the Futures Markets in chapter 2 and concern Central Counterparties</td>
-</tr>
-<tr>
-<td>Lecture 5</td>
-<td>Thursday September 29 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch03HullOFOD10thEdition.pdf">Hedging Strategies Using Futures</a></td>
-<td>Should be familar with lesson 4 and will tell you some hedge methods.</td>
-</tr>
-<tr>
-<td>Lecture 6</td>
-<td>Thursday October 11 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch04HullOFOD10thEdition.pdf">Interest Rates</a></td>
-<td>Should be familar with lesson 5 and know about some financial ternominology: <a href="https://www.global-rates.com/interest-rates/libor/libor.aspx">Libor</a>, <a href="https://en.wikipedia.org/wiki/Federal_funds_rate">Federal funds rate</a>, <a href="https://www.investopedia.com/terms/i/implied_repo_rate.asp">Repo rate</a>, <a href="https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/Historic-LongTerm-Rate-Data-Visualization.aspx">Treasury rate</a>, <a href="https://www.investopedia.com/terms/o/overnightindexswap.asp">OIS rate</a></td>
-</tr>
-<tr>
-<td>Lecture 7</td>
-<td>Thursday October 18 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch05HullOFOD10thEdition.pdf">Determination of Forward and Futures Prices</a></td>
-<td>This lesson will teach you how to determine the price of the futures and forword.</td>
-</tr>
-<tr>
-<td>Lecture 8</td>
-<td>Thursday October 25 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch06HullOFOD10thEdition.pdf">Interest Rate Futures</a></td>
-<td>Day count convention, Treasury Bond and Eurodollar Futures.</td>
-</tr>
-<tr>
-<td>Lecture 9</td>
-<td>Thursday November 1 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch06HullOFOD10thEdition.pdf">Interest Rate Futures</a></td>
-<td>Day count convention, Treasury Bond and Eurodollar Futures.</td>
-</tr>
-<tr>
-<td>Lecture 10</td>
-<td>Thursday November 8 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch07HullOFOD10thEdition.pdf">Swaps</a></td>
-<td>This lesson will teach almost all types of swaps</td>
-</tr>
-<tr>
-<td>Lecture 11</td>
-<td>Thursday November 15 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch07HullOFOD10thEdition.pdf">Swaps</a></td>
-<td>This lesson will teach almost all types of swaps</td>
-</tr>
-<tr>
-<td>Lecture 12</td>
-<td>Thursday November 22 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch08HullOFOD10thEdition.pdf">Securitization and the Credit Crisis of 2007</a></td>
-<td>This lesson will teach almost all types of swaps</td>
-</tr>
-<tr>
-<td>Lecture 13</td>
-<td>Thursday November 29 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch10HullOFOD10thEdition.pdf">Mechanics of Options Markets</a></td>
-<td>Get into the world of Options</td>
-</tr>
-<tr>
-<td>Lecture 14</td>
-<td>Thursday December 06 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf">Properties of Stock Options</a></td>
-<td>Introduction to the properties of stock options</td>
-</tr>
-<tr>
-<td>Lecture 15</td>
-<td>Thursday December 13 <br> 19:30pm to 21:55pm</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf">Properties of Stock Options</a></td>
-<td>Introduction to the properties of stock options</td>
-</tr>
-<tr>
-<td>Lecture 16</td>
-<td>Thursday December 20 <br> 19:30pm to 21:55pm</td>
-<td>Review the content we have learned from this class</td>
-<td>Prepare for the last exam</td>
-</tr>
-<tr>
-<td>Lecture 17</td>
-<td>Thursday December 27 <br> 19:30pm to 21:00pm</td>
-<td>Exam</td>
-<td>exam for 90 minutes</td>
-</tr>
-<tr>
-<td>Lecture forever</td>
-<td>Every Thursday 19:30pm to 21:55pm</td>
-<td>Reading material</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/python_for_finance_2.pdf">https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/python_for_finance_2.pdf</a></td>
-</tr>
-</tbody></table>
-<h1 id="Homework-1"><a href="#Homework-1" class="headerlink" title="Homework_1"></a>Homework_1</h1><h2 id="Requirement-for-homework-1"><a href="#Requirement-for-homework-1" class="headerlink" title="Requirement for homework_1"></a>Requirement for homework_1</h2><ol>
-<li>Should read the article or material about The Lehman Bankruptcy, which you can get from the <a href="https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers">link in English</a> or <a href="https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin">link in Chinese</a>. </li>
-<li>Write an electronic reports in chinese about 1000 words to describe The Lehman Bankruptcy event. You should print it with your Name, Student ID and submit it at next time.</li>
-<li><a href="http://p659fi1z8.bkt.clouddn.com/%E9%87%91%E8%9E%8D%E5%B7%A5%E7%A8%8B%E5%AF%BC%E8%AE%BA%E4%BD%9C%E4%B8%9A%E6%A0%BC%E5%BC%8F.docx">Click here</a> to download the format of the homework. </li>
-</ol>
-<h1 id="Mid-term-exam"><a href="#Mid-term-exam" class="headerlink" title="Mid-term exam"></a>Mid-term exam</h1><h2 id="Reading-materials"><a href="#Reading-materials" class="headerlink" title="Reading materials"></a>Reading materials</h2><p><a href="https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BD%E9%95%BF%E6%9C%9F%E8%B5%84%E6%9C%AC%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8/9505357?fr=aladdin">Baidu</a>, which is not very good for you. So i recommand that <a href="https://www.wikipedia.org/">Wikipedia</a> to search the infomation about LTCM, also, you can read the <a href="https://www.sohu.com/a/240167751_313170">article</a> written by analyst, who is come form Hong Ming Capital. At last but not least, I think this <a href="https://wiki.mbalib.com/wiki/%E7%BE%8E%E5%9B%BD%E9%95%BF%E6%9C%9F%E8%B5%84%E6%9C%AC%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8">material</a> is very useful.</p>
-<p>If all above materials are not sufficient for you, you can find the useful information by yourself.</p>
-<h2 id="Requirement-of-the-format"><a href="#Requirement-of-the-format" class="headerlink" title="Requirement of the format"></a>Requirement of the format</h2><p><a href="http://p659fi1z8.bkt.clouddn.com/%E9%87%91%E8%9E%8D%E5%B7%A5%E7%A8%8B%E5%AF%BC%E8%AE%BA%E4%BD%9C%E4%B8%9A%E6%A0%BC%E5%BC%8F.docx">Click</a> here to download the format of the homework.</p>
-<h2 id="The-content-of-the-mid-term-exam"><a href="#The-content-of-the-mid-term-exam" class="headerlink" title="The content of the mid-term exam"></a>The content of the mid-term exam</h2><ol>
-<li>First, you should choose one of the three opinions about LTCM, especially, your opinion is the most important.</li>
-<li>Second, There are many different ideas about the bankruptcy of LTCM</li>
-</ol>
-<ul>
-<li>Support the LTCM for that the default of the Treasury bond can not be control</li>
-<li>The LTCM should take some methods about th risk of the default of Treasury bond</li>
-<li>The two side the coin</li>
-</ul>
-<ol start="3">
-<li>You should write the opinion about the bankruptcy of LTCM, the words in this article should more than 1000 words and less than 5000words in Chinese.</li>
-<li>Next class at 2018-11-01, you should give me your homework.</li>
-</ol>
-<h1 id="The-final-exam"><a href="#The-final-exam" class="headerlink" title="The final exam"></a>The final exam</h1><h2 id="Reading-materials-1"><a href="#Reading-materials-1" class="headerlink" title="Reading materials"></a>Reading materials</h2><p>Waiting</p>
-<h2 id="Requirement"><a href="#Requirement" class="headerlink" title="Requirement"></a>Requirement</h2><p>just finish the exam by yourself.</p>
-<p>Attachment:</p>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Download address</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>第一章：导言</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%AF%BC%E8%A8%80.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第二章：期货市场的运行机制</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E6%9C%9F%E8%B4%A7%E5%B8%82%E5%9C%BA%E7%9A%84%E8%BF%90%E4%BD%9C%E6%9C%BA%E5%88%B6.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第三章：利用期货的对冲策略</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%88%A9%E7%94%A8%E6%9C%9F%E8%B4%A7%E7%9A%84%E5%AF%B9%E5%86%B2%E7%AD%96%E7%95%A5.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第四章：利率</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%88%A9%E7%8E%87.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第五章：远期和期货价格的确定</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%BF%9C%E6%9C%9F%E5%92%8C%E6%9C%9F%E8%B4%A7%E4%BB%B7%E6%A0%BC%E7%9A%84%E7%A1%AE%E5%AE%9A.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第六章：利率期货</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%88%A9%E7%8E%87%E6%9C%9F%E8%B4%A7.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第七章：互换</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E4%BA%92%E6%8D%A2.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第八章：证券化和2007年信用危机</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%85%AB%E7%AB%A0-%E8%AF%81%E5%88%B8%E5%8C%96%E5%92%8C2007%E5%B9%B4%E4%BF%A1%E7%94%A8%E5%8D%B1%E6%9C%BA.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第九章：期权市场的机制</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E6%9C%9F%E6%9D%83%E5%B8%82%E5%9C%BA%E6%9C%BA%E5%88%B6.pdf">Download</a></td>
-</tr>
-<tr>
-<td>第十章：股票期权的性质</td>
-<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E8%82%A1%E7%A5%A8%E6%9C%9F%E6%9D%83%E7%9A%84%E6%80%A7%E8%B4%A8.pdf">Download</a></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>Course</category>
-      </categories>
-      <tags>
-        <tag>Weekly</tag>
       </tags>
   </entry>
   <entry>
@@ -661,46 +457,6 @@
       </categories>
       <tags>
         <tag>Weekly</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>LaTex_compile_chinese_CCT_file</title>
-    <url>/2018/07/23/LaTex_compile_chinese_CCT_file/</url>
-    <content><![CDATA[<h1 id="《系统工程理论与实践》中文论文模板使用CCT-amp-TEX编译"><a href="#《系统工程理论与实践》中文论文模板使用CCT-amp-TEX编译" class="headerlink" title="《系统工程理论与实践》中文论文模板使用CCT&amp;TEX编译"></a>《系统工程理论与实践》中文论文模板使用CCT&amp;TEX编译</h1><h2 id="总结来看，顺利编译CCT-amp-TEX模板的步骤如下："><a href="#总结来看，顺利编译CCT-amp-TEX模板的步骤如下：" class="headerlink" title="总结来看，顺利编译CCT&amp;TEX模板的步骤如下："></a>总结来看，顺利编译CCT&amp;TEX模板的步骤如下：</h2><ol>
-<li>下载最新版的<a href="https://mirrors.tuna.tsinghua.edu.cn/ctex/legacy/2.9/">CTEX2.9</a>，亲测有效，要下载full版本，不能为了节省磁盘空间下载不完全版本。 </li>
-<li>使用管理员身份打开WinEdit（无所谓），并打开所要编译的tex文件。 </li>
-<li>使用CCT&amp;LaTex编译tex文件。 </li>
-<li>使用ps to pdf将dvi文件转为pdf文件或者用pdflatex编译</li>
-<li>如果编译出错，尝试重启计算机。</li>
-</ol>
-<a id="more"></a>
-
-]]></content>
-      <categories>
-        <category>LaTex</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>JoinQuant_s1_day01_topic_skills_install_jqdata</title>
-    <url>/2018/07/01/JoinQuant_s1_day01_topic_skills_install_jqdata/</url>
-    <content><![CDATA[<h1 id="Install-jqdata-API"><a href="#Install-jqdata-API" class="headerlink" title="Install jqdata API"></a>Install jqdata API</h1><ul>
-<li>Should first install the git from github or other source</li>
-<li>Then set the environment path for the computer</li>
-<li>Open the cmd terminal and input: pip install git+<a href="https://github.com/JoinQuant/jqdatasdk.git">https://github.com/JoinQuant/jqdatasdk.git</a> -i <a href="https://mirrors.aliyun.com/pypi/simple/">https://mirrors.aliyun.com/pypi/simple/</a></li>
-<li>Ensure you use the latest version of the jqdata, you use run: pip install -U git+<a href="https://github.com/JoinQuant/jqdatasdk.git">https://github.com/JoinQuant/jqdatasdk.git</a> in the cmd window!</li>
-<li>You can use <code>pip -V</code> or <code>python -V</code> in the cmd to check the version of the python and pip, I use pip version: 9.0.3 and python version: 3.6.5  Anaconda custom (64-bit)<a id="more"></a>
-
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>JoinQuant</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -925,46 +681,247 @@
       </tags>
   </entry>
   <entry>
-    <title>MacOS High Sierra-10.13.5 install win10</title>
-    <url>/2018/06/19/Mac_s1_day01_topic_skills_install_win/</url>
-    <content><![CDATA[<h1 id="MacOS-High-Sierra-10-13-5-install-win10"><a href="#MacOS-High-Sierra-10-13-5-install-win10" class="headerlink" title="MacOS High Sierra-10.13.5 install win10"></a>MacOS High Sierra-10.13.5 install win10</h1><hr>
-<h2 id="Configuration"><a href="#Configuration" class="headerlink" title="Configuration"></a>Configuration</h2><ol>
-<li>MacBook Pro(13-inch, 2017, Four Thunderbolt 3 Ports)</li>
-<li>Edition: 10.13.5</li>
-<li>Processor: 3.5 GHz Intel Core i7</li>
-<li>Memory: 16GB 2133 MHz LPDDR3</li>
-<li>Graphics card: Intel Iris Plus Graphics 650 1536 MB</li>
+    <title>Introduction to Financial Engineering</title>
+    <url>/2018/12/07/Introduction_to_Financial_Engineering/</url>
+    <content><![CDATA[<h1 id="The-course-had-finished-at-2018-12-27-thank-you-for-your-participation"><a href="#The-course-had-finished-at-2018-12-27-thank-you-for-your-participation" class="headerlink" title="The course had finished at 2018-12-27, thank you for your participation!"></a>The course had finished at 2018-12-27, thank you for your participation!</h1><h1 id="Introduction-to-Financial-Engineering"><a href="#Introduction-to-Financial-Engineering" class="headerlink" title="Introduction to Financial Engineering"></a>Introduction to Financial Engineering</h1><p>Attention: I have put the slides in chinese at bottom of this page, please download the pdf if you need!</p>
+<p>Schedule and Syllabus<br>Unless otherwise specified the lectures are Thursday 19:30pm to 21:55pm in the X1320 in the xipu campus of southwest jiaotong university.</p>
+<p>This is the syllabus for the September 2018 iteration of the course.<br>You can download the book of lectures <a href="http://p659fi1z8.bkt.clouddn.com/OptionsFuturesAndOtherDerivatives10.pdf">here</a>.<br>You can download the necessary materials about this book from the <a href="http://www-2.rotman.utoronto.ca/~hull/ofod/">author’s homepage</a>.<br>You can download the <a href="http://p659fi1z8.bkt.clouddn.com/OFOD_Errata.pdf">Errata</a> about this book.</p>
+<h1 id="The-skills-of-financial-engineering-Programming-Math-and-Finance"><a href="#The-skills-of-financial-engineering-Programming-Math-and-Finance" class="headerlink" title="The skills of financial engineering: Programming, Math and Finance"></a>The skills of financial engineering: Programming, Math and Finance</h1><h2 id="Schedule"><a href="#Schedule" class="headerlink" title="Schedule"></a>Schedule</h2><table>
+<thead>
+<tr>
+<th>Event Type</th>
+<th>Date</th>
+<th>Title</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Lecture 1</td>
+<td>Thursday September 6 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/ch01_hull_ofod_10th_edition.pdf">Introduction</a></td>
+<td>1. Should read the article or material about The <br> Lehman Bankruptcy, which you can get from the <a href="https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers">link in English</a> or <a href="https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin">link in Chinese</a>.</td>
+</tr>
+<tr>
+<td>Lecture 2</td>
+<td>Thursday September 13 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch02HullOFOD10thEdition.pdf">Introduction</a></td>
+<td>1. Should read the article or material about The <br> Lehman Bankruptcy, which you can get from the <a href="https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers">link in English</a> or <a href="https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin">link in Chinese</a>.</td>
+</tr>
+<tr>
+<td>Lecture 3</td>
+<td>Thursday September 20 <br> 19:30pm to 21:55pm</td>
+<td><a href="http://p659fi1z8.bkt.clouddn.com/Ch02HullOFOD10thEdition.pdf">Futures Markets and Central Counterparties</a></td>
+<td>Review the Futures Markets in chapter 2 and concern Central Counterparties</td>
+</tr>
+<tr>
+<td>Lecture 4</td>
+<td>Thursday September 27 <br> 19:30pm to 21:55pm</td>
+<td><a href="http://p659fi1z8.bkt.clouddn.com/Ch02HullOFOD10thEdition.pdf">Futures Markets and Central Counterparties</a></td>
+<td>Review the Futures Markets in chapter 2 and concern Central Counterparties</td>
+</tr>
+<tr>
+<td>Lecture 5</td>
+<td>Thursday September 29 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch03HullOFOD10thEdition.pdf">Hedging Strategies Using Futures</a></td>
+<td>Should be familar with lesson 4 and will tell you some hedge methods.</td>
+</tr>
+<tr>
+<td>Lecture 6</td>
+<td>Thursday October 11 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch04HullOFOD10thEdition.pdf">Interest Rates</a></td>
+<td>Should be familar with lesson 5 and know about some financial ternominology: <a href="https://www.global-rates.com/interest-rates/libor/libor.aspx">Libor</a>, <a href="https://en.wikipedia.org/wiki/Federal_funds_rate">Federal funds rate</a>, <a href="https://www.investopedia.com/terms/i/implied_repo_rate.asp">Repo rate</a>, <a href="https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/Historic-LongTerm-Rate-Data-Visualization.aspx">Treasury rate</a>, <a href="https://www.investopedia.com/terms/o/overnightindexswap.asp">OIS rate</a></td>
+</tr>
+<tr>
+<td>Lecture 7</td>
+<td>Thursday October 18 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch05HullOFOD10thEdition.pdf">Determination of Forward and Futures Prices</a></td>
+<td>This lesson will teach you how to determine the price of the futures and forword.</td>
+</tr>
+<tr>
+<td>Lecture 8</td>
+<td>Thursday October 25 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch06HullOFOD10thEdition.pdf">Interest Rate Futures</a></td>
+<td>Day count convention, Treasury Bond and Eurodollar Futures.</td>
+</tr>
+<tr>
+<td>Lecture 9</td>
+<td>Thursday November 1 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch06HullOFOD10thEdition.pdf">Interest Rate Futures</a></td>
+<td>Day count convention, Treasury Bond and Eurodollar Futures.</td>
+</tr>
+<tr>
+<td>Lecture 10</td>
+<td>Thursday November 8 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch07HullOFOD10thEdition.pdf">Swaps</a></td>
+<td>This lesson will teach almost all types of swaps</td>
+</tr>
+<tr>
+<td>Lecture 11</td>
+<td>Thursday November 15 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch07HullOFOD10thEdition.pdf">Swaps</a></td>
+<td>This lesson will teach almost all types of swaps</td>
+</tr>
+<tr>
+<td>Lecture 12</td>
+<td>Thursday November 22 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch08HullOFOD10thEdition.pdf">Securitization and the Credit Crisis of 2007</a></td>
+<td>This lesson will teach almost all types of swaps</td>
+</tr>
+<tr>
+<td>Lecture 13</td>
+<td>Thursday November 29 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch10HullOFOD10thEdition.pdf">Mechanics of Options Markets</a></td>
+<td>Get into the world of Options</td>
+</tr>
+<tr>
+<td>Lecture 14</td>
+<td>Thursday December 06 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf">Properties of Stock Options</a></td>
+<td>Introduction to the properties of stock options</td>
+</tr>
+<tr>
+<td>Lecture 15</td>
+<td>Thursday December 13 <br> 19:30pm to 21:55pm</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch11HullOFOD10thEdition.pdf">Properties of Stock Options</a></td>
+<td>Introduction to the properties of stock options</td>
+</tr>
+<tr>
+<td>Lecture 16</td>
+<td>Thursday December 20 <br> 19:30pm to 21:55pm</td>
+<td>Review the content we have learned from this class</td>
+<td>Prepare for the last exam</td>
+</tr>
+<tr>
+<td>Lecture 17</td>
+<td>Thursday December 27 <br> 19:30pm to 21:00pm</td>
+<td>Exam</td>
+<td>exam for 90 minutes</td>
+</tr>
+<tr>
+<td>Lecture forever</td>
+<td>Every Thursday 19:30pm to 21:55pm</td>
+<td>Reading material</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/python_for_finance_2.pdf">https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/python_for_finance_2.pdf</a></td>
+</tr>
+</tbody></table>
+<h1 id="Homework-1"><a href="#Homework-1" class="headerlink" title="Homework_1"></a>Homework_1</h1><h2 id="Requirement-for-homework-1"><a href="#Requirement-for-homework-1" class="headerlink" title="Requirement for homework_1"></a>Requirement for homework_1</h2><ol>
+<li>Should read the article or material about The Lehman Bankruptcy, which you can get from the <a href="https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers">link in English</a> or <a href="https://baike.baidu.com/item/%E9%9B%B7%E6%9B%BC%E4%BA%8B%E4%BB%B6/942492?fr=aladdin">link in Chinese</a>. </li>
+<li>Write an electronic reports in chinese about 1000 words to describe The Lehman Bankruptcy event. You should print it with your Name, Student ID and submit it at next time.</li>
+<li><a href="http://p659fi1z8.bkt.clouddn.com/%E9%87%91%E8%9E%8D%E5%B7%A5%E7%A8%8B%E5%AF%BC%E8%AE%BA%E4%BD%9C%E4%B8%9A%E6%A0%BC%E5%BC%8F.docx">Click here</a> to download the format of the homework. </li>
 </ol>
-<h2 id="Sequence-to-open-the-MacBook-Pro"><a href="#Sequence-to-open-the-MacBook-Pro" class="headerlink" title="Sequence to open the MacBook Pro"></a>Sequence to open the MacBook Pro</h2><ol>
-<li>Set the password and AppID, input fingerprint</li>
-<li>Be careful that choose the SYSTEM PREFERENCE and get into the Secure and Privacy item and stop the file safe.</li>
-<li>Go to <a href="https://msdn.itellyou.cn/">MSDN</a> to download the <a href="ed2k://|file|cn_windows_10_consumer_editions_version_1803_updated_march_2018_x64_dvd_12063766.iso|4714162176|FB8C05DE594CD7E58D88993652DD2102|/">Win10</a>(click the website to find which version you will want) and save the file in the MacBook Pro</li>
-<li>Go into Launchpad and choose folder named other, choose the Boot Camp and click the next item</li>
-<li>Wait for seconds, you will enter the item named install windows, you can choose the ISO images item, the next you choose the APFS container, at this time, you may choose the divide the SSD into half, and the click the install item</li>
-<li>The IOS will download the necessary files from the web of the APPLE, if it had an error, you just try again, this process will need 5 minutes, according to your speed of the internet, just waiting.</li>
-<li>When item 6 finished, the computer will restart, then we go to install win, just follow the steps in normal.</li>
-<li>When the computer appear the windows, we should open the c:/OSXRESERVED/BootCamp/, and click the install install item, and waiting for the process</li>
-<li>Restart the computer, it will get into the win system, a dos window will appear, please wait for seconds</li>
-<li>At last, you will continue to install the necessary softwares in the computer. For example, Anaconda for win, Office for win, Notepad++, QQpinyin and so on.</li>
+<h1 id="Mid-term-exam"><a href="#Mid-term-exam" class="headerlink" title="Mid-term exam"></a>Mid-term exam</h1><h2 id="Reading-materials"><a href="#Reading-materials" class="headerlink" title="Reading materials"></a>Reading materials</h2><p><a href="https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BD%E9%95%BF%E6%9C%9F%E8%B5%84%E6%9C%AC%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8/9505357?fr=aladdin">Baidu</a>, which is not very good for you. So i recommand that <a href="https://www.wikipedia.org/">Wikipedia</a> to search the infomation about LTCM, also, you can read the <a href="https://www.sohu.com/a/240167751_313170">article</a> written by analyst, who is come form Hong Ming Capital. At last but not least, I think this <a href="https://wiki.mbalib.com/wiki/%E7%BE%8E%E5%9B%BD%E9%95%BF%E6%9C%9F%E8%B5%84%E6%9C%AC%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8">material</a> is very useful.</p>
+<p>If all above materials are not sufficient for you, you can find the useful information by yourself.</p>
+<h2 id="Requirement-of-the-format"><a href="#Requirement-of-the-format" class="headerlink" title="Requirement of the format"></a>Requirement of the format</h2><p><a href="http://p659fi1z8.bkt.clouddn.com/%E9%87%91%E8%9E%8D%E5%B7%A5%E7%A8%8B%E5%AF%BC%E8%AE%BA%E4%BD%9C%E4%B8%9A%E6%A0%BC%E5%BC%8F.docx">Click</a> here to download the format of the homework.</p>
+<h2 id="The-content-of-the-mid-term-exam"><a href="#The-content-of-the-mid-term-exam" class="headerlink" title="The content of the mid-term exam"></a>The content of the mid-term exam</h2><ol>
+<li>First, you should choose one of the three opinions about LTCM, especially, your opinion is the most important.</li>
+<li>Second, There are many different ideas about the bankruptcy of LTCM</li>
 </ol>
-<a id="more"></a>]]></content>
+<ul>
+<li>Support the LTCM for that the default of the Treasury bond can not be control</li>
+<li>The LTCM should take some methods about th risk of the default of Treasury bond</li>
+<li>The two side the coin</li>
+</ul>
+<ol start="3">
+<li>You should write the opinion about the bankruptcy of LTCM, the words in this article should more than 1000 words and less than 5000words in Chinese.</li>
+<li>Next class at 2018-11-01, you should give me your homework.</li>
+</ol>
+<h1 id="The-final-exam"><a href="#The-final-exam" class="headerlink" title="The final exam"></a>The final exam</h1><h2 id="Reading-materials-1"><a href="#Reading-materials-1" class="headerlink" title="Reading materials"></a>Reading materials</h2><p>Waiting</p>
+<h2 id="Requirement"><a href="#Requirement" class="headerlink" title="Requirement"></a>Requirement</h2><p>just finish the exam by yourself.</p>
+<p>Attachment:</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Download address</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>第一章：导言</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%AF%BC%E8%A8%80.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第二章：期货市场的运行机制</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E6%9C%9F%E8%B4%A7%E5%B8%82%E5%9C%BA%E7%9A%84%E8%BF%90%E4%BD%9C%E6%9C%BA%E5%88%B6.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第三章：利用期货的对冲策略</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%88%A9%E7%94%A8%E6%9C%9F%E8%B4%A7%E7%9A%84%E5%AF%B9%E5%86%B2%E7%AD%96%E7%95%A5.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第四章：利率</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%88%A9%E7%8E%87.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第五章：远期和期货价格的确定</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%BF%9C%E6%9C%9F%E5%92%8C%E6%9C%9F%E8%B4%A7%E4%BB%B7%E6%A0%BC%E7%9A%84%E7%A1%AE%E5%AE%9A.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第六章：利率期货</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%88%A9%E7%8E%87%E6%9C%9F%E8%B4%A7.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第七章：互换</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E4%BA%92%E6%8D%A2.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第八章：证券化和2007年信用危机</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%85%AB%E7%AB%A0-%E8%AF%81%E5%88%B8%E5%8C%96%E5%92%8C2007%E5%B9%B4%E4%BF%A1%E7%94%A8%E5%8D%B1%E6%9C%BA.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第九章：期权市场的机制</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E6%9C%9F%E6%9D%83%E5%B8%82%E5%9C%BA%E6%9C%BA%E5%88%B6.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第十章：股票期权的性质</td>
+<td><a href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ofad/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E8%82%A1%E7%A5%A8%E6%9C%9F%E6%9D%83%E7%9A%84%E6%80%A7%E8%B4%A8.pdf">Download</a></td>
+</tr>
+</tbody></table>
+]]></content>
       <categories>
-        <category>OS</category>
+        <category>Course</category>
       </categories>
       <tags>
-        <tag>MacOS</tag>
+        <tag>Weekly</tag>
       </tags>
   </entry>
   <entry>
-    <title>Machine Learning Flash Cards_Forward_Stepwise_Selection!</title>
-    <url>/2018/07/01/Machine%20Learning%20Flash%20Cards_Forward_Stepwise_Selection!/</url>
-    <content><![CDATA[<p><img src="https://mmbiz.qpic.cn/mmbiz_png/mPHy1qqyXHUQX9OT4yaic7GIAqa5u6CPmToEZF2HqzmPib1RdibEIjVbAF35kqibxxiazmQ0J7yn25gy5WsyvZupWrw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" alt="image"></p>
+    <title>JoinQuant_s1_day01_topic_skills_install_jqdata</title>
+    <url>/2018/07/01/JoinQuant_s1_day01_topic_skills_install_jqdata/</url>
+    <content><![CDATA[<h1 id="Install-jqdata-API"><a href="#Install-jqdata-API" class="headerlink" title="Install jqdata API"></a>Install jqdata API</h1><ul>
+<li>Should first install the git from github or other source</li>
+<li>Then set the environment path for the computer</li>
+<li>Open the cmd terminal and input: pip install git+<a href="https://github.com/JoinQuant/jqdatasdk.git">https://github.com/JoinQuant/jqdatasdk.git</a> -i <a href="https://mirrors.aliyun.com/pypi/simple/">https://mirrors.aliyun.com/pypi/simple/</a></li>
+<li>Ensure you use the latest version of the jqdata, you use run: pip install -U git+<a href="https://github.com/JoinQuant/jqdatasdk.git">https://github.com/JoinQuant/jqdatasdk.git</a> in the cmd window!</li>
+<li>You can use <code>pip -V</code> or <code>python -V</code> in the cmd to check the version of the python and pip, I use pip version: 9.0.3 and python version: 3.6.5  Anaconda custom (64-bit)<a id="more"></a>
+
+</li>
+</ul>
 ]]></content>
       <categories>
-        <category>Machine Learning</category>
+        <category>JoinQuant</category>
       </categories>
       <tags>
-        <tag>Flash_cards</tag>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LaTex_compile_chinese_CCT_file</title>
+    <url>/2018/07/23/LaTex_compile_chinese_CCT_file/</url>
+    <content><![CDATA[<h1 id="《系统工程理论与实践》中文论文模板使用CCT-amp-TEX编译"><a href="#《系统工程理论与实践》中文论文模板使用CCT-amp-TEX编译" class="headerlink" title="《系统工程理论与实践》中文论文模板使用CCT&amp;TEX编译"></a>《系统工程理论与实践》中文论文模板使用CCT&amp;TEX编译</h1><h2 id="总结来看，顺利编译CCT-amp-TEX模板的步骤如下："><a href="#总结来看，顺利编译CCT-amp-TEX模板的步骤如下：" class="headerlink" title="总结来看，顺利编译CCT&amp;TEX模板的步骤如下："></a>总结来看，顺利编译CCT&amp;TEX模板的步骤如下：</h2><ol>
+<li>下载最新版的<a href="https://mirrors.tuna.tsinghua.edu.cn/ctex/legacy/2.9/">CTEX2.9</a>，亲测有效，要下载full版本，不能为了节省磁盘空间下载不完全版本。 </li>
+<li>使用管理员身份打开WinEdit（无所谓），并打开所要编译的tex文件。 </li>
+<li>使用CCT&amp;LaTex编译tex文件。 </li>
+<li>使用ps to pdf将dvi文件转为pdf文件或者用pdflatex编译</li>
+<li>如果编译出错，尝试重启计算机。</li>
+</ol>
+<a id="more"></a>
+
+]]></content>
+      <categories>
+        <category>LaTex</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -1056,6 +1013,49 @@
       </tags>
   </entry>
   <entry>
+    <title>MacOS High Sierra-10.13.5 install win10</title>
+    <url>/2018/06/19/Mac_s1_day01_topic_skills_install_win/</url>
+    <content><![CDATA[<h1 id="MacOS-High-Sierra-10-13-5-install-win10"><a href="#MacOS-High-Sierra-10-13-5-install-win10" class="headerlink" title="MacOS High Sierra-10.13.5 install win10"></a>MacOS High Sierra-10.13.5 install win10</h1><hr>
+<h2 id="Configuration"><a href="#Configuration" class="headerlink" title="Configuration"></a>Configuration</h2><ol>
+<li>MacBook Pro(13-inch, 2017, Four Thunderbolt 3 Ports)</li>
+<li>Edition: 10.13.5</li>
+<li>Processor: 3.5 GHz Intel Core i7</li>
+<li>Memory: 16GB 2133 MHz LPDDR3</li>
+<li>Graphics card: Intel Iris Plus Graphics 650 1536 MB</li>
+</ol>
+<h2 id="Sequence-to-open-the-MacBook-Pro"><a href="#Sequence-to-open-the-MacBook-Pro" class="headerlink" title="Sequence to open the MacBook Pro"></a>Sequence to open the MacBook Pro</h2><ol>
+<li>Set the password and AppID, input fingerprint</li>
+<li>Be careful that choose the SYSTEM PREFERENCE and get into the Secure and Privacy item and stop the file safe.</li>
+<li>Go to <a href="https://msdn.itellyou.cn/">MSDN</a> to download the <a href="ed2k://|file|cn_windows_10_consumer_editions_version_1803_updated_march_2018_x64_dvd_12063766.iso|4714162176|FB8C05DE594CD7E58D88993652DD2102|/">Win10</a>(click the website to find which version you will want) and save the file in the MacBook Pro</li>
+<li>Go into Launchpad and choose folder named other, choose the Boot Camp and click the next item</li>
+<li>Wait for seconds, you will enter the item named install windows, you can choose the ISO images item, the next you choose the APFS container, at this time, you may choose the divide the SSD into half, and the click the install item</li>
+<li>The IOS will download the necessary files from the web of the APPLE, if it had an error, you just try again, this process will need 5 minutes, according to your speed of the internet, just waiting.</li>
+<li>When item 6 finished, the computer will restart, then we go to install win, just follow the steps in normal.</li>
+<li>When the computer appear the windows, we should open the c:/OSXRESERVED/BootCamp/, and click the install install item, and waiting for the process</li>
+<li>Restart the computer, it will get into the win system, a dos window will appear, please wait for seconds</li>
+<li>At last, you will continue to install the necessary softwares in the computer. For example, Anaconda for win, Office for win, Notepad++, QQpinyin and so on.</li>
+</ol>
+<a id="more"></a>]]></content>
+      <categories>
+        <category>OS</category>
+      </categories>
+      <tags>
+        <tag>MacOS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Machine Learning Flash Cards_Forward_Stepwise_Selection!</title>
+    <url>/2018/07/01/Machine%20Learning%20Flash%20Cards_Forward_Stepwise_Selection!/</url>
+    <content><![CDATA[<p><img src="https://mmbiz.qpic.cn/mmbiz_png/mPHy1qqyXHUQX9OT4yaic7GIAqa5u6CPmToEZF2HqzmPib1RdibEIjVbAF35kqibxxiazmQ0J7yn25gy5WsyvZupWrw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" alt="image"></p>
+]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Flash_cards</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Machine_Learning_day_01</title>
     <url>/2018/08/16/Machine_Learning_day_01/</url>
     <content><![CDATA[<h1 id="Step-1-Importing-the-required-Libraries"><a href="#Step-1-Importing-the-required-Libraries" class="headerlink" title="Step 1: Importing the required Libraries"></a>Step 1: Importing the required Libraries</h1><p>These Two are essential libraries which we will import every time.<br>NumPy is a Library which contains Mathematical functions.<br>Pandas is the library used to import and manage the data sets.</p>
@@ -1081,22 +1081,6 @@
 <h1 id="Step-4-Encoding-Categorical-Data"><a href="#Step-4-Encoding-Categorical-Data" class="headerlink" title="Step 4: Encoding Categorical Data"></a>Step 4: Encoding Categorical Data</h1><p>Categorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library</p>
 <h1 id="Step-5-Splitting-the-dataset-into-test-set-and-training-set"><a href="#Step-5-Splitting-the-dataset-into-test-set-and-training-set" class="headerlink" title="Step 5: Splitting the dataset into test set and training set"></a>Step 5: Splitting the dataset into test set and training set</h1><p>We make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library.</p>
 <h1 id="Step-6-Feature-Scaling"><a href="#Step-6-Feature-Scaling" class="headerlink" title="Step 6: Feature Scaling"></a>Step 6: Feature Scaling</h1><p>Most of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.</p>
-]]></content>
-      <categories>
-        <category>Machine Learning</category>
-      </categories>
-      <tags>
-        <tag>Daily</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Machine_Learning_day_04</title>
-    <url>/2018/09/03/Machine_Learning_day_04/</url>
-    <content><![CDATA[<h1 id="Logistic-Regression"><a href="#Logistic-Regression" class="headerlink" title="Logistic Regression"></a>Logistic Regression</h1><h2 id="What-is-logistic-Regression"><a href="#What-is-logistic-Regression" class="headerlink" title="What is logistic Regression"></a>What is logistic Regression</h2><p>Logistic regression is used for a different class of problems known as classification problems. Here the aim is to predict the group to which the current object under observation belongs to. It gives you a discrete binary outcome between 0 and 1. A simple example would be whether a person will vote or not in upcoming elections.</p>
-<h2 id="How-does-it-work"><a href="#How-does-it-work" class="headerlink" title="How does it work?"></a>How does it work?</h2><p>Logistic Regression measures the relationship between the dependent variable(our label, what we want to predict) and the one or more independent variables(our features), by estimating probabilities using it’s underlying logistic function.</p>
-<h2 id="Making-Predictions"><a href="#Making-Predictions" class="headerlink" title="Making Predictions"></a>Making Predictions</h2><p>These probabilities must then be transformed into binary values in order to actually make a prediction. This is the task of the logistic function, also called the sigmoid function. This values between 0 and 1 will then be transformed into either 0 or 1 using a threshold classifier.</p>
-<h2 id="Logistic-vs-Linear"><a href="#Logistic-vs-Linear" class="headerlink" title="Logistic vs Linear"></a>Logistic vs Linear</h2><p>Logistic regression gives you a discrete outcome but linear regression gives a continuous outcome.</p>
-<h2 id="Sigmoid-Function"><a href="#Sigmoid-Function" class="headerlink" title="Sigmoid Function"></a>Sigmoid Function</h2><p>The Sigmoid-Function is an S-shaped curve that can take any real-valued number and map it into a value between the range of 0 and 1, ==but never exactly at those limits==.</p>
 ]]></content>
       <categories>
         <category>Machine Learning</category>
@@ -1134,6 +1118,22 @@
 <li>Fitting our model to the training set<br>This step is exactly the same as for simple linear regression.<br>To fit the dataset into the model we will use ==LinearRegression== class from ==sklearn.linear_model== library. Then we make an object regressor of LinearRegression Class. Now we will fit the regressor object into our dataset using ==fit()== method of LinearRegression Class.</li>
 </ul>
 <h1 id="Predicting-the-test-results"><a href="#Predicting-the-test-results" class="headerlink" title="Predicting the test results"></a>Predicting the test results</h1><p>Now we will predict the observations from our test set. We will save the output in a vector <code>$Y_&#123;pred&#125;$</code>. To predict the result we use ==predict()== method of LinearRegression Class on the regressor we trained in the previous step.</p>
+]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Machine_Learning_day_04</title>
+    <url>/2018/09/03/Machine_Learning_day_04/</url>
+    <content><![CDATA[<h1 id="Logistic-Regression"><a href="#Logistic-Regression" class="headerlink" title="Logistic Regression"></a>Logistic Regression</h1><h2 id="What-is-logistic-Regression"><a href="#What-is-logistic-Regression" class="headerlink" title="What is logistic Regression"></a>What is logistic Regression</h2><p>Logistic regression is used for a different class of problems known as classification problems. Here the aim is to predict the group to which the current object under observation belongs to. It gives you a discrete binary outcome between 0 and 1. A simple example would be whether a person will vote or not in upcoming elections.</p>
+<h2 id="How-does-it-work"><a href="#How-does-it-work" class="headerlink" title="How does it work?"></a>How does it work?</h2><p>Logistic Regression measures the relationship between the dependent variable(our label, what we want to predict) and the one or more independent variables(our features), by estimating probabilities using it’s underlying logistic function.</p>
+<h2 id="Making-Predictions"><a href="#Making-Predictions" class="headerlink" title="Making Predictions"></a>Making Predictions</h2><p>These probabilities must then be transformed into binary values in order to actually make a prediction. This is the task of the logistic function, also called the sigmoid function. This values between 0 and 1 will then be transformed into either 0 or 1 using a threshold classifier.</p>
+<h2 id="Logistic-vs-Linear"><a href="#Logistic-vs-Linear" class="headerlink" title="Logistic vs Linear"></a>Logistic vs Linear</h2><p>Logistic regression gives you a discrete outcome but linear regression gives a continuous outcome.</p>
+<h2 id="Sigmoid-Function"><a href="#Sigmoid-Function" class="headerlink" title="Sigmoid Function"></a>Sigmoid Function</h2><p>The Sigmoid-Function is an S-shaped curve that can take any real-valued number and map it into a value between the range of 0 and 1, ==but never exactly at those limits==.</p>
 ]]></content>
       <categories>
         <category>Machine Learning</category>
@@ -1196,30 +1196,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Record of my blog!</title>
-    <url>/2018/03/25/Model/</url>
-    <content><![CDATA[<h1 id="This-is-my-first-blog-article"><a href="#This-is-my-first-blog-article" class="headerlink" title="This is my first blog article!"></a>This is my first blog article!</h1>]]></content>
-      <categories>
-        <category>Skills</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>OBOR_article_files</title>
-    <url>/2018/08/15/OBOR_article_files/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/%E3%80%90%E5%8D%8E%E6%B3%B0%E9%87%91%E5%B7%A5%E3%80%91%E5%A4%9A%E5%9B%A0%E5%AD%903%EF%BC%9A%E5%8D%8E%E6%B3%B0%E5%8D%95%E5%9B%A0%E5%AD%90%E6%B5%8B%E8%AF%95%E4%B9%8B%E6%88%90%E9%95%BF%E7%B1%BB%E5%9B%A0%E5%AD%9020161031.pdf" data-height="500px"></div>
-<div class="pdfobject-container" data-target="http://p659fi1z8.bkt.clouddn.com/20180509162109827517.pdf" data-height="500px"></div> 
-<div class="pdfobject-container" data-target="http://p659fi1z8.bkt.clouddn.com/1-s2.0-S0165168418302378-main.pdf" data-height="500px"></div> ]]></content>
-      <categories>
-        <category>Article</category>
-      </categories>
-      <tags>
-        <tag>References</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>MathType_word2016_special_character_skills</title>
     <url>/2018/08/06/MathType_word2016_special_character_skills/</url>
     <content><![CDATA[<h1 id="MathType-special-character-can-display-in-word-but-it-can-not-display-in-pdf-use-word-save-as-pdf-method"><a href="#MathType-special-character-can-display-in-word-but-it-can-not-display-in-pdf-use-word-save-as-pdf-method" class="headerlink" title="MathType special character can display in word, but it can not display in pdf(use word save as pdf method)"></a>MathType special character can display in word, but it can not display in pdf(use word save as pdf method)</h1><h2 id="You-can-see-the-difference-in-the-above-pictures"><a href="#You-can-see-the-difference-in-the-above-pictures" class="headerlink" title="You can see the difference in the above pictures"></a>You can see the difference in the above pictures</h2><h2 id="My-computer-configuration"><a href="#My-computer-configuration" class="headerlink" title="My computer configuration"></a>My computer configuration</h2><table>
@@ -1278,6 +1254,30 @@
       </tags>
   </entry>
   <entry>
+    <title>Record of my blog!</title>
+    <url>/2018/03/25/Model/</url>
+    <content><![CDATA[<h1 id="This-is-my-first-blog-article"><a href="#This-is-my-first-blog-article" class="headerlink" title="This is my first blog article!"></a>This is my first blog article!</h1>]]></content>
+      <categories>
+        <category>Skills</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>OBOR_article_files</title>
+    <url>/2018/08/15/OBOR_article_files/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/%E3%80%90%E5%8D%8E%E6%B3%B0%E9%87%91%E5%B7%A5%E3%80%91%E5%A4%9A%E5%9B%A0%E5%AD%903%EF%BC%9A%E5%8D%8E%E6%B3%B0%E5%8D%95%E5%9B%A0%E5%AD%90%E6%B5%8B%E8%AF%95%E4%B9%8B%E6%88%90%E9%95%BF%E7%B1%BB%E5%9B%A0%E5%AD%9020161031.pdf" data-height="500px"></div>
+<div class="pdfobject-container" data-target="http://p659fi1z8.bkt.clouddn.com/20180509162109827517.pdf" data-height="500px"></div> 
+<div class="pdfobject-container" data-target="http://p659fi1z8.bkt.clouddn.com/1-s2.0-S0165168418302378-main.pdf" data-height="500px"></div> ]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+      <tags>
+        <tag>References</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Advances in Financial Machine Learning</title>
     <url>/2019/01/01/Pdf-Advances-in-Financial-Machine-Learning/</url>
     <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/advances_in_financial_machine_learning_wiley%282018%29.pdf" data-height="500px"></div>
@@ -1288,17 +1288,6 @@
       </categories>
       <tags>
         <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hands-on Machine Learning with Scikit-Learn, Keras &amp; TensorFlow 2nd</title>
-    <url>/2019/12/31/Pdf-Hands-on-Machine-Learning-with-Scikit-2E/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/scikit_in_action_2.pdf" data-height="500px"></div>]]></content>
-      <categories>
-        <category>Machine Learning</category>
-      </categories>
-      <tags>
-        <tag>Python</tag>
       </tags>
   </entry>
   <entry>
@@ -1313,6 +1302,17 @@
       </tags>
   </entry>
   <entry>
+    <title>Hands-on Machine Learning with Scikit-Learn, Keras &amp; TensorFlow 2nd</title>
+    <url>/2019/12/31/Pdf-Hands-on-Machine-Learning-with-Scikit-2E/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/scikit_in_action_2.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Evidence from Comprehensive Account-Level Trading and Holdings Data</title>
     <url>/2020/08/03/Pdf-Heterogeneity-in-Retail-Investors/</url>
     <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/pdf/article/Heterogeneity_in_Retail_Investors_Evidence_from_Comprehensive_Account-Level_Trading_and_Holdings_Data.pdf" data-height="500px"></div>
@@ -1322,6 +1322,20 @@
       </categories>
       <tags>
         <tag>Stock</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>The Matrix Calculus-Chinese</title>
+    <url>/2019/01/27/Pdf-Matrix-Chinese/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/math/matrix%20vector%20derivatives%20for%20machine%20learning.pdf" data-height="500px"></div>
+
+
+]]></content>
+      <categories>
+        <category>Data Science</category>
+      </categories>
+      <tags>
+        <tag>Math</tag>
       </tags>
   </entry>
   <entry>
@@ -1355,31 +1369,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R cheatsheets</title>
-    <url>/2019/03/20/Pdf-R-cheatsheets/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/R/rstudio-ide%20(1).pdf" data-height="500px"></div>]]></content>
-      <categories>
-        <category>Cheatsheets</category>
-      </categories>
-      <tags>
-        <tag>R</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>The Matrix Calculus-Chinese</title>
-    <url>/2019/01/27/Pdf-Matrix-Chinese/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/math/matrix%20vector%20derivatives%20for%20machine%20learning.pdf" data-height="500px"></div>
-
-
-]]></content>
-      <categories>
-        <category>Data Science</category>
-      </categories>
-      <tags>
-        <tag>Math</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Python for Data Science Cheat Sheet Pandas</title>
     <url>/2019/01/09/Pdf-Pandas-Cheat-Sheet/</url>
     <content><![CDATA[<div class="pdfobject-container" data-target="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf" data-height="500px"></div>
@@ -1393,11 +1382,11 @@
       </tags>
   </entry>
   <entry>
-    <title>R in action 2nd</title>
-    <url>/2019/12/25/Pdf-R-in-action-2nd/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/manning_R_in_action_2nd.pdf" data-height="500px"></div>]]></content>
+    <title>R cheatsheets</title>
+    <url>/2019/03/20/Pdf-R-cheatsheets/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/R/rstudio-ide%20(1).pdf" data-height="500px"></div>]]></content>
       <categories>
-        <category>Book</category>
+        <category>Cheatsheets</category>
       </categories>
       <tags>
         <tag>R</tag>
@@ -1412,6 +1401,17 @@
       </categories>
       <tags>
         <tag>Stata</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R in action 2nd</title>
+    <url>/2019/12/25/Pdf-R-in-action-2nd/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/manning_R_in_action_2nd.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Book</category>
+      </categories>
+      <tags>
+        <tag>R</tag>
       </tags>
   </entry>
   <entry>
@@ -1452,18 +1452,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Chinese Social Sciences Citation Index</title>
-    <url>/2018/11/11/Pdf_Chinese_Social_Sciences_Citation_Index_2017_2018/</url>
-    <content><![CDATA[<p>If you can not open the pdf file, you may try to access the <a href="http://cssrac.nju.edu.cn/a/xwdt/zxdt/20170116/2805.html">website</a></p>
-]]></content>
-      <categories>
-        <category>Academic</category>
-      </categories>
-      <tags>
-        <tag>Article</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>统计学习方法课件</title>
     <url>/2019/11/15/Pdf-sml/</url>
     <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/ml/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%952.pdf" data-height="500px"></div>
@@ -1484,6 +1472,18 @@
       </categories>
       <tags>
         <tag>Index</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Chinese Social Sciences Citation Index</title>
+    <url>/2018/11/11/Pdf_Chinese_Social_Sciences_Citation_Index_2017_2018/</url>
+    <content><![CDATA[<p>If you can not open the pdf file, you may try to access the <a href="http://cssrac.nju.edu.cn/a/xwdt/zxdt/20170116/2805.html">website</a></p>
+]]></content>
+      <categories>
+        <category>Academic</category>
+      </categories>
+      <tags>
+        <tag>Article</tag>
       </tags>
   </entry>
   <entry>
@@ -1562,6 +1562,21 @@
       </tags>
   </entry>
   <entry>
+    <title>PyCharm_skill_day_01</title>
+    <url>/2018/08/24/PyCharm_skill_day_01/</url>
+    <content><![CDATA[<h1 id="PyCharm-multiple-code-indent-and-left-moving"><a href="#PyCharm-multiple-code-indent-and-left-moving" class="headerlink" title="PyCharm multiple code indent and left moving"></a>PyCharm multiple code indent and left moving</h1><ol>
+<li>select the code line or block and press ==tab== key, you can indent the code line or block</li>
+<li>select the code line or block and press ==shift + tab== , you can left moving the code line or block</li>
+</ol>
+]]></content>
+      <categories>
+        <category>PyCharm</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>PyCharm_apply_for_free_account</title>
     <url>/2018/07/06/PyChram_apply_for_free_account/</url>
     <content><![CDATA[<blockquote>
@@ -1584,21 +1599,6 @@
 <li><p>P.S. you can use the code for one year, if you still a student one years later, you can reuse this code for more time!</p>
 </li>
 </ul>
-]]></content>
-      <categories>
-        <category>PyCharm</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>PyCharm_skill_day_01</title>
-    <url>/2018/08/24/PyCharm_skill_day_01/</url>
-    <content><![CDATA[<h1 id="PyCharm-multiple-code-indent-and-left-moving"><a href="#PyCharm-multiple-code-indent-and-left-moving" class="headerlink" title="PyCharm multiple code indent and left moving"></a>PyCharm multiple code indent and left moving</h1><ol>
-<li>select the code line or block and press ==tab== key, you can indent the code line or block</li>
-<li>select the code line or block and press ==shift + tab== , you can left moving the code line or block</li>
-</ol>
 ]]></content>
       <categories>
         <category>PyCharm</category>
@@ -1737,21 +1737,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Python_s1_day03_topic_install_package_error</title>
-    <url>/2018/09/04/Python_s1_day03_topic_install_package_error/</url>
-    <content><![CDATA[<h1 id="Visual-C-14-0-is-required-installation-plan-for-Python-install-package"><a href="#Visual-C-14-0-is-required-installation-plan-for-Python-install-package" class="headerlink" title="Visual C++ 14.0 is required installation plan for Python install package"></a>Visual C++ 14.0 is required installation plan for Python install package</h1><h2 id="Intall-python’s-matplotlib-comeacross-error"><a href="#Intall-python’s-matplotlib-comeacross-error" class="headerlink" title="Intall python’s matplotlib comeacross error:"></a>Intall python’s matplotlib comeacross error:</h2><p>error: Microsoft Visual C++ 14.0 is required. Get it with “Microsoft Visual C++ Build Tools”:<a href="http://landinghub.visualstudio.com/visual-cpp-build-tools">http://landinghub.visualstudio.com/visual-cpp-build-tools</a></p>
-<p>for instance, you can download the package in this web<br><a href="%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80https://go.microsoft.com/fwlink/?LinkId=691126">Site website</a></p>
-<p>press “ok” when the work is done, waiting for a long time. sie: 3.12g</p>
-<p>then: pip install XX.whl</p>
-]]></content>
-      <categories>
-        <category>Python</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Spider_about_mafengwo</title>
     <url>/2018/10/24/Spider_about_mafengwo/</url>
     <content><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>During the National Day Holidays, i did some work for the purpose of writing a repot about Mount Emei scenic area. The first thing i want to do is how to get the information about Mount Emei, when i was browsing websites on internet, Mafengwo come into my eyes. Then i will pay more attention on mafengwo, especially about how to fetch the data of hotels in every scenic area in <a href="http://www.mafengwo.com/">www.mafengwo.com</a></p>
@@ -1766,23 +1751,18 @@
       </tags>
   </entry>
   <entry>
-    <title>How to install TensorFlow 2.2 on Windows 10</title>
-    <url>/2020/05/13/Tensorflow22/</url>
-    <content><![CDATA[<h1 id="How-to-install-TensorFlow-2-2-on-Windows-10"><a href="#How-to-install-TensorFlow-2-2-on-Windows-10" class="headerlink" title="How to install TensorFlow 2.2 on Windows 10"></a>How to install TensorFlow 2.2 on Windows 10</h1><blockquote>
-<p>TensorFlow 2.2 is the latest version for now</p>
-</blockquote>
-<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">conda create <span class="literal">-n</span> tf_test python  <span class="comment"># 安装最新版 Python</span></span><br><span class="line">conda activate tf_test  <span class="comment"># 进入所创建的 tf_test 这个虚拟环境</span></span><br><span class="line">pip install tensorflow  <span class="comment"># 安装适配当前虚拟环境 Python 版本的 TensorFlow</span></span><br><span class="line">pip install cudnn <span class="comment"># 自动安装最新的 TensorFlow 配套支持库</span></span><br></pre></td></tr></table></figure>
-
-<ol>
-<li>If return <strong>grpcio</strong> error, please <code>pip install grpcio</code> via proxy</li>
-<li>If return can not find DLL error, please <code>conda install cudnn</code></li>
-</ol>
+    <title>Python_s1_day03_topic_install_package_error</title>
+    <url>/2018/09/04/Python_s1_day03_topic_install_package_error/</url>
+    <content><![CDATA[<h1 id="Visual-C-14-0-is-required-installation-plan-for-Python-install-package"><a href="#Visual-C-14-0-is-required-installation-plan-for-Python-install-package" class="headerlink" title="Visual C++ 14.0 is required installation plan for Python install package"></a>Visual C++ 14.0 is required installation plan for Python install package</h1><h2 id="Intall-python’s-matplotlib-comeacross-error"><a href="#Intall-python’s-matplotlib-comeacross-error" class="headerlink" title="Intall python’s matplotlib comeacross error:"></a>Intall python’s matplotlib comeacross error:</h2><p>error: Microsoft Visual C++ 14.0 is required. Get it with “Microsoft Visual C++ Build Tools”:<a href="http://landinghub.visualstudio.com/visual-cpp-build-tools">http://landinghub.visualstudio.com/visual-cpp-build-tools</a></p>
+<p>for instance, you can download the package in this web<br><a href="%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80https://go.microsoft.com/fwlink/?LinkId=691126">Site website</a></p>
+<p>press “ok” when the work is done, waiting for a long time. sie: 3.12g</p>
+<p>then: pip install XX.whl</p>
 ]]></content>
       <categories>
         <category>Python</category>
       </categories>
       <tags>
-        <tag>TensorFlow</tag>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -1828,17 +1808,23 @@
       </tags>
   </entry>
   <entry>
-    <title>Ubuntu_skills_source</title>
-    <url>/2018/07/01/Ubuntu_skills_source/</url>
-    <content><![CDATA[<h1 id="Useful-Ubuntu-Source"><a href="#Useful-Ubuntu-Source" class="headerlink" title="Useful Ubuntu Source"></a>Useful Ubuntu Source</h1><p><a href="http://mirrors.163.com/">163 source</a></p>
-<a id="more"></a>
+    <title>How to install TensorFlow 2.2 on Windows 10</title>
+    <url>/2020/05/13/Tensorflow22/</url>
+    <content><![CDATA[<h1 id="How-to-install-TensorFlow-2-2-on-Windows-10"><a href="#How-to-install-TensorFlow-2-2-on-Windows-10" class="headerlink" title="How to install TensorFlow 2.2 on Windows 10"></a>How to install TensorFlow 2.2 on Windows 10</h1><blockquote>
+<p>TensorFlow 2.2 is the latest version for now</p>
+</blockquote>
+<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">conda create <span class="literal">-n</span> tf_test python  <span class="comment"># 安装最新版 Python</span></span><br><span class="line">conda activate tf_test  <span class="comment"># 进入所创建的 tf_test 这个虚拟环境</span></span><br><span class="line">pip install tensorflow  <span class="comment"># 安装适配当前虚拟环境 Python 版本的 TensorFlow</span></span><br><span class="line">pip install cudnn <span class="comment"># 自动安装最新的 TensorFlow 配套支持库</span></span><br></pre></td></tr></table></figure>
 
+<ol>
+<li>If return <strong>grpcio</strong> error, please <code>pip install grpcio</code> via proxy</li>
+<li>If return can not find DLL error, please <code>conda install cudnn</code></li>
+</ol>
 ]]></content>
       <categories>
-        <category>Ubuntu</category>
+        <category>Python</category>
       </categories>
       <tags>
-        <tag>Skill</tag>
+        <tag>TensorFlow</tag>
       </tags>
   </entry>
   <entry>
@@ -1872,6 +1858,20 @@
       </tags>
   </entry>
   <entry>
+    <title>Ubuntu_skills_source</title>
+    <url>/2018/07/01/Ubuntu_skills_source/</url>
+    <content><![CDATA[<h1 id="Useful-Ubuntu-Source"><a href="#Useful-Ubuntu-Source" class="headerlink" title="Useful Ubuntu Source"></a>Useful Ubuntu Source</h1><p><a href="http://mirrors.163.com/">163 source</a></p>
+<a id="more"></a>
+
+]]></content>
+      <categories>
+        <category>Ubuntu</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Useful Website</title>
     <url>/2019/03/09/Useful-Website/</url>
     <content><![CDATA[<p><img src="https://www.gsb.stanford.edu/sites/gsb/files/styles/1630x_variable/public/resources/huang-goalssteps-1630_1.jpg?itok=s61fdD8u" alt="pic-1"></p>
@@ -1890,17 +1890,6 @@
 ]]></content>
       <categories>
         <category>Daily</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Warning about files or pictures in my blog</title>
-    <url>/2018/11/28/Warning_about_files_or_pictures_in_my_blog/</url>
-    <content><![CDATA[<h1 id="About-change-the-file-address-from-Qiniu-to-Tencent-COS"><a href="#About-change-the-file-address-from-Qiniu-to-Tencent-COS" class="headerlink" title="About change the file_address from Qiniu to Tencent COS"></a>About change the file_address from Qiniu to Tencent COS</h1><h2 id="Qiniu-require-my-blog-register-but-it’s-impossible-for-me-to-do-this-So-I-change-the-base-files-or-pics-website-from-the-Qiniu-to-Tencent-COS"><a href="#Qiniu-require-my-blog-register-but-it’s-impossible-for-me-to-do-this-So-I-change-the-base-files-or-pics-website-from-the-Qiniu-to-Tencent-COS" class="headerlink" title="Qiniu require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS."></a><a href="https://www.qiniu.com/?hmsr=baidu&hmpl=SEM&hmcu=pinzhuan_title&hmkw=&hmci=">Qiniu</a> require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS.</h2><h2 id="If-you-find-some-materials-can-not-access-please-contact-me-via-106-x69-x6e-100-97-120-x69-x61-110-x67-x40-x31-54-51-46-x63-111-x6d-thank-you"><a href="#If-you-find-some-materials-can-not-access-please-contact-me-via-106-x69-x6e-100-97-120-x69-x61-110-x67-x40-x31-54-51-46-x63-111-x6d-thank-you" class="headerlink" title="If you find some materials can not access, please contact me via &#106;&#x69;&#x6e;&#100;&#97;&#120;&#x69;&#x61;&#110;&#x67;&#x40;&#x31;&#54;&#51;&#46;&#x63;&#111;&#x6d;, thank you!"></a>If you find some materials can not access, please contact me via <a href="mailto:&#106;&#x69;&#x6e;&#100;&#97;&#120;&#x69;&#x61;&#110;&#x67;&#x40;&#x31;&#54;&#51;&#46;&#x63;&#111;&#x6d;">&#106;&#x69;&#x6e;&#100;&#97;&#120;&#x69;&#x61;&#110;&#x67;&#x40;&#x31;&#54;&#51;&#46;&#x63;&#111;&#x6d;</a>, thank you!</h2>]]></content>
-      <categories>
-        <category>Bolg</category>
       </categories>
       <tags>
         <tag>Skill</tag>
@@ -1930,6 +1919,17 @@
 ]]></content>
       <categories>
         <category>Windows</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Warning about files or pictures in my blog</title>
+    <url>/2018/11/28/Warning_about_files_or_pictures_in_my_blog/</url>
+    <content><![CDATA[<h1 id="About-change-the-file-address-from-Qiniu-to-Tencent-COS"><a href="#About-change-the-file-address-from-Qiniu-to-Tencent-COS" class="headerlink" title="About change the file_address from Qiniu to Tencent COS"></a>About change the file_address from Qiniu to Tencent COS</h1><h2 id="Qiniu-require-my-blog-register-but-it’s-impossible-for-me-to-do-this-So-I-change-the-base-files-or-pics-website-from-the-Qiniu-to-Tencent-COS"><a href="#Qiniu-require-my-blog-register-but-it’s-impossible-for-me-to-do-this-So-I-change-the-base-files-or-pics-website-from-the-Qiniu-to-Tencent-COS" class="headerlink" title="Qiniu require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS."></a><a href="https://www.qiniu.com/?hmsr=baidu&hmpl=SEM&hmcu=pinzhuan_title&hmkw=&hmci=">Qiniu</a> require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS.</h2><h2 id="If-you-find-some-materials-can-not-access-please-contact-me-via-106-x69-x6e-100-97-x78-x69-x61-110-x67-64-49-54-x33-x2e-x63-111-x6d-thank-you"><a href="#If-you-find-some-materials-can-not-access-please-contact-me-via-106-x69-x6e-100-97-x78-x69-x61-110-x67-64-49-54-x33-x2e-x63-111-x6d-thank-you" class="headerlink" title="If you find some materials can not access, please contact me via &#106;&#x69;&#x6e;&#100;&#97;&#x78;&#x69;&#x61;&#110;&#x67;&#64;&#49;&#54;&#x33;&#x2e;&#x63;&#111;&#x6d;, thank you!"></a>If you find some materials can not access, please contact me via <a href="mailto:&#106;&#x69;&#x6e;&#100;&#97;&#x78;&#x69;&#x61;&#110;&#x67;&#64;&#49;&#54;&#x33;&#x2e;&#x63;&#111;&#x6d;">&#106;&#x69;&#x6e;&#100;&#97;&#x78;&#x69;&#x61;&#110;&#x67;&#64;&#49;&#54;&#x33;&#x2e;&#x63;&#111;&#x6d;</a>, thank you!</h2>]]></content>
+      <categories>
+        <category>Bolg</category>
       </categories>
       <tags>
         <tag>Skill</tag>
@@ -1989,19 +1989,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Win10_s1_day01_topic_skills_remote_connect</title>
-    <url>/2018/06/21/win10_s1_day01_topic_skills_remote_connect/</url>
-    <content><![CDATA[<p>if your computer apper <img src="http://p659fi1z8.bkt.clouddn.com/637101-20180510110736216-1108428187.png" alt="image"> problem, please click this site<br><a href="https://www.cnblogs.com/qiubibi/p/9018638.html">点击此处</a><br>if the website can not access!</p>
-<p>打开组策略，依次展开“计算机配置”-&gt;“管理模板”-&gt;“系统”-&gt;“凭据分配”，设置名称： “加密 Oracle 修正” 为已启用，并设置保护级别为“易受攻击”<br>If you use in win10, you can search “编辑组策略”, then follow the above steps<br><img src="http://p659fi1z8.bkt.clouddn.com/637101-20180510110902477-314343573.png" alt="image"></p>
-]]></content>
-      <categories>
-        <category>Win10</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>How to install and use TikTok in China</title>
     <url>/2020/08/03/tiktok-installment/</url>
     <content><![CDATA[<h1 id="How-to-install-and-use-TikTok-in-China"><a href="#How-to-install-and-use-TikTok-in-China" class="headerlink" title="How to install and use TikTok in China"></a>How to install and use TikTok in China</h1><h2 id="Download-and-install-Android-Emulator"><a href="#Download-and-install-Android-Emulator" class="headerlink" title="Download and install Android Emulator"></a>Download and install Android Emulator</h2><h3 id="BlueStacks"><a href="#BlueStacks" class="headerlink" title="BlueStacks"></a>BlueStacks</h3><p><a href="https://www.bluestacks.com/download.html">Download site</a></p>
@@ -2015,6 +2002,18 @@
       </categories>
       <tags>
         <tag>tiktok</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Win10_s1_day01_topic_skills_sys_update</title>
+    <url>/2018/06/21/win10_s1_day01_topic_skills_sys_update/</url>
+    <content><![CDATA[<p>Attention: if you use win10 home edition please update to win pro edition, then you can use gpedit.msc in cmd command<br>you will go to <a href="www.taobao.com">淘宝</a>, please click the characters!</p>
+]]></content>
+      <categories>
+        <category>Win10</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -2036,9 +2035,10 @@
       </tags>
   </entry>
   <entry>
-    <title>Win10_s1_day01_topic_skills_sys_update</title>
-    <url>/2018/06/21/win10_s1_day01_topic_skills_sys_update/</url>
-    <content><![CDATA[<p>Attention: if you use win10 home edition please update to win pro edition, then you can use gpedit.msc in cmd command<br>you will go to <a href="www.taobao.com">淘宝</a>, please click the characters!</p>
+    <title>Win10_s1_day01_topic_skills_remote_connect</title>
+    <url>/2018/06/21/win10_s1_day01_topic_skills_remote_connect/</url>
+    <content><![CDATA[<p>if your computer apper <img src="http://p659fi1z8.bkt.clouddn.com/637101-20180510110736216-1108428187.png" alt="image"> problem, please click this site<br><a href="https://www.cnblogs.com/qiubibi/p/9018638.html">点击此处</a><br>if the website can not access!</p>
+<p>打开组策略，依次展开“计算机配置”-&gt;“管理模板”-&gt;“系统”-&gt;“凭据分配”，设置名称： “加密 Oracle 修正” 为已启用，并设置保护级别为“易受攻击”<br>If you use in win10, you can search “编辑组策略”, then follow the above steps<br><img src="http://p659fi1z8.bkt.clouddn.com/637101-20180510110902477-314343573.png" alt="image"></p>
 ]]></content>
       <categories>
         <category>Win10</category>
