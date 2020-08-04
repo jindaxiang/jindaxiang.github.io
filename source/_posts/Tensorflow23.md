@@ -1,6 +1,6 @@
 ---
-title: How to install TensorFlow 2.2 on Windows 10
-date: 2020-05-13 16:09:52
+title: How to install TensorFlow 2.3 on Windows 10
+date: 2020-08-04 16:09:52
 tags: [TensorFlow]
 categories: [Python]
 ---
