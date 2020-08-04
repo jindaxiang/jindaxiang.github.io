@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Anaconda_skill_update</title>
+    <url>/2018/07/19/Anaconda_skill_update/</url>
+    <content><![CDATA[<h1 id="If-you-want-to-update-the-syper-anaconda-python-or-conda-you-can-follow-these-steps"><a href="#If-you-want-to-update-the-syper-anaconda-python-or-conda-you-can-follow-these-steps" class="headerlink" title="If you want to update the syper, anaconda, python or conda, you can follow these steps"></a>If you want to update the syper, anaconda, python or conda, you can follow these steps</h1><ol>
+<li>Step one: you should run the cmd command</li>
+<li>Step two: <code> conda update conda</code></li>
+<li>Step three: <code>conda update anaconda</code></li>
+<li>Step four: <code>conda update spyder</code></li>
+<li>Step five: <code>conda update python</code></li>
+</ol>
+]]></content>
+      <categories>
+        <category>Anaconda</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于科创板问答</title>
     <url>/2019/07/20/About_kechuangban/</url>
     <content><![CDATA[<p>科创板开盘交易进入倒计时，新的市场、新的情况、新的规则，如何确保科创板平稳运行，投资者如何正确对待，科创板推出初期的波动？</p>
@@ -83,24 +101,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Anaconda_skill_update</title>
-    <url>/2018/07/19/Anaconda_skill_update/</url>
-    <content><![CDATA[<h1 id="If-you-want-to-update-the-syper-anaconda-python-or-conda-you-can-follow-these-steps"><a href="#If-you-want-to-update-the-syper-anaconda-python-or-conda-you-can-follow-these-steps" class="headerlink" title="If you want to update the syper, anaconda, python or conda, you can follow these steps"></a>If you want to update the syper, anaconda, python or conda, you can follow these steps</h1><ol>
-<li>Step one: you should run the cmd command</li>
-<li>Step two: <code> conda update conda</code></li>
-<li>Step three: <code>conda update anaconda</code></li>
-<li>Step four: <code>conda update spyder</code></li>
-<li>Step five: <code>conda update python</code></li>
-</ol>
-]]></content>
-      <categories>
-        <category>Anaconda</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Biographical_sketch</title>
     <url>/2018/07/06/Biographical_sketch/</url>
     <content><![CDATA[<h1 id="Lutz-Kilian"><a href="#Lutz-Kilian" class="headerlink" title="Lutz Kilian"></a>Lutz Kilian</h1><h2 id="Biographical-sketch"><a href="#Biographical-sketch" class="headerlink" title="Biographical sketch"></a>Biographical sketch</h2><blockquote>
@@ -146,7 +146,7 @@
 <p>Lutz Kilian</p>
 </blockquote>
 <ul>
-<li>E-mail: <a href="mailto:&#x6c;&#x6b;&#105;&#108;&#x69;&#97;&#x6e;&#x40;&#117;&#x6d;&#x69;&#x63;&#x68;&#x2e;&#x65;&#100;&#x75;">&#x6c;&#x6b;&#105;&#108;&#x69;&#97;&#x6e;&#x40;&#117;&#x6d;&#x69;&#x63;&#x68;&#x2e;&#x65;&#100;&#x75;</a> </li>
+<li>E-mail: <a href="mailto:&#x6c;&#107;&#x69;&#108;&#x69;&#x61;&#x6e;&#64;&#x75;&#109;&#x69;&#x63;&#x68;&#46;&#101;&#x64;&#117;">&#x6c;&#107;&#x69;&#108;&#x69;&#x61;&#x6e;&#64;&#x75;&#109;&#x69;&#x63;&#x68;&#46;&#101;&#x64;&#117;</a> </li>
 <li>Department of Economics</li>
 <li>University of Michigan</li>
 <li>Ann Arbor, MI 48109-1220</li>
@@ -167,20 +167,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Blog_skills_gitalk</title>
-    <url>/2018/06/29/Blog_skills_gitalk/</url>
-    <content><![CDATA[<h1 id="set-gitalk-comment"><a href="#set-gitalk-comment" class="headerlink" title="set gitalk comment"></a>set gitalk comment</h1><p><a href="http://p659fi1z8.bkt.clouddn.com/md5.min.js">md5.min.js</a><br><a href="http://p659fi1z8.bkt.clouddn.com/gitalk.swig">gitalk.swig</a><br><img src="http://p659fi1z8.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20180629191644.jpg" alt="config"><br><img src="http://p659fi1z8.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20180629192032.jpg" alt="github_config"><br><a href="https://github.com/gitalk/gitalk/issues/115#event-1539518527">error help</a></p>
-<a id="more"></a>
-
-]]></content>
-      <categories>
-        <category>Blog</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>CSSCI Index</title>
     <url>/2019/01/24/CSSCI-Index/</url>
     <content><![CDATA[<h1 id="Temp-URL"><a href="#Temp-URL" class="headerlink" title="Temp URL"></a>Temp URL</h1><p><a href="http://tlxyxb.tlu.edu.cn/s/49/t/387/d5/05/info54533.htm">C刊、C刊（扩展版）以及北大核心一览表</a></p>
@@ -195,6 +181,20 @@
       </categories>
       <tags>
         <tag>CSSCI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Blog_skills_gitalk</title>
+    <url>/2018/06/29/Blog_skills_gitalk/</url>
+    <content><![CDATA[<h1 id="set-gitalk-comment"><a href="#set-gitalk-comment" class="headerlink" title="set gitalk comment"></a>set gitalk comment</h1><p><a href="http://p659fi1z8.bkt.clouddn.com/md5.min.js">md5.min.js</a><br><a href="http://p659fi1z8.bkt.clouddn.com/gitalk.swig">gitalk.swig</a><br><img src="http://p659fi1z8.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20180629191644.jpg" alt="config"><br><img src="http://p659fi1z8.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20180629192032.jpg" alt="github_config"><br><a href="https://github.com/gitalk/gitalk/issues/115#event-1539518527">error help</a></p>
+<a id="more"></a>
+
+]]></content>
+      <categories>
+        <category>Blog</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -1013,6 +1013,52 @@
       </tags>
   </entry>
   <entry>
+    <title>Machine_Learning_day_01</title>
+    <url>/2018/08/16/Machine_Learning_day_01/</url>
+    <content><![CDATA[<h1 id="Step-1-Importing-the-required-Libraries"><a href="#Step-1-Importing-the-required-Libraries" class="headerlink" title="Step 1: Importing the required Libraries"></a>Step 1: Importing the required Libraries</h1><p>These Two are essential libraries which we will import every time.<br>NumPy is a Library which contains Mathematical functions.<br>Pandas is the library used to import and manage the data sets.</p>
+<h1 id="Step-2-Importing-the-Data-Set"><a href="#Step-2-Importing-the-Data-Set" class="headerlink" title="Step 2: Importing the Data Set"></a>Step 2: Importing the Data Set</h1><p>Data sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe.</p>
+<h1 id="Step-3-Handling-the-Missing-Data"><a href="#Step-3-Handling-the-Missing-Data" class="headerlink" title="Step 3: Handling the Missing Data"></a>Step 3: Handling the Missing Data</h1><p>The data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task.</p>
+<h1 id="Step-4-Encoding-Categorical-Data"><a href="#Step-4-Encoding-Categorical-Data" class="headerlink" title="Step 4: Encoding Categorical Data"></a>Step 4: Encoding Categorical Data</h1><p>Categorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library</p>
+<h1 id="Step-5-Splitting-the-dataset-into-test-set-and-training-set"><a href="#Step-5-Splitting-the-dataset-into-test-set-and-training-set" class="headerlink" title="Step 5: Splitting the dataset into test set and training set"></a>Step 5: Splitting the dataset into test set and training set</h1><p>We make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library.</p>
+<h1 id="Step-6-Feature-Scaling"><a href="#Step-6-Feature-Scaling" class="headerlink" title="Step 6: Feature Scaling"></a>Step 6: Feature Scaling</h1><p>Most of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.</p>
+]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Machine Learning Flash Cards_Forward_Stepwise_Selection!</title>
+    <url>/2018/07/01/Machine%20Learning%20Flash%20Cards_Forward_Stepwise_Selection!/</url>
+    <content><![CDATA[<p><img src="https://mmbiz.qpic.cn/mmbiz_png/mPHy1qqyXHUQX9OT4yaic7GIAqa5u6CPmToEZF2HqzmPib1RdibEIjVbAF35kqibxxiazmQ0J7yn25gy5WsyvZupWrw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" alt="image"></p>
+]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Flash_cards</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Machine_Learning_day_02</title>
+    <url>/2018/08/16/Machine_Learning_day_02/</url>
+    <content><![CDATA[<h1 id="Step-1-Importing-the-required-Libraries"><a href="#Step-1-Importing-the-required-Libraries" class="headerlink" title="Step 1: Importing the required Libraries"></a>Step 1: Importing the required Libraries</h1><p>These Two are essential libraries which we will import every time.<br>NumPy is a Library which contains Mathematical functions.<br>Pandas is the library used to import and manage the data sets.</p>
+<h1 id="Step-2-Importing-the-Data-Set"><a href="#Step-2-Importing-the-Data-Set" class="headerlink" title="Step 2: Importing the Data Set"></a>Step 2: Importing the Data Set</h1><p>Data sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe.</p>
+<h1 id="Step-3-Handling-the-Missing-Data"><a href="#Step-3-Handling-the-Missing-Data" class="headerlink" title="Step 3: Handling the Missing Data"></a>Step 3: Handling the Missing Data</h1><p>The data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task.</p>
+<h1 id="Step-4-Encoding-Categorical-Data"><a href="#Step-4-Encoding-Categorical-Data" class="headerlink" title="Step 4: Encoding Categorical Data"></a>Step 4: Encoding Categorical Data</h1><p>Categorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library</p>
+<h1 id="Step-5-Splitting-the-dataset-into-test-set-and-training-set"><a href="#Step-5-Splitting-the-dataset-into-test-set-and-training-set" class="headerlink" title="Step 5: Splitting the dataset into test set and training set"></a>Step 5: Splitting the dataset into test set and training set</h1><p>We make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library.</p>
+<h1 id="Step-6-Feature-Scaling"><a href="#Step-6-Feature-Scaling" class="headerlink" title="Step 6: Feature Scaling"></a>Step 6: Feature Scaling</h1><p>Most of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.</p>
+]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>MacOS High Sierra-10.13.5 install win10</title>
     <url>/2018/06/19/Mac_s1_day01_topic_skills_install_win/</url>
     <content><![CDATA[<h1 id="MacOS-High-Sierra-10-13-5-install-win10"><a href="#MacOS-High-Sierra-10-13-5-install-win10" class="headerlink" title="MacOS High Sierra-10.13.5 install win10"></a>MacOS High Sierra-10.13.5 install win10</h1><hr>
@@ -1041,52 +1087,6 @@
       </categories>
       <tags>
         <tag>MacOS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Machine_Learning_day_02</title>
-    <url>/2018/08/16/Machine_Learning_day_02/</url>
-    <content><![CDATA[<h1 id="Step-1-Importing-the-required-Libraries"><a href="#Step-1-Importing-the-required-Libraries" class="headerlink" title="Step 1: Importing the required Libraries"></a>Step 1: Importing the required Libraries</h1><p>These Two are essential libraries which we will import every time.<br>NumPy is a Library which contains Mathematical functions.<br>Pandas is the library used to import and manage the data sets.</p>
-<h1 id="Step-2-Importing-the-Data-Set"><a href="#Step-2-Importing-the-Data-Set" class="headerlink" title="Step 2: Importing the Data Set"></a>Step 2: Importing the Data Set</h1><p>Data sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe.</p>
-<h1 id="Step-3-Handling-the-Missing-Data"><a href="#Step-3-Handling-the-Missing-Data" class="headerlink" title="Step 3: Handling the Missing Data"></a>Step 3: Handling the Missing Data</h1><p>The data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task.</p>
-<h1 id="Step-4-Encoding-Categorical-Data"><a href="#Step-4-Encoding-Categorical-Data" class="headerlink" title="Step 4: Encoding Categorical Data"></a>Step 4: Encoding Categorical Data</h1><p>Categorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library</p>
-<h1 id="Step-5-Splitting-the-dataset-into-test-set-and-training-set"><a href="#Step-5-Splitting-the-dataset-into-test-set-and-training-set" class="headerlink" title="Step 5: Splitting the dataset into test set and training set"></a>Step 5: Splitting the dataset into test set and training set</h1><p>We make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library.</p>
-<h1 id="Step-6-Feature-Scaling"><a href="#Step-6-Feature-Scaling" class="headerlink" title="Step 6: Feature Scaling"></a>Step 6: Feature Scaling</h1><p>Most of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.</p>
-]]></content>
-      <categories>
-        <category>Machine Learning</category>
-      </categories>
-      <tags>
-        <tag>Daily</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Machine_Learning_day_01</title>
-    <url>/2018/08/16/Machine_Learning_day_01/</url>
-    <content><![CDATA[<h1 id="Step-1-Importing-the-required-Libraries"><a href="#Step-1-Importing-the-required-Libraries" class="headerlink" title="Step 1: Importing the required Libraries"></a>Step 1: Importing the required Libraries</h1><p>These Two are essential libraries which we will import every time.<br>NumPy is a Library which contains Mathematical functions.<br>Pandas is the library used to import and manage the data sets.</p>
-<h1 id="Step-2-Importing-the-Data-Set"><a href="#Step-2-Importing-the-Data-Set" class="headerlink" title="Step 2: Importing the Data Set"></a>Step 2: Importing the Data Set</h1><p>Data sets are generally available in .csv format. A CSV file stores tabular data in plain text. Each line of the file is a data record. We use the ==read_csv== mehtod of the pandas library to read a local CSV file as a dataframe. Then we make separate Matrix and Vector of the independent and dependent variables from the dataframe.</p>
-<h1 id="Step-3-Handling-the-Missing-Data"><a href="#Step-3-Handling-the-Missing-Data" class="headerlink" title="Step 3: Handling the Missing Data"></a>Step 3: Handling the Missing Data</h1><p>The data we get is rarely homogeneous. Data can be missing due to various reasons and needs to be handled so that it does not reduce the performance of our machine learning model. We can replace the missing data by the Mean or Median of the entire column. We use ==Imputer== class of ==sklearn.preprocessing== for this task.</p>
-<h1 id="Step-4-Encoding-Categorical-Data"><a href="#Step-4-Encoding-Categorical-Data" class="headerlink" title="Step 4: Encoding Categorical Data"></a>Step 4: Encoding Categorical Data</h1><p>Categorical data are variables that contain label values rather than numeric vlaues. The number of possible values is often limited to a fixed set. Example values such as “Yes” and “No” can not be used in mathematical equations of the model so we need to encode these variables into numbers. To achieve this we import ==LabelEncoder== class from ==sklearn.preprocessing== library</p>
-<h1 id="Step-5-Splitting-the-dataset-into-test-set-and-training-set"><a href="#Step-5-Splitting-the-dataset-into-test-set-and-training-set" class="headerlink" title="Step 5: Splitting the dataset into test set and training set"></a>Step 5: Splitting the dataset into test set and training set</h1><p>We make two partitions of dataset one for training the model called training set and other for testing the performance of the trained model called test set. The split is generally 80/20. We import ==train_test_split()== method of ==sklearn.crossvalidation== library.</p>
-<h1 id="Step-6-Feature-Scaling"><a href="#Step-6-Feature-Scaling" class="headerlink" title="Step 6: Feature Scaling"></a>Step 6: Feature Scaling</h1><p>Most of the machine learning algorithms use the Euclidean distance between two data points in their computations, features highly varying in magnitudes, units and range pose problems. High magnitudes features will weigh more in the distance calculations than featurs with low magnitudes. Done by Feature standardization or Z-score normalizaion. ==StandardScalar== of ==sklearn.preprocessing== is imported.</p>
-]]></content>
-      <categories>
-        <category>Machine Learning</category>
-      </categories>
-      <tags>
-        <tag>Daily</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Machine Learning Flash Cards_Forward_Stepwise_Selection!</title>
-    <url>/2018/07/01/Machine%20Learning%20Flash%20Cards_Forward_Stepwise_Selection!/</url>
-    <content><![CDATA[<p><img src="https://mmbiz.qpic.cn/mmbiz_png/mPHy1qqyXHUQX9OT4yaic7GIAqa5u6CPmToEZF2HqzmPib1RdibEIjVbAF35kqibxxiazmQ0J7yn25gy5WsyvZupWrw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" alt="image"></p>
-]]></content>
-      <categories>
-        <category>Machine Learning</category>
-      </categories>
-      <tags>
-        <tag>Flash_cards</tag>
       </tags>
   </entry>
   <entry>
@@ -1127,6 +1127,18 @@
       </tags>
   </entry>
   <entry>
+    <title>Machine Learning Flash Cards_F1_Score!</title>
+    <url>/2018/06/20/Machine_s1_day01_topic_flash_cards_f1_score/</url>
+    <content><![CDATA[<p><img src="http://p659fi1z8.bkt.clouddn.com/F1_Score_web.png" alt="image"></p>
+]]></content>
+      <categories>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>Flash_cards</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Machine_Learning_day_04</title>
     <url>/2018/09/03/Machine_Learning_day_04/</url>
     <content><![CDATA[<h1 id="Logistic-Regression"><a href="#Logistic-Regression" class="headerlink" title="Logistic Regression"></a>Logistic Regression</h1><h2 id="What-is-logistic-Regression"><a href="#What-is-logistic-Regression" class="headerlink" title="What is logistic Regression"></a>What is logistic Regression</h2><p>Logistic regression is used for a different class of problems known as classification problems. Here the aim is to predict the group to which the current object under observation belongs to. It gives you a discrete binary outcome between 0 and 1. A simple example would be whether a person will vote or not in upcoming elections.</p>
@@ -1155,27 +1167,16 @@
       </tags>
   </entry>
   <entry>
-    <title>Machine Learning Flash Cards_FPR!</title>
-    <url>/2018/06/21/Machine_s1_day01_topic_flash_cards_fpr/</url>
-    <content><![CDATA[<p><img src="http://p659fi1z8.bkt.clouddn.com/False_Positive_Rate_web.png" alt="image"></p>
-]]></content>
+    <title>OBOR_article_files</title>
+    <url>/2018/08/15/OBOR_article_files/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/%E3%80%90%E5%8D%8E%E6%B3%B0%E9%87%91%E5%B7%A5%E3%80%91%E5%A4%9A%E5%9B%A0%E5%AD%903%EF%BC%9A%E5%8D%8E%E6%B3%B0%E5%8D%95%E5%9B%A0%E5%AD%90%E6%B5%8B%E8%AF%95%E4%B9%8B%E6%88%90%E9%95%BF%E7%B1%BB%E5%9B%A0%E5%AD%9020161031.pdf" data-height="500px"></div>
+<div class="pdfobject-container" data-target="http://p659fi1z8.bkt.clouddn.com/20180509162109827517.pdf" data-height="500px"></div> 
+<div class="pdfobject-container" data-target="http://p659fi1z8.bkt.clouddn.com/1-s2.0-S0165168418302378-main.pdf" data-height="500px"></div> ]]></content>
       <categories>
-        <category>Machine Learning</category>
+        <category>Article</category>
       </categories>
       <tags>
-        <tag>Flash_cards</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Machine Learning Flash Cards_F1_Score!</title>
-    <url>/2018/06/20/Machine_s1_day01_topic_flash_cards_f1_score/</url>
-    <content><![CDATA[<p><img src="http://p659fi1z8.bkt.clouddn.com/F1_Score_web.png" alt="image"></p>
-]]></content>
-      <categories>
-        <category>Machine Learning</category>
-      </categories>
-      <tags>
-        <tag>Flash_cards</tag>
+        <tag>References</tag>
       </tags>
   </entry>
   <entry>
@@ -1254,16 +1255,26 @@
       </tags>
   </entry>
   <entry>
-    <title>OBOR_article_files</title>
-    <url>/2018/08/15/OBOR_article_files/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/%E3%80%90%E5%8D%8E%E6%B3%B0%E9%87%91%E5%B7%A5%E3%80%91%E5%A4%9A%E5%9B%A0%E5%AD%903%EF%BC%9A%E5%8D%8E%E6%B3%B0%E5%8D%95%E5%9B%A0%E5%AD%90%E6%B5%8B%E8%AF%95%E4%B9%8B%E6%88%90%E9%95%BF%E7%B1%BB%E5%9B%A0%E5%AD%9020161031.pdf" data-height="500px"></div>
-<div class="pdfobject-container" data-target="http://p659fi1z8.bkt.clouddn.com/20180509162109827517.pdf" data-height="500px"></div> 
-<div class="pdfobject-container" data-target="http://p659fi1z8.bkt.clouddn.com/1-s2.0-S0165168418302378-main.pdf" data-height="500px"></div> ]]></content>
+    <title>Machine Learning Flash Cards_FPR!</title>
+    <url>/2018/06/21/Machine_s1_day01_topic_flash_cards_fpr/</url>
+    <content><![CDATA[<p><img src="http://p659fi1z8.bkt.clouddn.com/False_Positive_Rate_web.png" alt="image"></p>
+]]></content>
       <categories>
-        <category>Article</category>
+        <category>Machine Learning</category>
       </categories>
       <tags>
-        <tag>References</tag>
+        <tag>Flash_cards</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Futures Data Source and Fetch</title>
+    <url>/2019/01/29/Pdf-Futures-Data-Source-and-Fetch/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/finance/2019-01-30-%E6%9C%9F%E8%B4%A7%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Finance</category>
+      </categories>
+      <tags>
+        <tag>Futures</tag>
       </tags>
   </entry>
   <entry>
@@ -1291,17 +1302,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Futures Data Source and Fetch</title>
-    <url>/2019/01/29/Pdf-Futures-Data-Source-and-Fetch/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/finance/2019-01-30-%E6%9C%9F%E8%B4%A7%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90.pdf" data-height="500px"></div>]]></content>
-      <categories>
-        <category>Finance</category>
-      </categories>
-      <tags>
-        <tag>Futures</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hands-on Machine Learning with Scikit-Learn, Keras &amp; TensorFlow 2nd</title>
     <url>/2019/12/31/Pdf-Hands-on-Machine-Learning-with-Scikit-2E/</url>
     <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/scikit_in_action_2.pdf" data-height="500px"></div>]]></content>
@@ -1313,17 +1313,15 @@
       </tags>
   </entry>
   <entry>
-    <title>The Matrix Calculus-Chinese</title>
-    <url>/2019/01/27/Pdf-Matrix-Chinese/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/math/matrix%20vector%20derivatives%20for%20machine%20learning.pdf" data-height="500px"></div>
-
-
+    <title>Evidence from Comprehensive Account-Level Trading and Holdings Data</title>
+    <url>/2020/08/03/Pdf-Heterogeneity-in-Retail-Investors/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/pdf/article/Heterogeneity_in_Retail_Investors_Evidence_from_Comprehensive_Account-Level_Trading_and_Holdings_Data.pdf" data-height="500px"></div>
 ]]></content>
       <categories>
-        <category>Data Science</category>
+        <category>Finance</category>
       </categories>
       <tags>
-        <tag>Math</tag>
+        <tag>Stock</tag>
       </tags>
   </entry>
   <entry>
@@ -1343,15 +1341,39 @@
       </tags>
   </entry>
   <entry>
-    <title>Evidence from Comprehensive Account-Level Trading and Holdings Data</title>
-    <url>/2020/08/03/Pdf-Heterogeneity-in-Retail-Investors/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/pdf/article/Heterogeneity_in_Retail_Investors_Evidence_from_Comprehensive_Account-Level_Trading_and_Holdings_Data.pdf" data-height="500px"></div>
+    <title>The Matrix Calculus-Chinese</title>
+    <url>/2019/01/27/Pdf-Matrix-Chinese/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/math/matrix%20vector%20derivatives%20for%20machine%20learning.pdf" data-height="500px"></div>
+
+
 ]]></content>
       <categories>
-        <category>Finance</category>
+        <category>Data Science</category>
       </categories>
       <tags>
-        <tag>Stock</tag>
+        <tag>Math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R cheatsheets</title>
+    <url>/2019/03/20/Pdf-R-cheatsheets/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/R/rstudio-ide%20(1).pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Cheatsheets</category>
+      </categories>
+      <tags>
+        <tag>R</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R in action 2nd</title>
+    <url>/2019/12/25/Pdf-R-in-action-2nd/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/manning_R_in_action_2nd.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Book</category>
+      </categories>
+      <tags>
+        <tag>R</tag>
       </tags>
   </entry>
   <entry>
@@ -1382,39 +1404,6 @@
       </tags>
   </entry>
   <entry>
-    <title>R cheatsheets</title>
-    <url>/2019/03/20/Pdf-R-cheatsheets/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/R/rstudio-ide%20(1).pdf" data-height="500px"></div>]]></content>
-      <categories>
-        <category>Cheatsheets</category>
-      </categories>
-      <tags>
-        <tag>R</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Data Processing with Stata 15</title>
-    <url>/2019/01/28/Pdf-Stata-Cheat-Sheet/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/stata/AllCheatSheets_Stata_v15.pdf" data-height="500px"></div>]]></content>
-      <categories>
-        <category>Data Science</category>
-      </categories>
-      <tags>
-        <tag>Stata</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R in action 2nd</title>
-    <url>/2019/12/25/Pdf-R-in-action-2nd/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/books/manning_R_in_action_2nd.pdf" data-height="500px"></div>]]></content>
-      <categories>
-        <category>Book</category>
-      </categories>
-      <tags>
-        <tag>R</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Famous Scholar--P. Eric Yeung</title>
     <url>/2019/01/09/Pdf-famous-scholar/</url>
     <content><![CDATA[<p>P. Eric Yeung，康奈尔大学管理学院终身教授，研究兴趣主要集中于财务会计与资本市场中的三个方面，即经济与行为因素对市场参与者使用会计信息产生的影响、经济与行为因素对管理层提供会计信息产生的影响、会计信息与经济基本面之间的关系，其研究成果全部发表在世界最顶尖的会计和管理类学术期刊上，如The Accounting Review、Journal of Accounting Research、Journal of Accounting and Economics、Management Science、Contemporary Accounting Research、Review of Financial Studies、Strategic Management Journal等。Yeung教授现为国际会计类顶级期刊The Accounting Review编委会委员，并担任了会计学、金融学、管理学等方面共计21家国际学术期刊和AAA年会参会论文的审稿人。2014年，Yeung教授被美国著名网站Poets &amp; Quants评选为“全世界40名40岁以下最杰出的商学院教授”</p>
@@ -1426,6 +1415,17 @@
       </categories>
       <tags>
         <tag>Scholar</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Data Processing with Stata 15</title>
+    <url>/2019/01/28/Pdf-Stata-Cheat-Sheet/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/stata/AllCheatSheets_Stata_v15.pdf" data-height="500px"></div>]]></content>
+      <categories>
+        <category>Data Science</category>
+      </categories>
+      <tags>
+        <tag>Stata</tag>
       </tags>
   </entry>
   <entry>
@@ -1441,18 +1441,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Chinese Social Sciences Citation Index</title>
-    <url>/2018/11/11/Pdf_Chinese_Social_Sciences_Citation_Index_2017_2018/</url>
-    <content><![CDATA[<p>If you can not open the pdf file, you may try to access the <a href="http://cssrac.nju.edu.cn/a/xwdt/zxdt/20170116/2805.html">website</a></p>
-]]></content>
-      <categories>
-        <category>Academic</category>
-      </categories>
-      <tags>
-        <tag>Article</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2019年度教育部人文社会科学研究规划基金、青年基金、自筹经费项目评审结果公示一览表</title>
     <url>/2019/01/28/Pdf-humanities-and-social-sciences/</url>
     <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/material/W020190129679418903092.pdf" data-height="500px"></div>]]></content>
@@ -1461,17 +1449,6 @@
       </categories>
       <tags>
         <tag>教育部</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>On the design of financial products along OBOR</title>
-    <url>/2018/06/20/Pdf_Article_my_On_the_design_of_financial_products_along_OBOR/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="http://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch04HullOFOD10thEdition.pdf" data-height="500px"></div> ]]></content>
-      <categories>
-        <category>Article</category>
-      </categories>
-      <tags>
-        <tag>Index</tag>
       </tags>
   </entry>
   <entry>
@@ -1498,6 +1475,29 @@
       </tags>
   </entry>
   <entry>
+    <title>On the design of financial products along OBOR</title>
+    <url>/2018/06/20/Pdf_Article_my_On_the_design_of_financial_products_along_OBOR/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="http://jfds-1252952517.cos.ap-chengdu.myqcloud.com/files/Ch04HullOFOD10thEdition.pdf" data-height="500px"></div> ]]></content>
+      <categories>
+        <category>Article</category>
+      </categories>
+      <tags>
+        <tag>Index</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Chinese Social Sciences Citation Index</title>
+    <url>/2018/11/11/Pdf_Chinese_Social_Sciences_Citation_Index_2017_2018/</url>
+    <content><![CDATA[<p>If you can not open the pdf file, you may try to access the <a href="http://cssrac.nju.edu.cn/a/xwdt/zxdt/20170116/2805.html">website</a></p>
+]]></content>
+      <categories>
+        <category>Academic</category>
+      </categories>
+      <tags>
+        <tag>Article</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Web Scraping with Python 2nd</title>
     <url>/2018/12/16/Pdf_Web_Scraping_with_Python_2nd/</url>
     <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/python/web_scraping_with_python_2.pdf" data-height="500px"></div>
@@ -1510,17 +1510,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Python for Finance 2nd</title>
-    <url>/2018/12/17/Pdf_Python_for_Finance_2nd/</url>
-    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/ml/python_for_finance_2.pdf" data-height="500px"></div> ]]></content>
-      <categories>
-        <category>Finance</category>
-      </categories>
-      <tags>
-        <tag>PDF</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Python for data analysis(2nd)</title>
     <url>/2018/06/13/Pdf_Python_books_pandas_2_nd/</url>
     <content><![CDATA[<div class="pdfobject-container" data-target="http://p659fi1z8.bkt.clouddn.com/test.pdf" data-height="500px"></div> ]]></content>
@@ -1529,6 +1518,19 @@
       </categories>
       <tags>
         <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A new tools for futures</title>
+    <url>/2019/10/01/Publish_new_tools_about_futures/</url>
+    <content><![CDATA[<h1 id="akshare"><a href="#akshare" class="headerlink" title="akshare"></a>akshare</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">pip install akshare</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> akshare <span class="keyword">as</span> ak</span><br><span class="line">ak.get_receipt(<span class="string">&quot;20190802&quot;</span>, <span class="string">&quot;20190823&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Course</category>
+      </categories>
+      <tags>
+        <tag>Weekly</tag>
       </tags>
   </entry>
   <entry>
@@ -1549,31 +1551,14 @@
       </tags>
   </entry>
   <entry>
-    <title>A new tools for futures</title>
-    <url>/2019/10/01/Publish_new_tools_about_futures/</url>
-    <content><![CDATA[<h1 id="akshare"><a href="#akshare" class="headerlink" title="akshare"></a>akshare</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">pip install akshare</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> akshare <span class="keyword">as</span> ak</span><br><span class="line">ak.get_receipt(<span class="string">&quot;20190802&quot;</span>, <span class="string">&quot;20190823&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
+    <title>Python for Finance 2nd</title>
+    <url>/2018/12/17/Pdf_Python_for_Finance_2nd/</url>
+    <content><![CDATA[<div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/ml/python_for_finance_2.pdf" data-height="500px"></div> ]]></content>
       <categories>
-        <category>Course</category>
+        <category>Finance</category>
       </categories>
       <tags>
-        <tag>Weekly</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>PyCharm_skill_day_01</title>
-    <url>/2018/08/24/PyCharm_skill_day_01/</url>
-    <content><![CDATA[<h1 id="PyCharm-multiple-code-indent-and-left-moving"><a href="#PyCharm-multiple-code-indent-and-left-moving" class="headerlink" title="PyCharm multiple code indent and left moving"></a>PyCharm multiple code indent and left moving</h1><ol>
-<li>select the code line or block and press ==tab== key, you can indent the code line or block</li>
-<li>select the code line or block and press ==shift + tab== , you can left moving the code line or block</li>
-</ol>
-]]></content>
-      <categories>
-        <category>PyCharm</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
+        <tag>PDF</tag>
       </tags>
   </entry>
   <entry>
@@ -1599,6 +1584,21 @@
 <li><p>P.S. you can use the code for one year, if you still a student one years later, you can reuse this code for more time!</p>
 </li>
 </ul>
+]]></content>
+      <categories>
+        <category>PyCharm</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PyCharm_skill_day_01</title>
+    <url>/2018/08/24/PyCharm_skill_day_01/</url>
+    <content><![CDATA[<h1 id="PyCharm-multiple-code-indent-and-left-moving"><a href="#PyCharm-multiple-code-indent-and-left-moving" class="headerlink" title="PyCharm multiple code indent and left moving"></a>PyCharm multiple code indent and left moving</h1><ol>
+<li>select the code line or block and press ==tab== key, you can indent the code line or block</li>
+<li>select the code line or block and press ==shift + tab== , you can left moving the code line or block</li>
+</ol>
 ]]></content>
       <categories>
         <category>PyCharm</category>
@@ -1656,6 +1656,18 @@
       </tags>
   </entry>
   <entry>
+    <title>Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools</title>
+    <url>/2018/06/29/Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools/</url>
+    <content><![CDATA[<h1 id="Set-Python-Unofficial-Source"><a href="#Set-Python-Unofficial-Source" class="headerlink" title="Set Python Unofficial Source"></a>Set Python Unofficial Source</h1><p><a href="http://p659fi1z8.bkt.clouddn.com/MicrosoftVCTools2017.rar">Visula C++ Bulid Tools</a></p>
+]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Python_s1_day02_topic_skills_py37_install_scrapy</title>
     <url>/2018/06/29/Python_s1_day02_topic_skills_py37_install_scrapy/</url>
     <content><![CDATA[<h1 id="Get-twisted-and-lxml-file-from-unofficial-source"><a href="#Get-twisted-and-lxml-file-from-unofficial-source" class="headerlink" title="Get twisted and lxml file from unofficial source"></a>Get twisted and lxml file from <a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/">unofficial source</a></h1><ul>
@@ -1671,9 +1683,9 @@
       </tags>
   </entry>
   <entry>
-    <title>Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools</title>
-    <url>/2018/06/29/Python_s1_day02_topic_skills_download_Visual_C++_Build_Tools/</url>
-    <content><![CDATA[<h1 id="Set-Python-Unofficial-Source"><a href="#Set-Python-Unofficial-Source" class="headerlink" title="Set Python Unofficial Source"></a>Set Python Unofficial Source</h1><p><a href="http://p659fi1z8.bkt.clouddn.com/MicrosoftVCTools2017.rar">Visula C++ Bulid Tools</a></p>
+    <title>Python_s1_day02_topic_skills_set_unoffical_source</title>
+    <url>/2018/06/29/Python_s1_day02_topic_skills_set_unoffical_source/</url>
+    <content><![CDATA[<h1 id="Set-Python-Unofficial-Source"><a href="#Set-Python-Unofficial-Source" class="headerlink" title="Set Python Unofficial Source"></a>Set Python Unofficial Source</h1><p><a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/">Unofficial Source</a></p>
 ]]></content>
       <categories>
         <category>Python</category>
@@ -1709,18 +1721,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Python_s1_day02_topic_skills_set_unoffical_source</title>
-    <url>/2018/06/29/Python_s1_day02_topic_skills_set_unoffical_source/</url>
-    <content><![CDATA[<h1 id="Set-Python-Unofficial-Source"><a href="#Set-Python-Unofficial-Source" class="headerlink" title="Set Python Unofficial Source"></a>Set Python Unofficial Source</h1><p><a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/">Unofficial Source</a></p>
-]]></content>
-      <categories>
-        <category>Python</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Python_s1_day02_topic_skills_setting</title>
     <url>/2018/06/29/Python_s1_day02_topic_skills_setting/</url>
     <content><![CDATA[<h1 id="Set-TUNA-source"><a href="#Set-TUNA-source" class="headerlink" title="Set TUNA source"></a>Set TUNA source</h1><p><a href="https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/">清华 Anaconda 镜像使用帮助</a></p>
@@ -1731,6 +1731,20 @@
 ]]></content>
       <categories>
         <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Spider_about_mafengwo</title>
+    <url>/2018/10/24/Spider_about_mafengwo/</url>
+    <content><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>During the National Day Holidays, i did some work for the purpose of writing a repot about Mount Emei scenic area. The first thing i want to do is how to get the information about Mount Emei, when i was browsing websites on internet, Mafengwo come into my eyes. Then i will pay more attention on mafengwo, especially about how to fetch the data of hotels in every scenic area in <a href="http://www.mafengwo.com/">www.mafengwo.com</a></p>
+<h1 id="Step-one"><a href="#Step-one" class="headerlink" title="Step one"></a>Step one</h1><p>Firstly, i will open the chrome broswer and type in the website of our objective. <a href="http://www.mafengwo.com/">www.mafengwo.com</a>, then click the <a href="http://www.mafengwo.cn/mdd/">http://www.mafengwo.cn/mdd/</a> site, you will see the <img src="http://p659fi1z8.bkt.clouddn.com/pic_1.jpg" alt="pic_1">, our destination is the Mount Emei, so i click the 峨眉山, then we get into <a href="http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10143.html">http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10143.html</a>, yes, it’s the website we needed. In the process of fethcing the data, i think that, to fetch the hotel data is the most difficult, so i choose this part to do a favor. You should broswer the <a href="http://www.mafengwo.cn/hotel/10143/?sFrom=mdd">http://www.mafengwo.cn/hotel/10143/?sFrom=mdd</a>, and you will find it’s something interesting there, because the price of hotle is shown on the screen.</p>
+<h1 id="Step-two"><a href="#Step-two" class="headerlink" title="Step two"></a>Step two</h1><p>Click the right button of mounse, open the check, then go to the network tab, press the preserver log item, just as follows:<br>then you should reload the website, go into the source tab and press top, right click the top button, choose search in all files, then input ‘getSign’, just as <img src="http://p659fi1z8.bkt.clouddn.com/pic_2.jpg" alt="pic_2">. Use the debuger function of chrome. You can find the return value, it’s md5 encryption, use the dict and str content to generate the salt, then use get method to transmit the parameters to host.</p>
+]]></content>
+      <categories>
+        <category>Spider</category>
       </categories>
       <tags>
         <tag>Skill</tag>
@@ -1752,17 +1766,23 @@
       </tags>
   </entry>
   <entry>
-    <title>Spider_about_mafengwo</title>
-    <url>/2018/10/24/Spider_about_mafengwo/</url>
-    <content><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>During the National Day Holidays, i did some work for the purpose of writing a repot about Mount Emei scenic area. The first thing i want to do is how to get the information about Mount Emei, when i was browsing websites on internet, Mafengwo come into my eyes. Then i will pay more attention on mafengwo, especially about how to fetch the data of hotels in every scenic area in <a href="http://www.mafengwo.com/">www.mafengwo.com</a></p>
-<h1 id="Step-one"><a href="#Step-one" class="headerlink" title="Step one"></a>Step one</h1><p>Firstly, i will open the chrome broswer and type in the website of our objective. <a href="http://www.mafengwo.com/">www.mafengwo.com</a>, then click the <a href="http://www.mafengwo.cn/mdd/">http://www.mafengwo.cn/mdd/</a> site, you will see the <img src="http://p659fi1z8.bkt.clouddn.com/pic_1.jpg" alt="pic_1">, our destination is the Mount Emei, so i click the 峨眉山, then we get into <a href="http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10143.html">http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10143.html</a>, yes, it’s the website we needed. In the process of fethcing the data, i think that, to fetch the hotel data is the most difficult, so i choose this part to do a favor. You should broswer the <a href="http://www.mafengwo.cn/hotel/10143/?sFrom=mdd">http://www.mafengwo.cn/hotel/10143/?sFrom=mdd</a>, and you will find it’s something interesting there, because the price of hotle is shown on the screen.</p>
-<h1 id="Step-two"><a href="#Step-two" class="headerlink" title="Step two"></a>Step two</h1><p>Click the right button of mounse, open the check, then go to the network tab, press the preserver log item, just as follows:<br>then you should reload the website, go into the source tab and press top, right click the top button, choose search in all files, then input ‘getSign’, just as <img src="http://p659fi1z8.bkt.clouddn.com/pic_2.jpg" alt="pic_2">. Use the debuger function of chrome. You can find the return value, it’s md5 encryption, use the dict and str content to generate the salt, then use get method to transmit the parameters to host.</p>
+    <title>How to install TensorFlow 2.2 on Windows 10</title>
+    <url>/2020/05/13/Tensorflow22/</url>
+    <content><![CDATA[<h1 id="How-to-install-TensorFlow-2-2-on-Windows-10"><a href="#How-to-install-TensorFlow-2-2-on-Windows-10" class="headerlink" title="How to install TensorFlow 2.2 on Windows 10"></a>How to install TensorFlow 2.2 on Windows 10</h1><blockquote>
+<p>TensorFlow 2.2 is the latest version for now</p>
+</blockquote>
+<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">conda create <span class="literal">-n</span> tf_test python  <span class="comment"># 安装最新版 Python</span></span><br><span class="line">conda activate tf_test  <span class="comment"># 进入所创建的 tf_test 这个虚拟环境</span></span><br><span class="line">pip install tensorflow  <span class="comment"># 安装适配当前虚拟环境 Python 版本的 TensorFlow</span></span><br><span class="line">pip install cudnn <span class="comment"># 自动安装最新的 TensorFlow 配套支持库</span></span><br></pre></td></tr></table></figure>
+
+<ol>
+<li>If return <strong>grpcio</strong> error, please <code>pip install grpcio</code> via proxy</li>
+<li>If return can not find DLL error, please <code>conda install cudnn</code></li>
+</ol>
 ]]></content>
       <categories>
-        <category>Spider</category>
+        <category>Python</category>
       </categories>
       <tags>
-        <tag>Skill</tag>
+        <tag>TensorFlow</tag>
       </tags>
   </entry>
   <entry>
@@ -1808,40 +1828,6 @@
       </tags>
   </entry>
   <entry>
-    <title>How to install TensorFlow 2.2 on Windows 10</title>
-    <url>/2020/05/13/Tensorflow22/</url>
-    <content><![CDATA[<h1 id="How-to-install-TensorFlow-2-2-on-Windows-10"><a href="#How-to-install-TensorFlow-2-2-on-Windows-10" class="headerlink" title="How to install TensorFlow 2.2 on Windows 10"></a>How to install TensorFlow 2.2 on Windows 10</h1><blockquote>
-<p>TensorFlow 2.2 is the latest version for now</p>
-</blockquote>
-<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">conda create <span class="literal">-n</span> tf_test python  <span class="comment"># 安装最新版 Python</span></span><br><span class="line">conda activate tf_test  <span class="comment"># 进入所创建的 tf_test 这个虚拟环境</span></span><br><span class="line">pip install tensorflow  <span class="comment"># 安装适配当前虚拟环境 Python 版本的 TensorFlow</span></span><br><span class="line">pip install cudnn <span class="comment"># 自动安装最新的 TensorFlow 配套支持库</span></span><br></pre></td></tr></table></figure>
-
-<ol>
-<li>If return <strong>grpcio</strong> error, please <code>pip install grpcio</code> via proxy</li>
-<li>If return can not find DLL error, please <code>conda install cudnn</code></li>
-</ol>
-]]></content>
-      <categories>
-        <category>Python</category>
-      </categories>
-      <tags>
-        <tag>TensorFlow</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Ubuntu_skills_source</title>
-    <url>/2018/07/01/Ubuntu_skills_source/</url>
-    <content><![CDATA[<h1 id="Useful-Ubuntu-Source"><a href="#Useful-Ubuntu-Source" class="headerlink" title="Useful Ubuntu Source"></a>Useful Ubuntu Source</h1><p><a href="http://mirrors.163.com/">163 source</a></p>
-<a id="more"></a>
-
-]]></content>
-      <categories>
-        <category>Ubuntu</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Use_Navicat_to_connect_the_MySQL_in_JD_Cloud</title>
     <url>/2018/09/17/Use_Navicat_to_connect_the_MySQL_in_JD_Cloud/</url>
     <content><![CDATA[<h1 id="Use-Navicat-to-connect-the-MySQL-in-JD-Cloud-involved-the-Ubuntu16-04-LTS-system"><a href="#Use-Navicat-to-connect-the-MySQL-in-JD-Cloud-involved-the-Ubuntu16-04-LTS-system" class="headerlink" title="Use Navicat to connect the MySQL in JD Cloud involved the Ubuntu16.04 LTS system"></a>Use Navicat to connect the MySQL in JD Cloud involved the Ubuntu16.04 LTS system</h1><p>Select ubuntu 16.04 LTS system.<br>username: root<br>password: —-<br>to login the webserver</p>
@@ -1872,17 +1858,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Warning about files or pictures in my blog</title>
-    <url>/2018/11/28/Warning_about_files_or_pictures_in_my_blog/</url>
-    <content><![CDATA[<h1 id="About-change-the-file-address-from-Qiniu-to-Tencent-COS"><a href="#About-change-the-file-address-from-Qiniu-to-Tencent-COS" class="headerlink" title="About change the file_address from Qiniu to Tencent COS"></a>About change the file_address from Qiniu to Tencent COS</h1><h2 id="Qiniu-require-my-blog-register-but-it’s-impossible-for-me-to-do-this-So-I-change-the-base-files-or-pics-website-from-the-Qiniu-to-Tencent-COS"><a href="#Qiniu-require-my-blog-register-but-it’s-impossible-for-me-to-do-this-So-I-change-the-base-files-or-pics-website-from-the-Qiniu-to-Tencent-COS" class="headerlink" title="Qiniu require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS."></a><a href="https://www.qiniu.com/?hmsr=baidu&hmpl=SEM&hmcu=pinzhuan_title&hmkw=&hmci=">Qiniu</a> require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS.</h2><h2 id="If-you-find-some-materials-can-not-access-please-contact-me-via-x6a-105-110-100-97-120-x69-97-110-x67-64-49-x36-x33-46-99-111-x6d-thank-you"><a href="#If-you-find-some-materials-can-not-access-please-contact-me-via-x6a-105-110-100-97-120-x69-97-110-x67-64-49-x36-x33-46-99-111-x6d-thank-you" class="headerlink" title="If you find some materials can not access, please contact me via &#x6a;&#105;&#110;&#100;&#97;&#120;&#x69;&#97;&#110;&#x67;&#64;&#49;&#x36;&#x33;&#46;&#99;&#111;&#x6d;, thank you!"></a>If you find some materials can not access, please contact me via <a href="mailto:&#x6a;&#105;&#110;&#100;&#97;&#120;&#x69;&#97;&#110;&#x67;&#64;&#49;&#x36;&#x33;&#46;&#99;&#111;&#x6d;">&#x6a;&#105;&#110;&#100;&#97;&#120;&#x69;&#97;&#110;&#x67;&#64;&#49;&#x36;&#x33;&#46;&#99;&#111;&#x6d;</a>, thank you!</h2>]]></content>
-      <categories>
-        <category>Bolg</category>
-      </categories>
-      <tags>
-        <tag>Skill</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Useful Website</title>
     <url>/2019/03/09/Useful-Website/</url>
     <content><![CDATA[<p><img src="https://www.gsb.stanford.edu/sites/gsb/files/styles/1630x_variable/public/resources/huang-goalssteps-1630_1.jpg?itok=s61fdD8u" alt="pic-1"></p>
@@ -1901,6 +1876,20 @@
 ]]></content>
       <categories>
         <category>Daily</category>
+      </categories>
+      <tags>
+        <tag>Skill</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Ubuntu_skills_source</title>
+    <url>/2018/07/01/Ubuntu_skills_source/</url>
+    <content><![CDATA[<h1 id="Useful-Ubuntu-Source"><a href="#Useful-Ubuntu-Source" class="headerlink" title="Useful Ubuntu Source"></a>Useful Ubuntu Source</h1><p><a href="http://mirrors.163.com/">163 source</a></p>
+<a id="more"></a>
+
+]]></content>
+      <categories>
+        <category>Ubuntu</category>
       </categories>
       <tags>
         <tag>Skill</tag>
@@ -1936,40 +1925,14 @@
       </tags>
   </entry>
   <entry>
-    <title>How to publish my personal website on coding.net</title>
-    <url>/2020/06/24/publish-website/</url>
-    <content><![CDATA[<h1 id="How-to-publish-my-personal-website-on-coding-net"><a href="#How-to-publish-my-personal-website-on-coding-net" class="headerlink" title="How to publish my personal website on coding.net"></a>How to publish my personal website on coding.net</h1><h2 id="Login-Page"><a href="#Login-Page" class="headerlink" title="Login Page"></a>Login Page</h2><p>jindaxiang.coding.net</p>
-<h2 id="Find-Item"><a href="#Find-Item" class="headerlink" title="Find Item"></a>Find Item</h2><p>项目 -&gt; jindaxiang -&gt; 持续部署 -&gt; 静态网页 -&gt; 设置 -&gt; 自定义域名 -&gt; Warning -&gt; 申请 -&gt; 在阿里云重启 GitHub 的解析</p>
-<h2 id="Warning"><a href="#Warning" class="headerlink" title="Warning"></a>Warning</h2><p>阿里云 -&gt; 域名 -&gt; 解析 -&gt; 暂停 GitHub 的解析</p>
-<h2 id="Frequency"><a href="#Frequency" class="headerlink" title="Frequency"></a>Frequency</h2><p>每月一次</p>
-<h2 id="Attention"><a href="#Attention" class="headerlink" title="Attention"></a>Attention</h2><p>If you are old customer of coding.net, so you have to update <strong>_config.yml</strong> file with conding site object</p>
-<h2 id="bind-www-jfds-xyz"><a href="#bind-www-jfds-xyz" class="headerlink" title="bind www.jfds.xyz"></a>bind <a href="http://www.jfds.xyz/">www.jfds.xyz</a></h2><ol>
-<li>先在阿里云添加主机记录，按照 coding 绑定 <a href="http://www.jfds.xyz/">www.jfds.xyz</a> 域名那块的提示</li>
-<li>再次绑定 <a href="http://www.jfds.xyz/">www.jfds.xyz</a> 域名</li>
-<li>Https 勾选 -&gt; 保存 -&gt; 部署网站</li>
-</ol>
-]]></content>
+    <title>Warning about files or pictures in my blog</title>
+    <url>/2018/11/28/Warning_about_files_or_pictures_in_my_blog/</url>
+    <content><![CDATA[<h1 id="About-change-the-file-address-from-Qiniu-to-Tencent-COS"><a href="#About-change-the-file-address-from-Qiniu-to-Tencent-COS" class="headerlink" title="About change the file_address from Qiniu to Tencent COS"></a>About change the file_address from Qiniu to Tencent COS</h1><h2 id="Qiniu-require-my-blog-register-but-it’s-impossible-for-me-to-do-this-So-I-change-the-base-files-or-pics-website-from-the-Qiniu-to-Tencent-COS"><a href="#Qiniu-require-my-blog-register-but-it’s-impossible-for-me-to-do-this-So-I-change-the-base-files-or-pics-website-from-the-Qiniu-to-Tencent-COS" class="headerlink" title="Qiniu require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS."></a><a href="https://www.qiniu.com/?hmsr=baidu&hmpl=SEM&hmcu=pinzhuan_title&hmkw=&hmci=">Qiniu</a> require my blog register, but it’s impossible for me to do this. So I change the base files or pics website from the Qiniu to Tencent COS.</h2><h2 id="If-you-find-some-materials-can-not-access-please-contact-me-via-106-x69-x6e-100-x61-120-105-x61-x6e-103-64-x31-54-51-x2e-99-111-x6d-thank-you"><a href="#If-you-find-some-materials-can-not-access-please-contact-me-via-106-x69-x6e-100-x61-120-105-x61-x6e-103-64-x31-54-51-x2e-99-111-x6d-thank-you" class="headerlink" title="If you find some materials can not access, please contact me via &#106;&#x69;&#x6e;&#100;&#x61;&#120;&#105;&#x61;&#x6e;&#103;&#64;&#x31;&#54;&#51;&#x2e;&#99;&#111;&#x6d;, thank you!"></a>If you find some materials can not access, please contact me via <a href="mailto:&#106;&#x69;&#x6e;&#100;&#x61;&#120;&#105;&#x61;&#x6e;&#103;&#64;&#x31;&#54;&#51;&#x2e;&#99;&#111;&#x6d;">&#106;&#x69;&#x6e;&#100;&#x61;&#120;&#105;&#x61;&#x6e;&#103;&#64;&#x31;&#54;&#51;&#x2e;&#99;&#111;&#x6d;</a>, thank you!</h2>]]></content>
       <categories>
-        <category>Website</category>
+        <category>Bolg</category>
       </categories>
       <tags>
-        <tag>Website</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>How to install and use TikTok in China</title>
-    <url>/2020/08/03/tiktok-installment/</url>
-    <content><![CDATA[<h1 id="How-to-install-and-use-TikTok-in-China"><a href="#How-to-install-and-use-TikTok-in-China" class="headerlink" title="How to install and use TikTok in China"></a>How to install and use TikTok in China</h1><h2 id="Download-and-install-Android-Emulator"><a href="#Download-and-install-Android-Emulator" class="headerlink" title="Download and install Android Emulator"></a>Download and install Android Emulator</h2><h3 id="BlueStacks"><a href="#BlueStacks" class="headerlink" title="BlueStacks"></a>BlueStacks</h3><p><a href="https://www.bluestacks.com/download.html">Download site</a></p>
-<h3 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h3><p>it may take some minutes to download and instll it.</p>
-<h3 id="TikTok"><a href="#TikTok" class="headerlink" title="TikTok"></a>TikTok</h3><p><a href="https://tik-tok.en.uptodown.com/android/download">Download site</a></p>
-<h3 id="Tips-1"><a href="#Tips-1" class="headerlink" title="Tips"></a>Tips</h3><p>Please intall apk file in Android Emulator</p>
-<h3 id="Congratulations"><a href="#Congratulations" class="headerlink" title="Congratulations"></a>Congratulations</h3><p>Please enjoy it！！</p>
-]]></content>
-      <categories>
-        <category>Android</category>
-      </categories>
-      <tags>
-        <tag>tiktok</tag>
+        <tag>Skill</tag>
       </tags>
   </entry>
   <entry>
@@ -2002,6 +1965,43 @@
       </categories>
       <tags>
         <tag>WebSocket</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How to install and use TikTok in China</title>
+    <url>/2020/08/03/tiktok-installment/</url>
+    <content><![CDATA[<h1 id="How-to-install-and-use-TikTok-in-China"><a href="#How-to-install-and-use-TikTok-in-China" class="headerlink" title="How to install and use TikTok in China"></a>How to install and use TikTok in China</h1><h2 id="Download-and-install-Android-Emulator"><a href="#Download-and-install-Android-Emulator" class="headerlink" title="Download and install Android Emulator"></a>Download and install Android Emulator</h2><h3 id="BlueStacks"><a href="#BlueStacks" class="headerlink" title="BlueStacks"></a>BlueStacks</h3><p><a href="https://www.bluestacks.com/download.html">Download site</a></p>
+<h3 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h3><p>it may take some minutes to download and instll it.</p>
+<h3 id="TikTok"><a href="#TikTok" class="headerlink" title="TikTok"></a>TikTok</h3><p><a href="https://tik-tok.en.uptodown.com/android/download">Download site</a></p>
+<h3 id="Tips-1"><a href="#Tips-1" class="headerlink" title="Tips"></a>Tips</h3><p>Please intall apk file in Android Emulator</p>
+<h3 id="Congratulations"><a href="#Congratulations" class="headerlink" title="Congratulations"></a>Congratulations</h3><p>Please enjoy it！！</p>
+]]></content>
+      <categories>
+        <category>Android</category>
+      </categories>
+      <tags>
+        <tag>tiktok</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How to publish my personal website on coding.net</title>
+    <url>/2020/06/24/publish-website/</url>
+    <content><![CDATA[<h1 id="How-to-publish-my-personal-website-on-coding-net"><a href="#How-to-publish-my-personal-website-on-coding-net" class="headerlink" title="How to publish my personal website on coding.net"></a>How to publish my personal website on coding.net</h1><h2 id="Login-Page"><a href="#Login-Page" class="headerlink" title="Login Page"></a>Login Page</h2><p>jindaxiang.coding.net</p>
+<h2 id="Find-Item"><a href="#Find-Item" class="headerlink" title="Find Item"></a>Find Item</h2><p>项目 -&gt; jindaxiang -&gt; 持续部署 -&gt; 静态网页 -&gt; 设置 -&gt; 自定义域名 -&gt; Warning -&gt; 申请 -&gt; 在阿里云重启 GitHub 的解析</p>
+<h2 id="Warning"><a href="#Warning" class="headerlink" title="Warning"></a>Warning</h2><p>阿里云 -&gt; 域名 -&gt; 解析 -&gt; 暂停 GitHub 的解析</p>
+<h2 id="Frequency"><a href="#Frequency" class="headerlink" title="Frequency"></a>Frequency</h2><p>每月一次</p>
+<h2 id="Attention"><a href="#Attention" class="headerlink" title="Attention"></a>Attention</h2><p>If you are old customer of coding.net, so you have to update <strong>_config.yml</strong> file with conding site object</p>
+<h2 id="bind-www-jfds-xyz"><a href="#bind-www-jfds-xyz" class="headerlink" title="bind www.jfds.xyz"></a>bind <a href="http://www.jfds.xyz/">www.jfds.xyz</a></h2><ol>
+<li>先在阿里云添加主机记录，按照 coding 绑定 <a href="http://www.jfds.xyz/">www.jfds.xyz</a> 域名那块的提示</li>
+<li>再次绑定 <a href="http://www.jfds.xyz/">www.jfds.xyz</a> 域名</li>
+<li>Https 勾选 -&gt; 保存 -&gt; 部署网站</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Website</category>
+      </categories>
+      <tags>
+        <tag>Website</tag>
       </tags>
   </entry>
   <entry>
