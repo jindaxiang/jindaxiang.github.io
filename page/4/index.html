@@ -165,6 +165,108 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2019/09/17/Python_get_bond_data/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Albert King">
+      <meta itemprop="description" content="请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Data Science">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2019/09/17/Python_get_bond_data/" class="post-title-link" itemprop="url">Python_get_bond_data</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+              
+
+              <time title="Created: 2019-09-17 22:00:52 / Modified: 22:26:42" itemprop="dateCreated datePublished" datetime="2019-09-17T22:00:52+08:00">2019-09-17</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Python/" itemprop="url" rel="index"><span itemprop="name">Python</span></a>
+                </span>
+            </span>
+
+          
+            <span id="/2019/09/17/Python_get_bond_data/" class="post-meta-item leancloud_visitors" data-flag-title="Python_get_bond_data" title="Views">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">Views: </span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine: </span>
+    
+    <a title="valine" href="/2019/09/17/Python_get_bond_data/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2019/09/17/Python_get_bond_data/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>2.2k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>2 mins.</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># coding=utf-8</span></span><br><span class="line"><span class="comment"># /usr/bin/env python</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">Author: Albert King</span></span><br><span class="line"><span class="string">date: 2019/9/13 22:48</span></span><br><span class="line"><span class="string">desc: 获取中国银行间市场交易商协会(http://www.nafmii.org.cn/)中孔雀开屏(http://zhuce.nafmii.org.cn/fans/publicQuery/manager)</span></span><br><span class="line"><span class="string">的债券基本信息数据</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="keyword">from</span> pathlib <span class="keyword">import</span> Path</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"></span><br><span class="line"><span class="comment"># 页面分析后获得的接口地址</span></span><br><span class="line">obj_url = <span class="string">&quot;http://zhuce.nafmii.org.cn/fans/publicQuery/releFileProjDataGrid&quot;</span></span><br><span class="line"><span class="comment"># 添加游览器伪装</span></span><br><span class="line">headers = &#123;</span><br><span class="line">    <span class="string">&quot;Accept&quot;</span>: <span class="string">&quot;application/json, text/javascript, */*; q=0.01&quot;</span>,</span><br><span class="line">    <span class="string">&quot;Accept-Encoding&quot;</span>: <span class="string">&quot;gzip, deflate&quot;</span>,</span><br><span class="line">    <span class="string">&quot;Accept-Language&quot;</span>: <span class="string">&quot;zh-CN,zh;q=0.9,en;q=0.8&quot;</span>,</span><br><span class="line">    <span class="string">&quot;Connection&quot;</span>: <span class="string">&quot;keep-alive&quot;</span>,</span><br><span class="line">    <span class="string">&quot;Content-Length&quot;</span>: <span class="string">&quot;95&quot;</span>,</span><br><span class="line">    <span class="string">&quot;Content-Type&quot;</span>: <span class="string">&quot;application/x-www-form-urlencoded; charset=UTF-8&quot;</span>,</span><br><span class="line">    <span class="string">&quot;Cookie&quot;</span>: <span class="string">&quot;Hm_lvt_508be7db52fd6da009f33b1d6a262bd3=1568385898; Hm_lpvt_508be7db52fd6da009f33b1d6a262bd3=1568385898; JSESSIONID=cEArLxkgwPfryBR_dAOfQEXfKx2MfDwFT-bNVl24FCALRSsMUm1C!-1036170306&quot;</span>,</span><br><span class="line">    <span class="string">&quot;Host&quot;</span>: <span class="string">&quot;zhuce.nafmii.org.cn&quot;</span>,</span><br><span class="line">    <span class="string">&quot;Origin&quot;</span>: <span class="string">&quot;http://zhuce.nafmii.org.cn&quot;</span>,</span><br><span class="line">    <span class="string">&quot;Referer&quot;</span>: <span class="string">&quot;http://zhuce.nafmii.org.cn/fans/publicQuery/manager&quot;</span>,</span><br><span class="line">    <span class="string">&quot;User-Agent&quot;</span>: <span class="string">&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36&quot;</span>,</span><br><span class="line">    <span class="string">&quot;X-Requested-With&quot;</span>: <span class="string">&quot;XMLHttpRequest&quot;</span></span><br><span class="line">&#125;</span><br><span class="line"><span class="comment"># 初始化一个空的数据框</span></span><br><span class="line">temp_df = pd.DataFrame()</span><br><span class="line"><span class="comment"># 遍历页面并上传参数来获取数据</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> range(<span class="number">1</span>, <span class="number">719</span>):</span><br><span class="line">    payload = &#123;</span><br><span class="line">        <span class="string">&quot;regFileName&quot;</span>: <span class="string">&quot;&quot;</span>,</span><br><span class="line">        <span class="string">&quot;itemType&quot;</span>: <span class="string">&quot;&quot;</span>,</span><br><span class="line">        <span class="string">&quot;startTime&quot;</span>: <span class="string">&quot;&quot;</span>,</span><br><span class="line">        <span class="string">&quot;endTime&quot;</span>: <span class="string">&quot;&quot;</span>,</span><br><span class="line">        <span class="string">&quot;entityName&quot;</span>: <span class="string">&quot;&quot;</span>,</span><br><span class="line">        <span class="string">&quot;leadManager&quot;</span>: <span class="string">&quot;&quot;</span>,</span><br><span class="line">        <span class="string">&quot;regPrdtType&quot;</span>: <span class="string">&quot;&quot;</span>,</span><br><span class="line">        <span class="string">&quot;page&quot;</span>: i,</span><br><span class="line">        <span class="string">&quot;rows&quot;</span>: <span class="number">20</span></span><br><span class="line">    &#125;</span><br><span class="line">    r = requests.post(obj_url, data=payload, headers=headers)</span><br><span class="line">    <span class="keyword">if</span> r.status_code == <span class="number">200</span>:  <span class="comment"># 状态码为200就表示获取了数据</span></span><br><span class="line">        data_json = r.json()  <span class="comment"># 数据类型为 json 格式</span></span><br><span class="line">        <span class="keyword">for</span> item <span class="keyword">in</span> data_json[<span class="string">&quot;rows&quot;</span>]:  <span class="comment"># 遍历 json 的具体格式</span></span><br><span class="line">            <span class="comment"># 将 json 格式转化为数据库</span></span><br><span class="line">            temp_df = temp_df.append(pd.DataFrame.from_dict(item, orient=<span class="string">&#x27;index&#x27;</span>).T, sort=<span class="literal">False</span>)</span><br><span class="line">temp_df.reset_index(inplace=<span class="literal">True</span>, drop=<span class="literal">True</span>)  <span class="comment"># 重新设置索引</span></span><br><span class="line">temp_df.to_csv(Path(<span class="string">&#x27;你的路径&#x27;</span>) / <span class="string">&quot;bond_data.csv&quot;</span>)</span><br></pre></td></tr></table></figure>
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2019/09/17/Introduction_to_FICC/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -818,169 +920,10 @@
   
   
 
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2019/07/20/About_kechuangban/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Albert King">
-      <meta itemprop="description" content="请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Data Science">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2019/07/20/About_kechuangban/" class="post-title-link" itemprop="url">关于科创板问答</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-              
-
-              <time title="Created: 2019-07-20 16:09:52 / Modified: 17:49:32" itemprop="dateCreated datePublished" datetime="2019-07-20T16:09:52+08:00">2019-07-20</time>
-            </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-folder"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/%E8%82%A1%E7%A5%A8/" itemprop="url" rel="index"><span itemprop="name">股票</span></a>
-                </span>
-            </span>
-
-          
-            <span id="/2019/07/20/About_kechuangban/" class="post-meta-item leancloud_visitors" data-flag-title="关于科创板问答" title="Views">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-eye"></i>
-              </span>
-              <span class="post-meta-item-text">Views: </span>
-              <span class="leancloud-visitors-count"></span>
-            </span>
-  
-  <span class="post-meta-item">
-    
-      <span class="post-meta-item-icon">
-        <i class="far fa-comment"></i>
-      </span>
-      <span class="post-meta-item-text">Valine: </span>
-    
-    <a title="valine" href="/2019/07/20/About_kechuangban/#valine-comments" itemprop="discussionUrl">
-      <span class="post-comments-count valine-comment-count" data-xid="/2019/07/20/About_kechuangban/" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
-  <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="far fa-file-word"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>3.8k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="far fa-clock"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>3 mins.</span>
-            </span>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <p>科创板开盘交易进入倒计时，新的市场、新的情况、新的规则，如何确保科创板平稳运行，投资者如何正确对待，科创板推出初期的波动？</p>
-<p>财经频道交易时间</p>
-<p>独家推出</p>
-<p>理性看待科创板</p>
-<p>上海证券交易所市场监察二部负责人 曾刚</p>
-<p>清华大学国家金融研究院副院长 王娴</p>
-<p>为您权威解读</p>
-<p>科创板新股上市后前5个交易日不设涨跌幅限制，在上市5个交易日之后，实行20%的涨跌幅限制，这样的制度设计出于什么样的考虑？</p>
-<p>上海证券交易所市场监察二部负责人 曾刚：</p>
-<p>目前A股涨跌幅限制存在三大问题，一是涨跌停的时候带来磁吸效应；二是极端情况下造成市场流动性缺失；三是定价效率低下。为了让市场充分博弈，尽快达到均衡价格，上交所在新股上市初期放开了涨跌幅限制。</p>
-<p>科创板之所以设定为前五日不设涨跌幅限制，主要是参考国际成熟市场的情况，一般新股上市五日后价格波动较为平稳。而且，考虑到新股首日充分博弈的情况下，后四日的运行情况可为下一步改革提供参考。</p>
-<p>科创板在上市五个交易日之后将涨跌幅限制放宽至20%，主要是为了减少交易阻力，提升市场定价效率。按历史数据测算，20%的涨跌幅相比现行的A股10%的涨跌幅限制，可以减少约80%的涨跌停现象。</p>
-<p>清华大学国家金融研究院副院长 王娴：</p>
-<p>新股上市的前期，是从“局部均衡”向“一般均衡价格”过程中，由于投资者对这个价格的认识还存在分歧，这个时期价格波动大是各个市场，乃至价格发现机制较为完善的成熟市场都存在的现象，当投资者的价格认识趋于一致时，价格的波动也就会趋于平稳。</p>
-<p>有投资者担心，既然科创板新股上市后前5个交易日不设涨跌幅限制，那么，在新股涨跌幅放开的同时，如何遏制市场过度投机、异常波动，保持市场稳定、保护投资者利益？</p>
-<p>上海证券交易所市场监察二部负责人 曾刚：</p>
-<p>确实，新股在前五日价格涨跌完全由市场决定，涨跌多少没有限制。但是，针对可能存在的过度投机、异常波动甚至股价操纵行为，上交所主要有三方面的准备：</p>
-<p>一是引入了投资者适当性管理制度，避免不合格投资者跟风炒作；</p>
-<p>二是在连续竞价阶段引入价格申报范围限制，同时实行市价申报保护限价，并对盘中异常波动实施临时停牌制度；</p>
-<p>三是公开了异常交易监控标准，并将在新股上市初期加强异常交易行为监管。</p>
-<p>清华大学国家金融研究院副院长 王娴：</p>
-<p>在科创板新股上市的前五个交易日，不设涨跌幅限制，意味着，如果价格高于公允价格的幅度过高，市场的力量就会让价格迅速地向公允价格回归，失去了“跌幅”限制的保护，盲目追高的投资者可能损失会很大。</p>
-<p>交易所已经作出了安排，在新股上市前5日的盘中临时停牌机制，即在盘中成交价格较当日开盘价首次上涨或下跌达到30%、60%时，分别停牌10分钟。这种个股断路器机制，能够给予市场一段冷静期，减少非理性炒作外，还能防范“乌龙指”等错误订单等“噪音”加剧市场波动。</p>
-<p>科创板投资者特别需要注意的，是对公司的招股说明书，对公司的基本面有充分的认识，对“公允价格”有个一判断，以往根本不关注基本面的盲目炒新，可能会血本无归。</p>
-<p>开市初期防止过度投机、市场爆炒的具体措施有哪些？</p>
-<p>上海证券交易所市场监察二部负责人 曾刚：</p>
-<p>第一，科创板设置的价格申报范围限制，是指交易所为防范证券价格异常波动而制定“合理成交价格区间”，并在盘中随买卖报价行情动态调整，当委托单的申报价格超出有效申报范围限时，交易所系统将自动退回该委托单，防范交易以异常价格达成。</p>
-<p>价格申报范围限制是借鉴香港、日本等证券交易所的做法，为保障市场平稳运行而引入的一项制度。具体做法是，在连续竞价阶段对投资者的限价申报价格提出以下要求：</p>
-<p>一是买入申报价格不得高于买入基准价格的102%；</p>
-<p>二是卖出申报价格不得低于卖出基准价格的98%。</p>
-<p>需要指出的是，价格申报范围是单向控制，即只对高价买单和低价卖单进行限制，不会对市场流动性造成影响，也不会影响交易的连续性。</p>
-<p>第二，实行市价申报保护限价。为有效保护投资者合法权益，上交所对科创板市价申报的处理方式进行优化，投资者在市价申报时需设置能够接受的最高买价或最低卖价（即为保护限价），当市场价格快速波动时，防止市价申报以超过投资者预期的价格成交，降低投资者交易风险。</p>
-<p>第三，盘中临时停牌。盘中临时停牌主要目的是防炒作。上交所对A股已有的临时停牌机制进行了两方面的优化，一是放宽临时停牌的触发阈值，从10%和20%分别提高至30%和60%，以避免上市首日频繁触发停牌；二是缩短临时停牌的持续时间，目前A股首次停牌持续时间为30分钟，第二次停至14:57，科创板将两次停牌的持续时间均缩短至10分钟，不会对连续交易造成不利影响。引入临时停牌机制，有助于给市场提供一段时间冷静期，缓和价格波动，提示投资者该股票价格已经达到了较高水平，注意投资风险。</p>
-<p>清华大学国家金融研究院副院长 王娴：</p>
-<p>所谓有效申报范围，是指“买入申报价格不得高于买入基准价格的102%，卖出申报价格不得低于卖出基准价格的98%”，不符合要求的申报将被系统拒绝，不能成交。</p>
-<p>有人把这个制度称为“价格笼子”，有一定道理，但容易引起误解，这个“价格笼子”是“浮动”的，因为基准价格是浮动的。所谓买入（卖出）基准价格，为即时揭示的最低卖出（最高买入）申报价格；无即时揭示的最低卖出（最高买入）申报价格的，为即时揭示的最高买入（最低卖出）申报价格；无即时揭示的最高买入（最低卖出）申报价格的，为最新成交价；当日无成交的，为前收盘价。</p>
-<p>所以“笼子是浮动”的，投资者下单时需要注意这个制度变化。更主要的是，有效竞价范围的设定，不是对价格区间的“刚性”控制的“笼子”，与涨跌幅限制完全不同。</p>
-<p>科创板首批新股7月22日挂牌，如何看待科创板上市初期可能出现的波动？</p>
-<p>上海证券交易所市场监察二部负责人 曾刚：</p>
-<p>总体上看，由于市场供需不平衡，加上初期投机炒作氛围大概率较浓，个别股票可能出现大幅波动，因此要正确看待科创板推出初期投机炒作现象。</p>
-<p>第一，投资者在科创板推出初期参与度高，市场交投活跃，说明市场对资本市场改革充满期待，有利于科创板的长期健康发展。相反，如果市场相对冷清，反而不利于科创板发展和资本市场下一阶段改革。</p>
-<p>第二，从境外市场情况看，即便是在以机构投资者为主的成熟市场，新股上市初期面临大幅波动也是难以避免的，以纳斯达克上市公司为例，无论是Facebook还是阿里巴巴，上市以来都经历了股价大幅波动。可见，新股上市初期波动大也是正常现象，各方需要更多包容，需要加强舆论引导。</p>
-<p>针对开市初期可能出现的波动，交易所将采取以下措施：</p>
-<p>第一，必须对科创板违法违规交易行为严加监管，确保不发生系统性交易风险。交易所将针对大户违规交易、市场操纵等不当交易行为，加强打击力度。一是已经公开异常交易行为监管标准，明确股票交易异常波动情形及相应监管措施。二是进一步加强异常交易监管，突出重点，聚焦关键少数。三是建立违法违规线索快报快处机制。四是强化会员交易监管协同。</p>
-<p>第二，保持科创板发行上市常态化，同时强化退市机制和法律责任。印度和纳斯达克经验均表明，上市公司发行常态化，同时强化退市制度和法律责任，是市场成功的基础。科创板发行上市常态化，需从两个方面努力：一是尽快推动一批大型、优质科创公司上市，起到市场压舱石功能。二是对符合科创板上市条件的科创企业，要切实打破行政审批思维，严格落实以信息披露为核心的注册制，同时强化退市制度，形成良好的上市公司生态。</p>
-<p>第三，适时完善交易机制，从制度上缓解科创板供需不平衡问题。我们认为，市场出现过热及甚至过度投机炒作，本质上是市场供需不平衡导致的。除发行上市常态化有助于缓解供需不平衡外，交易机制也是缓解供需失衡尤其是短期失衡的关键制度安排。拟在科创板推出后，按照《实施意见》的要求，对相关制度进行评估，适时加以完善。</p>
-<p>第四，引导长期资金入市，完善科创板投资者结构。上交所一直在积极推动长期资金入市，目前已经发行了一批以科创为主题的封闭式基金，保险基金、养老金入市也没有政策障碍。</p>
-<p>清华大学国家金融研究院副院长 王娴：</p>
-<p>当市场自身的功能发挥出来了，市场可以较快地达到出清，市场的力量是可以抑制投机和炒作，科创板应该不会出现20多个连续涨停这样的极端情况，波动外溢性和价格发现延迟效应都会降低。</p>
-<p>不能排除短时间出现暴涨暴跌的情况出现。这是因为，市场启动早期由于市场机制发挥作用有一个过程，投资者对交易制度和市场的理解也有一个过程。因此，不能因为出现这种情况出现，就否定市场化的改革方向，重新回到给“价格装上笼子”的做法。</p>
-<p>准备参与科创板交易的投资者，应该做好哪些准备？</p>
-<p>上海证券交易所市场监察二部负责人 曾刚：</p>
-<p>我们要看到，设立科创板的目的在于扶持科技型创新企业做大做强，重点服务于新一代信息技术、高端装备、新材料、新能源、节能环保以及生物医药等高新技术产业和战略性新兴产业的科技创新企业。</p>
-<p>这些高科技公司往往有着广阔的发展前景，但存在迭代快、更新快、盈利回报率不确定、不易估值等风险因素。因此，提醒投资者要结合具体产业、企业的情况谨慎判断，摒弃“一夜暴富”的侥幸心理，不盲目跟风参与炒作，避免不必要的损失。</p>
-<p>在参与科创板股票交易前，投资者应当认真阅读、充分知悉和了解有关法律法规和上交所业务规则等相关规定，对科创板股票交易风险事项以及其他可能存在的风险因素应当有所了解和掌握，结合自身风险认知和承受能力，审慎、理性、规范地参与科创板股票交易。</p>
-<p>本期制作：梁会军</p>
-<p>稿件来源：央视财经《交易时间》</p>
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
 
   
   <nav class="pagination">
-    <a class="extend prev" rel="prev" href="/page/3/"><i class="fa fa-angle-left" aria-label="Previous page"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/3/">3</a><span class="page-number current">4</span><a class="page-number" href="/page/5/">5</a><span class="space">&hellip;</span><a class="page-number" href="/page/16/">16</a><a class="extend next" rel="next" href="/page/5/"><i class="fa fa-angle-right" aria-label="Next page"></i></a>
+    <a class="extend prev" rel="prev" href="/page/3/"><i class="fa fa-angle-left" aria-label="Previous page"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/3/">3</a><span class="page-number current">4</span><a class="page-number" href="/page/5/">5</a><span class="space">&hellip;</span><a class="page-number" href="/page/17/">17</a><a class="extend next" rel="next" href="/page/5/"><i class="fa fa-angle-right" aria-label="Next page"></i></a>
   </nav>
 
 
@@ -1046,7 +989,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">80</span>
+          <span class="site-state-item-count">81</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>

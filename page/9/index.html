@@ -165,6 +165,117 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2018/10/24/Spider_about_mafengwo/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Albert King">
+      <meta itemprop="description" content="请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Data Science">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2018/10/24/Spider_about_mafengwo/" class="post-title-link" itemprop="url">Spider_about_mafengwo</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2018-10-24 10:09:52" itemprop="dateCreated datePublished" datetime="2018-10-24T10:09:52+08:00">2018-10-24</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2019-01-02 03:02:58" itemprop="dateModified" datetime="2019-01-02T03:02:58+08:00">2019-01-02</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Spider/" itemprop="url" rel="index"><span itemprop="name">Spider</span></a>
+                </span>
+            </span>
+
+          
+            <span id="/2018/10/24/Spider_about_mafengwo/" class="post-meta-item leancloud_visitors" data-flag-title="Spider_about_mafengwo" title="Views">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">Views: </span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine: </span>
+    
+    <a title="valine" href="/2018/10/24/Spider_about_mafengwo/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2018/10/24/Spider_about_mafengwo/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>1.3k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>1 mins.</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>During the National Day Holidays, i did some work for the purpose of writing a repot about Mount Emei scenic area. The first thing i want to do is how to get the information about Mount Emei, when i was browsing websites on internet, Mafengwo come into my eyes. Then i will pay more attention on mafengwo, especially about how to fetch the data of hotels in every scenic area in <a target="_blank" rel="noopener" href="http://www.mafengwo.com/">www.mafengwo.com</a></p>
+<h1 id="Step-one"><a href="#Step-one" class="headerlink" title="Step one"></a>Step one</h1><p>Firstly, i will open the chrome broswer and type in the website of our objective. <a target="_blank" rel="noopener" href="http://www.mafengwo.com/">www.mafengwo.com</a>, then click the <a target="_blank" rel="noopener" href="http://www.mafengwo.cn/mdd/">http://www.mafengwo.cn/mdd/</a> site, you will see the <img src="http://p659fi1z8.bkt.clouddn.com/pic_1.jpg" alt="pic_1">, our destination is the Mount Emei, so i click the 峨眉山, then we get into <a target="_blank" rel="noopener" href="http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10143.html">http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10143.html</a>, yes, it’s the website we needed. In the process of fethcing the data, i think that, to fetch the hotel data is the most difficult, so i choose this part to do a favor. You should broswer the <a target="_blank" rel="noopener" href="http://www.mafengwo.cn/hotel/10143/?sFrom=mdd">http://www.mafengwo.cn/hotel/10143/?sFrom=mdd</a>, and you will find it’s something interesting there, because the price of hotle is shown on the screen.</p>
+<h1 id="Step-two"><a href="#Step-two" class="headerlink" title="Step two"></a>Step two</h1><p>Click the right button of mounse, open the check, then go to the network tab, press the preserver log item, just as follows:<br>then you should reload the website, go into the source tab and press top, right click the top button, choose search in all files, then input ‘getSign’, just as <img src="http://p659fi1z8.bkt.clouddn.com/pic_2.jpg" alt="pic_2">. Use the debuger function of chrome. You can find the return value, it’s md5 encryption, use the dict and str content to generate the salt, then use get method to transmit the parameters to host.</p>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2018/09/17/Use_Navicat_to_connect_the_MySQL_in_JD_Cloud/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -636,123 +747,10 @@
   
   
 
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2018/09/03/Machine_Learning_day_04/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Albert King">
-      <meta itemprop="description" content="请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Data Science">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2018/09/03/Machine_Learning_day_04/" class="post-title-link" itemprop="url">Machine_Learning_day_04</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-
-              <time title="Created: 2018-09-03 09:18:52" itemprop="dateCreated datePublished" datetime="2018-09-03T09:18:52+08:00">2018-09-03</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-01-02 03:02:58" itemprop="dateModified" datetime="2019-01-02T03:02:58+08:00">2019-01-02</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-folder"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Machine-Learning/" itemprop="url" rel="index"><span itemprop="name">Machine Learning</span></a>
-                </span>
-            </span>
-
-          
-            <span id="/2018/09/03/Machine_Learning_day_04/" class="post-meta-item leancloud_visitors" data-flag-title="Machine_Learning_day_04" title="Views">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-eye"></i>
-              </span>
-              <span class="post-meta-item-text">Views: </span>
-              <span class="leancloud-visitors-count"></span>
-            </span>
-  
-  <span class="post-meta-item">
-    
-      <span class="post-meta-item-icon">
-        <i class="far fa-comment"></i>
-      </span>
-      <span class="post-meta-item-text">Valine: </span>
-    
-    <a title="valine" href="/2018/09/03/Machine_Learning_day_04/#valine-comments" itemprop="discussionUrl">
-      <span class="post-comments-count valine-comment-count" data-xid="/2018/09/03/Machine_Learning_day_04/" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
-  <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="far fa-file-word"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>1k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="far fa-clock"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>1 mins.</span>
-            </span>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="Logistic-Regression"><a href="#Logistic-Regression" class="headerlink" title="Logistic Regression"></a>Logistic Regression</h1><h2 id="What-is-logistic-Regression"><a href="#What-is-logistic-Regression" class="headerlink" title="What is logistic Regression"></a>What is logistic Regression</h2><p>Logistic regression is used for a different class of problems known as classification problems. Here the aim is to predict the group to which the current object under observation belongs to. It gives you a discrete binary outcome between 0 and 1. A simple example would be whether a person will vote or not in upcoming elections.</p>
-<h2 id="How-does-it-work"><a href="#How-does-it-work" class="headerlink" title="How does it work?"></a>How does it work?</h2><p>Logistic Regression measures the relationship between the dependent variable(our label, what we want to predict) and the one or more independent variables(our features), by estimating probabilities using it’s underlying logistic function.</p>
-<h2 id="Making-Predictions"><a href="#Making-Predictions" class="headerlink" title="Making Predictions"></a>Making Predictions</h2><p>These probabilities must then be transformed into binary values in order to actually make a prediction. This is the task of the logistic function, also called the sigmoid function. This values between 0 and 1 will then be transformed into either 0 or 1 using a threshold classifier.</p>
-<h2 id="Logistic-vs-Linear"><a href="#Logistic-vs-Linear" class="headerlink" title="Logistic vs Linear"></a>Logistic vs Linear</h2><p>Logistic regression gives you a discrete outcome but linear regression gives a continuous outcome.</p>
-<h2 id="Sigmoid-Function"><a href="#Sigmoid-Function" class="headerlink" title="Sigmoid Function"></a>Sigmoid Function</h2><p>The Sigmoid-Function is an S-shaped curve that can take any real-valued number and map it into a value between the range of 0 and 1, ==but never exactly at those limits==.</p>
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
 
   
   <nav class="pagination">
-    <a class="extend prev" rel="prev" href="/page/8/"><i class="fa fa-angle-left" aria-label="Previous page"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/8/">8</a><span class="page-number current">9</span><a class="page-number" href="/page/10/">10</a><span class="space">&hellip;</span><a class="page-number" href="/page/16/">16</a><a class="extend next" rel="next" href="/page/10/"><i class="fa fa-angle-right" aria-label="Next page"></i></a>
+    <a class="extend prev" rel="prev" href="/page/8/"><i class="fa fa-angle-left" aria-label="Previous page"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/8/">8</a><span class="page-number current">9</span><a class="page-number" href="/page/10/">10</a><span class="space">&hellip;</span><a class="page-number" href="/page/17/">17</a><a class="extend next" rel="next" href="/page/10/"><i class="fa fa-angle-right" aria-label="Next page"></i></a>
   </nav>
 
 
@@ -818,7 +816,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">80</span>
+          <span class="site-state-item-count">81</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
