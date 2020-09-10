@@ -4,8 +4,7 @@ date: 2020-09-10 14:09:52
 tags: [Stock]
 categories: [Finance]
 ---
-
-{% chart 90% 300 %}
+{% chart 90% 300%}
     {
     type: 'line',
     data: {
@@ -24,5 +23,5 @@ categories: [Finance]
         text: 'Chart.js Line Chart'
         }
     }
-}
+    }
 {% endchart %}
