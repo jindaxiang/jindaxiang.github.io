@@ -165,6 +165,139 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2018/09/17/Use_Navicat_to_connect_the_MySQL_in_JD_Cloud/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Albert King">
+      <meta itemprop="description" content="请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Data Science">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2018/09/17/Use_Navicat_to_connect_the_MySQL_in_JD_Cloud/" class="post-title-link" itemprop="url">Use_Navicat_to_connect_the_MySQL_in_JD_Cloud</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2018-09-17 16:09:52" itemprop="dateCreated datePublished" datetime="2018-09-17T16:09:52+08:00">2018-09-17</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2019-01-02 03:02:58" itemprop="dateModified" datetime="2019-01-02T03:02:58+08:00">2019-01-02</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Linux/" itemprop="url" rel="index"><span itemprop="name">Linux</span></a>
+                </span>
+                  , 
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Linux/MySQL/" itemprop="url" rel="index"><span itemprop="name">MySQL</span></a>
+                </span>
+                  , 
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Linux/MySQL/Navicat/" itemprop="url" rel="index"><span itemprop="name">Navicat</span></a>
+                </span>
+            </span>
+
+          
+            <span id="/2018/09/17/Use_Navicat_to_connect_the_MySQL_in_JD_Cloud/" class="post-meta-item leancloud_visitors" data-flag-title="Use_Navicat_to_connect_the_MySQL_in_JD_Cloud" title="Views">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">Views: </span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine: </span>
+    
+    <a title="valine" href="/2018/09/17/Use_Navicat_to_connect_the_MySQL_in_JD_Cloud/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2018/09/17/Use_Navicat_to_connect_the_MySQL_in_JD_Cloud/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>1.2k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>1 mins.</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h1 id="Use-Navicat-to-connect-the-MySQL-in-JD-Cloud-involved-the-Ubuntu16-04-LTS-system"><a href="#Use-Navicat-to-connect-the-MySQL-in-JD-Cloud-involved-the-Ubuntu16-04-LTS-system" class="headerlink" title="Use Navicat to connect the MySQL in JD Cloud involved the Ubuntu16.04 LTS system"></a>Use Navicat to connect the MySQL in JD Cloud involved the Ubuntu16.04 LTS system</h1><p>Select ubuntu 16.04 LTS system.<br>username: root<br>password: —-<br>to login the webserver</p>
+<p>Ubuntu Console type in:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">apt-get update</span><br><span class="line">apt-get install mysql-server</span><br><span class="line">apt-get install mysql-client</span><br><span class="line">apt-get install libmysqlclient-dev</span><br></pre></td></tr></table></figure>
+<p>Ubuntu Console type in:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">mysql –V</span><br><span class="line">service mysql start</span><br><span class="line">service mysql stop</span><br><span class="line">service mysql status</span><br><span class="line">service mysql restart</span><br></pre></td></tr></table></figure>
+<p>navicat remote connect mysql:<br><a target="_blank" rel="noopener" href="https://blog.csdn.net/qq_38660693/article/details/81771993">blog</a></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">sudo netstat -tap | grep mysql</span><br><span class="line">&#x2F;etc&#x2F;init.d&#x2F;mysql restart</span><br><span class="line">mysql -u root -p</span><br><span class="line">sudo vim &#x2F;etc&#x2F;mysql&#x2F;mysql.conf.d&#x2F;mysqld.cnf</span><br></pre></td></tr></table></figure>
+<p>Look at the first row: The mysql database server configutation file: you should find <strong>bind-address = 127.0.0.1</strong> and add <strong>#</strong> in front of the command. </p>
+<p>You should find the ↓ tap in your keyboard and press <strong>i</strong> key. at the bottom of the file, you will find <strong>INSERT</strong> then you can insert <strong>#</strong> to comment the command. </p>
+<p>When you finish the process, you press the <strong>ESC</strong> and press <strong>wq!</strong> restore the result.</p>
+<p>Then you should restart the server of MySQL</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#x2F;etc&#x2F;init.d&#x2F;mysql restart</span><br><span class="line">netstat -an |grep 3306</span><br><span class="line">sudo service mysql start</span><br><span class="line">sudo service mysql status</span><br></pre></td></tr></table></figure>
+<p>if can not resolve your problem, you can try this methods.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">vim &#x2F;etc&#x2F;mysql&#x2F;mysql.conf.d&#x2F;mysqld.cnf</span><br></pre></td></tr></table></figure>
+<p>add this command in the last line of the mysqld.cnf file</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">skip-name-resolve</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>Source: <a target="_blank" rel="noopener" href="https://blog.csdn.net/WuZuoDingFeng/article/details/54638999">https://blog.csdn.net/WuZuoDingFeng/article/details/54638999</a></p>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2018/09/05/Win10_s1_day01_topic_skills_delete_chrome/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -616,118 +749,6 @@
   
   
 
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2018/08/24/PyCharm_skill_day_01/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Albert King">
-      <meta itemprop="description" content="请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Data Science">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2018/08/24/PyCharm_skill_day_01/" class="post-title-link" itemprop="url">PyCharm_skill_day_01</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-
-              <time title="Created: 2018-08-24 12:07:12" itemprop="dateCreated datePublished" datetime="2018-08-24T12:07:12+08:00">2018-08-24</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-01-02 03:02:58" itemprop="dateModified" datetime="2019-01-02T03:02:58+08:00">2019-01-02</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-folder"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/PyCharm/" itemprop="url" rel="index"><span itemprop="name">PyCharm</span></a>
-                </span>
-            </span>
-
-          
-            <span id="/2018/08/24/PyCharm_skill_day_01/" class="post-meta-item leancloud_visitors" data-flag-title="PyCharm_skill_day_01" title="Views">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-eye"></i>
-              </span>
-              <span class="post-meta-item-text">Views: </span>
-              <span class="leancloud-visitors-count"></span>
-            </span>
-  
-  <span class="post-meta-item">
-    
-      <span class="post-meta-item-icon">
-        <i class="far fa-comment"></i>
-      </span>
-      <span class="post-meta-item-text">Valine: </span>
-    
-    <a title="valine" href="/2018/08/24/PyCharm_skill_day_01/#valine-comments" itemprop="discussionUrl">
-      <span class="post-comments-count valine-comment-count" data-xid="/2018/08/24/PyCharm_skill_day_01/" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
-  <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="far fa-file-word"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>191</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="far fa-clock"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>1 mins.</span>
-            </span>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="PyCharm-multiple-code-indent-and-left-moving"><a href="#PyCharm-multiple-code-indent-and-left-moving" class="headerlink" title="PyCharm multiple code indent and left moving"></a>PyCharm multiple code indent and left moving</h1><ol>
-<li>select the code line or block and press ==tab== key, you can indent the code line or block</li>
-<li>select the code line or block and press ==shift + tab== , you can left moving the code line or block</li>
-</ol>
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
 
   
   <nav class="pagination">
@@ -797,7 +818,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">79</span>
+          <span class="site-state-item-count">80</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
