@@ -1,9 +1,16 @@
 ---
-title: Chart Demo
+title: 在 Hexo 中插入 Chart 动态图表
 date: 2020-09-10 14:09:52
-tags: [Stock]
-categories: [Finance]
+tags: [Hexo]
+categories: [JavaScript]
 ---
+
+# Reference
+
+[Visit here](https://shen-yu.gitee.io/2020/chartjs/)
+
+# Demo here
+
 {% chart 90% 300%}
     {
     type: 'line',
