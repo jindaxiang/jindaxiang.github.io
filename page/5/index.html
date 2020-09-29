@@ -165,6 +165,145 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2019/09/14/System_install/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Albert King">
+      <meta itemprop="description" content="请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Data Science">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2019/09/14/System_install/" class="post-title-link" itemprop="url">Install OS in Deeping Learning Machine</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2019-09-14 18:00:52" itemprop="dateCreated datePublished" datetime="2019-09-14T18:00:52+08:00">2019-09-14</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2019-09-15 18:03:17" itemprop="dateModified" datetime="2019-09-15T18:03:17+08:00">2019-09-15</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/System/" itemprop="url" rel="index"><span itemprop="name">System</span></a>
+                </span>
+            </span>
+
+          
+            <span id="/2019/09/14/System_install/" class="post-meta-item leancloud_visitors" data-flag-title="Install OS in Deeping Learning Machine" title="Views">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">Views: </span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine: </span>
+    
+    <a title="valine" href="/2019/09/14/System_install/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2019/09/14/System_install/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>600</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>1 mins.</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h1 id="深度学习服务器重装系统记录"><a href="#深度学习服务器重装系统记录" class="headerlink" title="深度学习服务器重装系统记录"></a>深度学习服务器重装系统记录</h1><h2 id="配置介绍"><a href="#配置介绍" class="headerlink" title="配置介绍"></a>配置介绍</h2><ol>
+<li>CPU: E5 2620 V4</li>
+<li>Memory: 100G</li>
+<li>Nvidia: 1080Ti * 2</li>
+</ol>
+<h2 id="安装系统"><a href="#安装系统" class="headerlink" title="安装系统"></a>安装系统</h2><ol>
+<li>下载UltralISO试用版：<a target="_blank" rel="noopener" href="https://cn.ultraiso.net/">https://cn.ultraiso.net/</a></li>
+<li>安装</li>
+<li>下载win10最新镜像：<a target="_blank" rel="noopener" href="https://msdn.itellyou.cn/">https://msdn.itellyou.cn/</a></li>
+<li>打开UltralISO，点击-继续试用</li>
+<li>文件-打开-win10镜像的路径</li>
+<li>启动-写入硬盘镜像</li>
+<li>模型参数 HDD+</li>
+<li>注意U盘会被格式化，写入很快，记得用指定U盘，有些识别不了</li>
+<li>因为默认格式化会用Fat32格式，不支持大于4G的文件，所以需要调整</li>
+<li>此时 cmd 打开，输入：convert f: /fs:NTFS （F盘为我的U盘所在盘符）</li>
+<li>解压打开镜像文件，找到Sources目录下的install.wim文件，复制到对应的U盘目录下。</li>
+<li>U盘安装制作完成</li>
+<li>在系统BIOS选择DUAL 或者 UEFI 都可以，模型UEFI启动，速度快，支持2T以上硬盘，参考：<a target="_blank" rel="noopener" href="http://baijiahao.baidu.com/s?id=1596082869749554401&amp;wfr=spider&amp;for=pc">http://baijiahao.baidu.com/s?id=1596082869749554401&amp;wfr=spider&amp;for=pc</a></li>
+<li>关于硬盘分区：<a target="_blank" rel="noopener" href="https://zhidao.baidu.com/question/2056165228240621947.html">https://zhidao.baidu.com/question/2056165228240621947.html</a></li>
+<li>安装如下必须软件</li>
+</ol>
+<ul>
+<li>Office 2019</li>
+<li>Notepad++</li>
+<li>Pycharm pro</li>
+<li>Anaconda3</li>
+<li>7zip</li>
+<li>迅雷，取消自动</li>
+<li>百度云盘</li>
+</ul>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2019/07/20/About_kechuangban/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -658,114 +797,6 @@
   
   
 
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2019/01/29/Pdf-Futures-Data-Source-and-Fetch/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Albert King">
-      <meta itemprop="description" content="请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Data Science">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2019/01/29/Pdf-Futures-Data-Source-and-Fetch/" class="post-title-link" itemprop="url">Futures Data Source and Fetch</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-
-              <time title="Created: 2019-01-29 16:09:52" itemprop="dateCreated datePublished" datetime="2019-01-29T16:09:52+08:00">2019-01-29</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2019-01-30 19:59:14" itemprop="dateModified" datetime="2019-01-30T19:59:14+08:00">2019-01-30</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-folder"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Finance/" itemprop="url" rel="index"><span itemprop="name">Finance</span></a>
-                </span>
-            </span>
-
-          
-            <span id="/2019/01/29/Pdf-Futures-Data-Source-and-Fetch/" class="post-meta-item leancloud_visitors" data-flag-title="Futures Data Source and Fetch" title="Views">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-eye"></i>
-              </span>
-              <span class="post-meta-item-text">Views: </span>
-              <span class="leancloud-visitors-count"></span>
-            </span>
-  
-  <span class="post-meta-item">
-    
-      <span class="post-meta-item-icon">
-        <i class="far fa-comment"></i>
-      </span>
-      <span class="post-meta-item-text">Valine: </span>
-    
-    <a title="valine" href="/2019/01/29/Pdf-Futures-Data-Source-and-Fetch/#valine-comments" itemprop="discussionUrl">
-      <span class="post-comments-count valine-comment-count" data-xid="/2019/01/29/Pdf-Futures-Data-Source-and-Fetch/" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
-  <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="far fa-file-word"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>0</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="far fa-clock"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>1 mins.</span>
-            </span>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <div class="pdfobject-container" data-target="https://jfds.nos-eastchina1.126.net/finance/2019-01-30-%E6%9C%9F%E8%B4%A7%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90.pdf" data-height="500px"></div>
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
 
   
   <nav class="pagination">
@@ -835,7 +866,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">81</span>
+          <span class="site-state-item-count">82</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -1074,12 +1105,12 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-area"></i>
     </span>
-    <span title="Symbols count total">64k</span>
+    <span title="Symbols count total">68k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">58 mins.</span>
+    <span title="Reading time total">1:01</span>
 </div>
 
         

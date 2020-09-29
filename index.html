@@ -165,6 +165,308 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2020/09/29/Introduction_to_FICC_second/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Albert King">
+      <meta itemprop="description" content="请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Data Science">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2020/09/29/Introduction_to_FICC_second/" class="post-title-link" itemprop="url">Introduction to Fixed-Income Treasury 2020</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+              
+
+              <time title="Created: 2020-09-29 16:00:52 / Modified: 16:30:33" itemprop="dateCreated datePublished" datetime="2020-09-29T16:00:52+08:00">2020-09-29</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Course/" itemprop="url" rel="index"><span itemprop="name">Course</span></a>
+                </span>
+            </span>
+
+          
+            <span id="/2020/09/29/Introduction_to_FICC_second/" class="post-meta-item leancloud_visitors" data-flag-title="Introduction to Fixed-Income Treasury 2020" title="Views">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">Views: </span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine: </span>
+    
+    <a title="valine" href="/2020/09/29/Introduction_to_FICC_second/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2020/09/29/Introduction_to_FICC_second/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>3.7k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>3 mins.</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h1 id="Fixed-Income-Treasury"><a href="#Fixed-Income-Treasury" class="headerlink" title="Fixed-Income Treasury"></a>Fixed-Income Treasury</h1><ul>
+<li>P.S. The course begin at 2020-09-15, thanks for your participation!</li>
+</ul>
+<hr>
+<h2 id="Attention"><a href="#Attention" class="headerlink" title="Attention"></a>Attention</h2><ul>
+<li>Attention: I have put the slides in Chinese at bottom of this page, please download the pdf if you need!</li>
+<li>We will use 固定收益证券-第四版-类承曜 as the main book, click <a target="_blank" rel="noopener" href="https://item.jd.com/12001823.html">here</a> to buy the book</li>
+<li>Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30 pm to 21:05 pm in the X1226 - in the xipu campus of southwest jiaotong university.</li>
+<li>This is the syllabus for the August 2020 iteration of the course. </li>
+<li>You can download the book <a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/the_handbook_of_fixed_income_securities.pdf">Fixed Income Securities 7th</a> written by Frank J. Fabozzi.</li>
+<li>You can download the other materials about author from the <a target="_blank" rel="noopener" href="https://www.edhec.edu/en/corps-professoral-et-chercheurs/fabozzi-frank-phd">author’s homepage</a>.</li>
+<li>You can download papers written by author <a target="_blank" rel="noopener" href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=87348">here</a> about this book.</li>
+</ul>
+<hr>
+<h2 id="The-skills-of-FICC"><a href="#The-skills-of-FICC" class="headerlink" title="The skills of FICC"></a>The skills of FICC</h2><ol>
+<li>Programming: Python</li>
+<li>Math: Calculus, Linear Algebra, Probability</li>
+<li>Finance: Finance Market</li>
+</ol>
+<hr>
+<h2 id="Schedule"><a href="#Schedule" class="headerlink" title="Schedule"></a>Schedule</h2><table>
+<thead>
+<tr>
+<th>Event Type</th>
+<th>Date</th>
+<th>Title</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Lecture 1</td>
+<td>Tuesday September 15 <br> 19:30 pm to 21:05 pm</td>
+<td>Introduction</td>
+<td>1. Conclusion about the Financial Engineering(last semester) <br> 2. Introduction to the recent financial events <br> 3. Introduction to the FICC and course zero</td>
+</tr>
+<tr>
+<td>Lecture 2</td>
+<td>Thursday September 22 <br> 19:30 pm to 21:05 pm</td>
+<td>Basic Python Programming for beginners</td>
+<td>1. Install python and install pandas, numpy, matplotlib, akshare and other package <br> 2. Use virtual environment and PyCharm <br> 3. Introduction an example about FICC using Python</td>
+</tr>
+<tr>
+<td>Lecture 3</td>
+<td>Tuesday September 29 <br> 19:30 pm to 21:05 pm</td>
+<td>Bond Fundamentals</td>
+<td>1. What is a bond <br> 2.  International bond market <br> 3. Chinese bond market</td>
+</tr>
+<tr>
+<td>Lecture 4</td>
+<td>Thursday October 13 <br> 19:30 pm to 21:05 pm</td>
+<td>Data scientist using Python: Pandas</td>
+<td>1. Write your first line of code <br> 2. Get the data from API <br> 3. Examples</td>
+</tr>
+<tr>
+<td>Lecture 5</td>
+<td>Tuesday September 10 <br> 19:30 pm to 21:05 pm</td>
+<td>Bond Market and Bond Trading</td>
+<td>1. Types of bond market <br> 2. How to apply for bond <br> 3. Bond rating</td>
+</tr>
+<tr>
+<td>Lecture 6</td>
+<td>Tuesday September 12 <br> 19:30 pm to 21:05 pm</td>
+<td>Data scientist using Pandas and AkShare</td>
+<td>1. Introduction to Pandas <br> 2. Introduction to AkShare<br> 3. Examples: download all data using akshare</td>
+</tr>
+<tr>
+<td>Lecture 7</td>
+<td>Thursday September 17 <br> 19:30 pm to 21:05 pm</td>
+<td>Introduce the bond market and know about the bond market</td>
+<td>1. Kings of market types <br> 2. Issue methods of bond</td>
+</tr>
+<tr>
+<td>Lecture 8</td>
+<td>Tuesday September 19 <br> 19:30 pm to 21:05 pm</td>
+<td>Get the data from the web of website</td>
+<td>1. Analysis the website <br> 2. Introduction to the <a target="_blank" rel="noopener" href="https://2.python-requests.org/en/master/">requests</a> <br> 3. Examples: download the data and save it into local place</td>
+</tr>
+<tr>
+<td>Lecture 9</td>
+<td>Tuesday September 24 <br> 19:30 pm to 21:05 pm</td>
+<td>Learn the price of bond</td>
+<td>1. Pricing of bond <br> 2. Basic knowledge</td>
+</tr>
+<tr>
+<td>Lecture 10</td>
+<td>Thursday September 27 <br> 19:30 pm to 21:05 pm</td>
+<td>Data analysis</td>
+<td>1. Basic data process <br> 2. Examples: process the bond data</td>
+</tr>
+<tr>
+<td>Lecture 13</td>
+<td>Tuesday October 8 <br> 19:30 pm to 21:05 pm</td>
+<td>Update data</td>
+<td>1. Basic data process <br> 2. Examples: update the bond data and calculate the corr</td>
+</tr>
+<tr>
+<td>Lecture 14</td>
+<td>Thursday October 10 <br> 19:30 pm to 21:05 pm</td>
+<td>Data modeling</td>
+<td>1. Basic data modeling <br> 2. Examples: linear regression</td>
+</tr>
+<tr>
+<td>Lecture 15</td>
+<td>Tuesday October 15 <br> 19:30 pm to 21:05 pm</td>
+<td>Update data</td>
+<td>1. Basic data process <br> 2. Examples: update the bond data and calculate the corr</td>
+</tr>
+<tr>
+<td>Lecture 16</td>
+<td>Thursday October 17 <br> 19:30 pm to 21:05 pm</td>
+<td>Review the content we have learned from this class</td>
+<td>Prepare for the article about FICC</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="Homework"><a href="#Homework" class="headerlink" title="Homework"></a>Homework</h2><p>Waiting</p>
+<h3 id="The-Mid-term-Homework"><a href="#The-Mid-term-Homework" class="headerlink" title="The Mid-term Homework"></a>The Mid-term Homework</h3><ol>
+<li>Published: 2020-09-15</li>
+<li>Content: <ol>
+<li>To describe the 327 bond event in Chinese, <a target="_blank" rel="noopener" href="https://baike.baidu.com/item/327%E5%9B%BD%E5%80%BA%E4%BA%8B%E4%BB%B6/4814853?fr=aladdin">reference materials</a> are provided here!</li>
+<li>To download the fundamental bond data from the <a target="_blank" rel="noopener" href="http://zhuce.nafmii.org.cn/fans/publicQuery/manager">website</a> and print the code in paper.</li>
+<li>Give me the paper in the next class.</li>
+</ol>
+</li>
+</ol>
+<p>If all above materials are not sufficient for you, you can find the useful information by yourself.</p>
+<hr>
+<h2 id="Requirement-of-the-Format"><a href="#Requirement-of-the-Format" class="headerlink" title="Requirement of the Format"></a>Requirement of the Format</h2><p><a target="_blank" rel="noopener" href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/docs/FICC_format.docx">Mid-term-Format</a></p>
+<hr>
+<h2 id="The-content-of-the-Mid-term-Exam"><a href="#The-content-of-the-Mid-term-Exam" class="headerlink" title="The content of the Mid-term Exam"></a>The content of the Mid-term Exam</h2><p>Waiting</p>
+<hr>
+<h2 id="The-Final-Exam"><a href="#The-Final-Exam" class="headerlink" title="The Final Exam"></a>The Final Exam</h2><h3 id="Reading-Materials"><a href="#Reading-Materials" class="headerlink" title="Reading Materials"></a>Reading Materials</h3><p>I will put some research articles here or in the attachment</p>
+<h3 id="Requirement"><a href="#Requirement" class="headerlink" title="Requirement"></a>Requirement</h3><p>Write an article about FICC market using empirical method!</p>
+<h3 id="Deadline"><a href="#Deadline" class="headerlink" title="Deadline"></a>Deadline</h3><p><strong>2020-10-17</strong></p>
+<h3 id="Requirements-of-the-Format"><a href="#Requirements-of-the-Format" class="headerlink" title="Requirements of  the Format"></a>Requirements of  the Format</h3><p><a target="_blank" rel="noopener" href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/docs/FICC_format.docx">Final-exam-Format</a></p>
+<hr>
+<h2 id="Attachment"><a href="#Attachment" class="headerlink" title="Attachment"></a>Attachment</h2><table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Click Download to open or download the pdf file</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>第 1 课-绪论</td>
+<td><a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E9%9B%B6%E7%AB%A0-%E7%BB%AA%E8%AE%BA.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第 2 课-Python介绍及环境配置</td>
+<td><a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/class_2/%E5%9B%BA%E5%AE%9A%E6%94%B6%E7%9B%8A%E8%AF%81%E5%88%B8-Python-%E7%AC%AC%E4%BA%8C%E8%AF%BE.png">Class MindMap</a>, <a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/class_2/con_bond.py">Code</a>, <a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/class_2/requirements.txt">Software</a>, <a target="_blank" rel="noopener" href="https://blog.csdn.net/weixin_43715458/article/details/100096496">Anaconda 教程</a>, <a target="_blank" rel="noopener" href="https://blog.csdn.net/AchangeC/article/details/80565466">虚拟环境设置</a>, <a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/class_2/python%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B.pdf">Python MindMap</a></td>
+</tr>
+<tr>
+<td>第 3 课-债券基础知识</td>
+<td><a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第 4 课-Python应用: Pandas</td>
+<td><a target="_blank" rel="noopener" href="https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html">Pandas in 10 mins</a>, <a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/class_4/get_a_stock.py">Tushare Code</a> , <a target="_blank" rel="noopener" href="https://tushare.pro/document/2">Tushare Web Site</a>, <a target="_blank" rel="noopener" href="https://www.liaoxuefeng.com/wiki/1016959663602400">Python Basic in Chinese</a></td>
+</tr>
+<tr>
+<td>第 5 课-债券市场和债券交易</td>
+<td><a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E5%92%8C%E5%80%BA%E5%88%B8%E4%BA%A4%E6%98%93.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第 6 课-Python应用: Pandas&amp;AkShare</td>
+<td><a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/class_6/class_6_demo.py">Class_6_demo</a></td>
+</tr>
+<tr>
+<td>第 7 课-债券市场和债券交易</td>
+<td><a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E5%92%8C%E5%80%BA%E5%88%B8%E4%BA%A4%E6%98%93.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第 8 课-Python应用</td>
+<td><a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/class_7/bond.py">Download</a>, <a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/class_8/get_swjtu.py">Swjtu</a>, <a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/class_8/temp_2.py">Async</a>, <a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/class_8/temp_3.py">Tthread</a></td>
+</tr>
+<tr>
+<td>第 9 课-债券的价格</td>
+<td><a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E4%BB%B7%E6%A0%BC.pdf">Download</a></td>
+</tr>
+<tr>
+<td>第 10 课-Python应用</td>
+<td><a target="_blank" rel="noopener" href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_data_process.py">Download</a></td>
+</tr>
+<tr>
+<td>第 13 课-Python应用</td>
+<td><a target="_blank" rel="noopener" href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_data_process.py">Download</a></td>
+</tr>
+<tr>
+<td>第 14 课-Python应用</td>
+<td><a target="_blank" rel="noopener" href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_d.csv">Data</a>, <a target="_blank" rel="noopener" href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_14/bond_data_process.py">Code</a></td>
+</tr>
+<tr>
+<td>第 15 课-债券属性</td>
+<td><a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%80%BA%E5%88%B8%E7%9A%84%E6%94%B6%E7%9B%8A%E7%8E%87.pdf">债券的收益率</a>, <a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E5%80%BA%E5%88%B8%E4%BB%B7%E6%A0%BC%E6%B3%A2%E5%8A%A8%E6%80%A7%E7%9A%84%E8%A1%A1%E9%87%8F.pdf">债券价格波动性的衡量</a>, <a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/FICC/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%88%A9%E7%8E%87%E6%9C%9F%E9%99%90%E7%BB%93%E6%9E%84.pdf">利率期限结构</a>, <a target="_blank" rel="noopener" href="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/class_15/bond_data_process.py">Code</a></td>
+</tr>
+<tr>
+<td>第 16 课-写作</td>
+<td>债券论文写作</td>
+</tr>
+</tbody></table>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2020/09/10/Chart_demo/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -250,11 +552,11 @@
       
           <h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><p><a target="_blank" rel="noopener" href="https://shen-yu.gitee.io/2020/chartjs/">Visit here</a></p>
 <h1 id="Demo-here"><a href="#Demo-here" class="headerlink" title="Demo here"></a>Demo here</h1><div style="width: 90%;margin: 0 auto">
-    <canvas id="chart6239" style="height: 300px"></canvas>
+    <canvas id="chart4007" style="height: 300px"></canvas>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
 <script type="text/javascript">
-    var ctx = document.getElementById('chart6239').getContext('2d');
+    var ctx = document.getElementById('chart4007').getContext('2d');
     var options = {
 type: 'line',
 data: {
@@ -612,109 +914,6 @@ options: {
   
   
 
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2020/08/03/Pdf-Heterogeneity-in-Retail-Investors/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Albert King">
-      <meta itemprop="description" content="请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Data Science">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2020/08/03/Pdf-Heterogeneity-in-Retail-Investors/" class="post-title-link" itemprop="url">Evidence from Comprehensive Account-Level Trading and Holdings Data</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-              
-
-              <time title="Created: 2020-08-03 16:09:52 / Modified: 18:44:20" itemprop="dateCreated datePublished" datetime="2020-08-03T16:09:52+08:00">2020-08-03</time>
-            </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-folder"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Finance/" itemprop="url" rel="index"><span itemprop="name">Finance</span></a>
-                </span>
-            </span>
-
-          
-            <span id="/2020/08/03/Pdf-Heterogeneity-in-Retail-Investors/" class="post-meta-item leancloud_visitors" data-flag-title="Evidence from Comprehensive Account-Level Trading and Holdings Data" title="Views">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-eye"></i>
-              </span>
-              <span class="post-meta-item-text">Views: </span>
-              <span class="leancloud-visitors-count"></span>
-            </span>
-  
-  <span class="post-meta-item">
-    
-      <span class="post-meta-item-icon">
-        <i class="far fa-comment"></i>
-      </span>
-      <span class="post-meta-item-text">Valine: </span>
-    
-    <a title="valine" href="/2020/08/03/Pdf-Heterogeneity-in-Retail-Investors/#valine-comments" itemprop="discussionUrl">
-      <span class="post-comments-count valine-comment-count" data-xid="/2020/08/03/Pdf-Heterogeneity-in-Retail-Investors/" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
-  <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="far fa-file-word"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>0</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="far fa-clock"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>1 mins.</span>
-            </span>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <div class="pdfobject-container" data-target="https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jfds/pdf/article/Heterogeneity_in_Retail_Investors_Evidence_from_Comprehensive_Account-Level_Trading_and_Holdings_Data.pdf" data-height="500px"></div>
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
 
   
   <nav class="pagination">
@@ -784,7 +983,7 @@ options: {
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">81</span>
+          <span class="site-state-item-count">82</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -1023,12 +1222,12 @@ options: {
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-area"></i>
     </span>
-    <span title="Symbols count total">64k</span>
+    <span title="Symbols count total">68k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">58 mins.</span>
+    <span title="Reading time total">1:01</span>
 </div>
 
         
