@@ -10,8 +10,8 @@ categories: [Course]
 
 ## Attention
 - Attention: I have put the slides in Chinese at bottom of this page, please download the pdf if you need!
-- We will use 固定收益证券-第四版-类承曜 as the main book, click [here](https://item.jd.com/12001823.html) to buy the book
-- Schedule and Syllabus unless otherwise specified the lectures are Thursday 19:30 pm to 21:05 pm in the X1226 - in the xipu campus of southwest jiaotong university.
+- We will use 固定收益证券-第四版-类承曜 as the text book, click [here](https://item.jd.com/12001823.html) to buy the book or download [PDF](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/PDF/%E5%9B%BA%E5%AE%9A%E6%94%B6%E7%9B%8A%E8%AF%81%E5%88%B8-%E7%AC%AC%E4%B8%89%E7%89%88-%E7%B1%BB%E6%89%BF%E6%9B%9C.pdf) of [固定收益证券-第三版-类承曜](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/PDF/%E5%9B%BA%E5%AE%9A%E6%94%B6%E7%9B%8A%E8%AF%81%E5%88%B8-%E7%AC%AC%E4%B8%89%E7%89%88-%E7%B1%BB%E6%89%BF%E6%9B%9C.pdf)
+- Schedule and Syllabus unless otherwise specified the lectures are Tuesday 19:30 pm to 21:05 pm in the X1226 - in the xipu campus of southwest jiaotong university.
 - This is the syllabus for the August 2020 iteration of the course. 
 - You can download the book [Fixed Income Securities 7th](https://jfds.nos-eastchina1.126.net/FICC/the_handbook_of_fixed_income_securities.pdf) written by Frank J. Fabozzi.
 - You can download the other materials about author from the [author's homepage](https://www.edhec.edu/en/corps-professoral-et-chercheurs/fabozzi-frank-phd).
@@ -28,19 +28,19 @@ categories: [Course]
 Event Type | Date | Title | Description
 ---|---|---|---
 Lecture 1 | Tuesday September 15 <br> 19:30 pm to 21:05 pm | Introduction | 1. Conclusion about the Financial Engineering(last semester) <br> 2. Introduction to the recent financial events <br> 3. Introduction to the FICC and course zero
-Lecture 2 | Thursday September 22 <br> 19:30 pm to 21:05 pm | Basic Python Programming for beginners | 1. Install python and install pandas, numpy, matplotlib, akshare and other package <br> 2. Use virtual environment and PyCharm <br> 3. Introduction an example about FICC using Python 
+Lecture 2 | Tuesday September 22 <br> 19:30 pm to 21:05 pm | Basic Python Programming for beginners | 1. Install python and install pandas, numpy, matplotlib, akshare and other package <br> 2. Use virtual environment and PyCharm <br> 3. Introduction an example about FICC using Python 
 Lecture 3 | Tuesday September 29 <br> 19:30 pm to 21:05 pm | Bond Fundamentals | 1. What is a bond <br> 2.  International bond market <br> 3. Chinese bond market
-Lecture 4 | Thursday October 13 <br> 19:30 pm to 21:05 pm | Data scientist using Python: Pandas | 1. Write your first line of code <br> 2. Get the data from API <br> 3. Examples
+Lecture 4 | Tuesday October 13 <br> 19:30 pm to 21:05 pm | Data scientist using Python: Pandas | 1. Write your first line of code <br> 2. Get the data from API <br> 3. Examples
 Lecture 5 | Tuesday September 10 <br> 19:30 pm to 21:05 pm | Bond Market and Bond Trading | 1. Types of bond market <br> 2. How to apply for bond <br> 3. Bond rating
 Lecture 6 | Tuesday September 12 <br> 19:30 pm to 21:05 pm | Data scientist using Pandas and AkShare | 1. Introduction to Pandas <br> 2. Introduction to AkShare<br> 3. Examples: download all data using akshare 
-Lecture 7 | Thursday September 17 <br> 19:30 pm to 21:05 pm | Introduce the bond market and know about the bond market | 1. Kings of market types <br> 2. Issue methods of bond
+Lecture 7 | Tuesday September 17 <br> 19:30 pm to 21:05 pm | Introduce the bond market and know about the bond market | 1. Kings of market types <br> 2. Issue methods of bond
 Lecture 8 | Tuesday September 19 <br> 19:30 pm to 21:05 pm | Get the data from the web of website | 1. Analysis the website <br> 2. Introduction to the [requests](https://2.python-requests.org/en/master/) <br> 3. Examples: download the data and save it into local place
 Lecture 9 | Tuesday September 24 <br> 19:30 pm to 21:05 pm | Learn the price of bond | 1. Pricing of bond <br> 2. Basic knowledge
-Lecture 10 | Thursday September 27 <br> 19:30 pm to 21:05 pm | Data analysis | 1. Basic data process <br> 2. Examples: process the bond data
-Lecture 13 | Tuesday October 8 <br> 19:30 pm to 21:05 pm | Update data | 1. Basic data process <br> 2. Examples: update the bond data and calculate the corr
-Lecture 14 | Thursday October 10 <br> 19:30 pm to 21:05 pm | Data modeling | 1. Basic data modeling <br> 2. Examples: linear regression
-Lecture 15 | Tuesday October 15 <br> 19:30 pm to 21:05 pm | Update data | 1. Basic data process <br> 2. Examples: update the bond data and calculate the corr
-Lecture 16 | Thursday October 17 <br> 19:30 pm to 21:05 pm | Review the content we have learned from this class | Prepare for the article about FICC
+Lecture 10 | Tuesday September 27 <br> 19:30 pm to 21:05 pm | Data analysis | 1. Basic data process <br> 2. Examples: process the bond data
+Lecture 13 | Tuesday October 8 <br> 19:30 pm to 21:05 pm | Update data | 1. Basic data process <br> 2. Examples: update the bond data and calculate 
+Lecture 14 | Tuesday October 10 <br> 19:30 pm to 21:05 pm | Data modeling | 1. Basic data modeling <br> 2. Examples: linear regression
+Lecture 15 | Tuesday October 15 <br> 19:30 pm to 21:05 pm | Update data | 1. Basic data process <br> 2. Examples: update the bond data and calculate 
+Lecture 16 | Tuesday October 17 <br> 19:30 pm to 21:05 pm | Review the content we have learned from this class | Prepare for the article about FICC
 
 ---
 
