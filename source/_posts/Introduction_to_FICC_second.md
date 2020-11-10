@@ -6,6 +6,7 @@ categories: [Course]
 ---
 # Fixed-Income Treasury
 - P.S. The course will begin at 2020-09-15, thanks for your participation!
+- P.S. [Download 1-4 chapter slides](https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/new_slides/1-4.zip)
 ---
 
 ## Attention
