@@ -165,6 +165,110 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2019/09/15/Python_basic/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Albert King">
+      <meta itemprop="description" content="请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Data Science">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2019/09/15/Python_basic/" class="post-title-link" itemprop="url">Python_basic</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+              
+
+              <time title="Created: 2019-09-15 18:00:52 / Modified: 21:35:33" itemprop="dateCreated datePublished" datetime="2019-09-15T18:00:52+08:00">2019-09-15</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Python/" itemprop="url" rel="index"><span itemprop="name">Python</span></a>
+                </span>
+            </span>
+
+          
+            <span id="/2019/09/15/Python_basic/" class="post-meta-item leancloud_visitors" data-flag-title="Python_basic" title="Views">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">Views: </span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine: </span>
+    
+    <a title="valine" href="/2019/09/15/Python_basic/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2019/09/15/Python_basic/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>2k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>2 mins.</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># coding=utf-8</span></span><br><span class="line"><span class="comment"># /usr/bin/env python</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">Author: Albert King</span></span><br><span class="line"><span class="string">date: 2019/9/15 18:27</span></span><br><span class="line"><span class="string">desc: 调用 configparser 模块管理您的 token，防止重要信息外泄；调用 pathlib 模块管理路径；利用 f-strings 管理字符串替换</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="keyword">from</span> pathlib <span class="keyword">import</span> Path  <span class="comment"># 路径管理模块</span></span><br><span class="line"><span class="keyword">import</span> logging  <span class="comment"># 日志管理模块</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> configparser  <span class="comment"># 配置管理模块</span></span><br><span class="line"><span class="keyword">import</span> jqdatasdk <span class="keyword">as</span> jq  <span class="comment"># 聚宽数据接口</span></span><br><span class="line"><span class="keyword">import</span> tushare <span class="keyword">as</span> ts  <span class="comment"># Tushare 数据接口</span></span><br><span class="line"></span><br><span class="line">logger = logging.getLogger()</span><br><span class="line">logger.setLevel(logging.INFO)</span><br><span class="line">logFormatter = <span class="string">&#x27;%(asctime)s - %(user)s - %(levelname)s - %(message)s&#x27;</span></span><br><span class="line">formatter = logging.Formatter(fmt=logFormatter)</span><br><span class="line"></span><br><span class="line">console = logging.StreamHandler()  <span class="comment"># 配置日志输出到控制台</span></span><br><span class="line">console.setLevel(logging.INFO)  <span class="comment"># 设置输出到控制台的最低日志级别</span></span><br><span class="line">console.setFormatter(formatter)  <span class="comment"># 设置格式</span></span><br><span class="line">logger.addHandler(console)</span><br><span class="line"></span><br><span class="line">handler = logging.FileHandler(<span class="string">&#x27;king.log&#x27;</span>, mode=<span class="string">&#x27;w&#x27;</span>)  <span class="comment"># mode=&quot;a&quot;, 为追加文件; mode=&quot;w&quot;, 为擦出后写入文件</span></span><br><span class="line">handler.setLevel(logging.INFO)</span><br><span class="line">handler.setFormatter(formatter)</span><br><span class="line">logger.addHandler(handler)</span><br><span class="line">logger.info(<span class="string">&quot;Begin record&quot;</span>, extra=&#123;<span class="string">&#x27;user&#x27;</span>: <span class="string">&#x27;king&#x27;</span>&#125;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">path_ini = Path(<span class="string">r&#x27;account_info.ini&#x27;</span>)</span><br><span class="line">config = configparser.ConfigParser()</span><br><span class="line">config.read(path_ini)</span><br><span class="line">jq_username = config[<span class="string">&#x27;joinquant&#x27;</span>][<span class="string">&#x27;username&#x27;</span>]</span><br><span class="line">jq_password = config[<span class="string">&#x27;joinquant&#x27;</span>][<span class="string">&#x27;password&#x27;</span>]</span><br><span class="line"></span><br><span class="line">jq.auth(jq_username, jq_password)</span><br><span class="line">jq.get_all_securities()</span><br><span class="line">ts_token = config[<span class="string">&#x27;tushare&#x27;</span>][<span class="string">&#x27;token&#x27;</span>]</span><br><span class="line">pro = ts.pro_api(ts_token)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">data = pro.stock_basic(exchange=<span class="string">&#x27;&#x27;</span>, list_status=<span class="string">&#x27;L&#x27;</span>, fields=<span class="string">&#x27;ts_code,symbol,name,area,industry,list_date&#x27;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> item <span class="keyword">in</span> data[<span class="string">&#x27;ts_code&#x27;</span>][:<span class="number">10</span>]:</span><br><span class="line">    temp_df = pro.daily(ts_code=item, start_date=<span class="string">&#x27;20180701&#x27;</span>, end_date=<span class="string">&#x27;20180718&#x27;</span>)</span><br><span class="line">    temp_df.to_csv(<span class="string">f&#x27;<span class="subst">&#123;item&#125;</span>.csv&#x27;</span>)</span><br><span class="line">    logger.info(<span class="string">f&quot;<span class="subst">&#123;item&#125;</span> finished&quot;</span>, extra=&#123;<span class="string">&#x27;user&#x27;</span>: <span class="string">&#x27;king&#x27;</span>&#125;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">my_name = <span class="string">&quot;jindaxiang&quot;</span></span><br><span class="line">logger.info(<span class="string">f&quot;Finished by <span class="subst">&#123;my_name.upper()&#125;</span>&quot;</span>, extra=&#123;<span class="string">&#x27;user&#x27;</span>: <span class="string">&#x27;daxiang&#x27;</span>&#125;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">with</span> open(<span class="string">&#x27;king.log&#x27;</span>, <span class="string">&#x27;r&#x27;</span>) <span class="keyword">as</span> f:</span><br><span class="line">    print(f.read())</span><br></pre></td></tr></table></figure>
+
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
     <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2019/09/14/System_install/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -682,121 +786,6 @@
   
   
 
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://jindaxiang.github.io/2019/03/09/Useful-Website/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="Albert King">
-      <meta itemprop="description" content="请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Data Science">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2019/03/09/Useful-Website/" class="post-title-link" itemprop="url">Useful Website</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-              
-
-              <time title="Created: 2019-03-09 10:09:52 / Modified: 21:27:51" itemprop="dateCreated datePublished" datetime="2019-03-09T10:09:52+08:00">2019-03-09</time>
-            </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-folder"></i>
-              </span>
-              <span class="post-meta-item-text">In</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Daily/" itemprop="url" rel="index"><span itemprop="name">Daily</span></a>
-                </span>
-            </span>
-
-          
-            <span id="/2019/03/09/Useful-Website/" class="post-meta-item leancloud_visitors" data-flag-title="Useful Website" title="Views">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-eye"></i>
-              </span>
-              <span class="post-meta-item-text">Views: </span>
-              <span class="leancloud-visitors-count"></span>
-            </span>
-  
-  <span class="post-meta-item">
-    
-      <span class="post-meta-item-icon">
-        <i class="far fa-comment"></i>
-      </span>
-      <span class="post-meta-item-text">Valine: </span>
-    
-    <a title="valine" href="/2019/03/09/Useful-Website/#valine-comments" itemprop="discussionUrl">
-      <span class="post-comments-count valine-comment-count" data-xid="/2019/03/09/Useful-Website/" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
-  <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="far fa-file-word"></i>
-              </span>
-                <span class="post-meta-item-text">Symbols count in article: </span>
-              <span>1.1k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="far fa-clock"></i>
-              </span>
-                <span class="post-meta-item-text">Reading time &asymp;</span>
-              <span>1 mins.</span>
-            </span>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <p><img src="https://www.gsb.stanford.edu/sites/gsb/files/styles/1630x_variable/public/resources/huang-goalssteps-1630_1.jpg?itok=s61fdD8u" alt="pic-1"></p>
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>First, welcome to my website for Data Science sharing!<br>This article will share some interesting Data Science related blogs or urls, you can click the underline to go to the objective address.<br>Thanks for your coming!<br>Second, we will offer tips for how to positively learn Python, Finance and Data Science, and may be it will change your lifesytle.</p>
-<h1 id="Academic-Urls"><a href="#Academic-Urls" class="headerlink" title="Academic Urls"></a>Academic Urls</h1><h2 id="Article-Search"><a href="#Article-Search" class="headerlink" title="Article Search"></a>Article Search</h2><p><a target="_blank" rel="noopener" href="http://www.keaipublishing.com/en/journals/the-journal-of-finance-and-data-science/">JFDS</a><br><a target="_blank" rel="noopener" href="https://www.researchgate.net/">ResearchGate</a><br><a target="_blank" rel="noopener" href="http://sci-hub.tw/">Sci-Hub</a><br><a target="_blank" rel="noopener" href="https://www.ssrn.com/en/">SSRN</a><br><a target="_blank" rel="noopener" href="https://www.sciencedirect.com/">ScienceDirect</a><br><a target="_blank" rel="noopener" href="http://www.cnki.net/">知网</a><br><a target="_blank" rel="noopener" href="http://www.91lib.com/">91lib</a><br><a target="_blank" rel="noopener" href="https://scholar.google.com/">Google-Scholar</a><br><a target="_blank" rel="noopener" href="http://dir.scmor.com/">SCMOR</a></p>
-<h2 id="Financial-Academic-Databases"><a href="#Financial-Academic-Databases" class="headerlink" title="Financial Academic Databases"></a>Financial Academic Databases</h2><p><a href="frmba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html">Fama-French</a></p>
-<h2 id="Financial-Package-for-Python"><a href="#Financial-Package-for-Python" class="headerlink" title="Financial Package for Python"></a>Financial Package for Python</h2><p><a target="_blank" rel="noopener" href="https://github.com/bashtage/linearmodels">linearmodels</a></p>
-<h2 id="Financial-Books-for-Python"><a href="#Financial-Books-for-Python" class="headerlink" title="Financial Books for Python"></a>Financial Books for Python</h2><p><a target="_blank" rel="noopener" href="https://www.kevinsheppard.com/Python_for_Econometrics">Python for Econometrics</a></p>
-<h1 id="Finance"><a href="#Finance" class="headerlink" title="Finance"></a>Finance</h1><p><a target="_blank" rel="noopener" href="http://people.stern.nyu.edu/jhasbrou/">Joel Hasbrouck</a> for High Frequency Data<br><a target="_blank" rel="noopener" href="http://www.quantresearch.info/">Marcos López de Prado</a> for AQR<br><a target="_blank" rel="noopener" href="http://apps.olin.wustl.edu/faculty/zhou/">Guofu Zhou</a><br><a target="_blank" rel="noopener" href="http://people.duke.edu/~charvey/new_research.htm">Campbell R. Harvey’s Research Papers</a><br><a target="_blank" rel="noopener" href="http://www.quantresearch.info/Publications.htm">Marcos Lopez de Prado</a><br><a target="_blank" rel="noopener" href="https://www.iijournals.com/">IPR Journals</a><br><a target="_blank" rel="noopener" href="http://www.econometrics-stata.com/">Qiang Chen</a></p>
-<h1 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h1><h2 id="Python-Blogs"><a href="#Python-Blogs" class="headerlink" title="Python Blogs"></a>Python Blogs</h2><p><a target="_blank" rel="noopener" href="https://www.pythoncheatsheet.org/?hmsr=pycourses.com&utm_source=pycourses.com&utm_medium=pycourses.com#Dataclasses">Python Cheatsheet</a><br><a target="_blank" rel="noopener" href="https://pythontips.com/">Python Tips</a><br><a target="_blank" rel="noopener" href="https://www.cnblogs.com/bingabcd/p/6984792.html">Blog of old boy</a><br><a target="_blank" rel="noopener" href="https://www.kawabangga.com/how-to-learn-python">kawabangga</a> for Python Learning Map<br><a target="_blank" rel="noopener" href="https://github.com/Avik-Jain/100-Days-Of-ML-Code">100-Days</a></p>
-<h2 id="Python-for-Web-Design"><a href="#Python-for-Web-Design" class="headerlink" title="Python for Web Design"></a>Python for Web Design</h2><p><a target="_blank" rel="noopener" href="https://simpleisbetterthancomplex.com/">Django Tutorial</a>, <a target="_blank" rel="noopener" href="https://jfds.nos-eastchina1.126.net/django_tutorial.pdf">Chinese Edition</a></p>
-<h1 id="Machine-Learning"><a href="#Machine-Learning" class="headerlink" title="Machine Learning"></a>Machine Learning</h1><p><a target="_blank" rel="noopener" href="http://cs229.stanford.edu/">CS229</a><br><a target="_blank" rel="noopener" href="https://github.com/trekhleb/homemade-machine-learning">homemade-machine-learning</a><br><a target="_blank" rel="noopener" href="https://www.cnblogs.com/pinard/">刘建平Pinard</a><br><a target="_blank" rel="noopener" href="https://www.deeplearning.ai/">Deeplearning.ai</a><br><a target="_blank" rel="noopener" href="https://github.com/dformoso/deeplearning-mindmap">深度学习思维导图</a><br><a target="_blank" rel="noopener" href="https://github.com/scutan90/DeepLearning-500-questions">DeepLearning-500-questions</a><br><a target="_blank" rel="noopener" href="https://mml-book.github.io/">Mathematics for Machine Learning</a><br><a target="_blank" rel="noopener" href="https://mlcourse.ai/">MLcourse</a></p>
-<h1 id="Lifesytle-Tips"><a href="#Lifesytle-Tips" class="headerlink" title="Lifesytle Tips"></a>Lifesytle Tips</h1><p><a target="_blank" rel="noopener" href="https://news.stanford.edu/2018/12/28/resolutions/">Sticking to New Year&rsquo;s resolutions</a></p>
-<h1 id="Software-House"><a href="#Software-House" class="headerlink" title="Software House"></a>Software House</h1><p><a target="_blank" rel="noopener" href="https://mirrors.tuna.tsinghua.edu.cn/">Tsinghua mirrors</a></p>
-<h1 id="National-Natural-Science-Foundation-of-China"><a href="#National-Natural-Science-Foundation-of-China" class="headerlink" title="National Natural Science Foundation of China"></a>National Natural Science Foundation of China</h1><p><a target="_blank" rel="noopener" href="http://ms.nsfc.gov.cn/index.php.html">Management Science</a></p>
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
 
   
   <nav class="pagination">
@@ -866,7 +855,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">82</span>
+          <span class="site-state-item-count">83</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
