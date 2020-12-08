@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Data Science # 站点名
-subtitle: For Finance # 站点副标题
+title: 个人学习记录 # 站点名
+subtitle: 个人学习记录 # 站点副标题
 description: 请关注微信公众号：数据科学实战 E-mail：jindaxiang@163.com # 站点信息简介
 keywords: ML DL DS
 author: Albert King # 站点作者
